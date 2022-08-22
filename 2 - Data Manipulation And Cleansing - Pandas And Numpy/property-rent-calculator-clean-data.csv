@@ -1,0 +1,3726 @@
+,rent,size_m2,property_type,bedrooms,suite,parking,neighborhood
+0,2.550,72,Apartamento ,3,1,2, AGUAS CLARAS
+1,2.400,76,Apartamento ,3,1,1, AGUAS CLARAS
+2,750,48,Apartamento ,2,1,1, VALPARAISO DE GOIAS
+3,2.200,44,Apartamento ,1,1,1, AGUAS CLARAS
+4,1.400,32,Apartamento ,1,1,1, AGUAS CLARAS
+5,5.000,154,Apartamento ,3,1,, ASA SUL
+6,3.800,115,Apartamento ,2,1,, ASA SUL
+7,2.300,55,Apartamento ,2,1,1, AGUAS CLARAS
+8,3.200,53,Apartamento ,1,1,1, ASA NORTE
+9,4.600,50,Apartamento ,1,1,, ASA NORTE
+10,1.900,37,Apartamento ,1,1,, TAGUATINGA
+11,2.300,62,Apartamento ,2,1,1, AGUAS CLARAS
+12,4.600,123,Apartamento ,3,1,1, ASA NORTE
+13,2.600,125,Apartamento ,3,1,1, AGUAS CLARAS
+14,1.400,27,Kitnet ,1,1,, LAGO NORTE
+15,2.100,30,Apartamento ,1,1,, NOROESTE
+16,4.320,101,Apartamento ,3,1,2, GUARA
+17,4.800,137,Apartamento ,3,1,1, ASA NORTE
+18,2.950,66,Apartamento ,2,1,1, GUARA
+19,2.500,58,Apartamento ,2,1,1, AGUAS CLARAS
+20,1.700,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+21,7.950,138,Apartamento ,3,2,2, ASA NORTE
+22,8.500,200,Apartamento ,3,2,2, SUDOESTE
+23,1.200,30,Apartamento ,1,1,, SUDOESTE
+24,850,32,Kitnet ,1,,, LAGO NORTE
+25,3.400,112,Apartamento ,1,1,2, AGUAS CLARAS
+26,1.600,58,Apartamento ,2,1,1, TAGUATINGA
+27,14.500,266,Apartamento ,4,4,4, SUDOESTE
+28,3.000,91,Apartamento ,2,1,, ASA NORTE
+29,410,28,Kitnet ,1,,, GAMA
+30,2.450,62,Apartamento ,2,1,1, AGUAS CLARAS
+31,5.500,160,Apartamento ,3,1,1, ASA SUL
+32,4.800,123,Apartamento ,3,1,, ASA NORTE
+33,3.300,70,Apartamento ,3,1,1, AGUAS CLARAS
+34,2.750,55,Apartamento ,2,1,1, AGUAS CLARAS
+35,4.950,127,Apartamento ,3,1,2, AGUAS CLARAS
+36,4.800,75,Apartamento ,2,1,2, NOROESTE
+37,1.600,72,Apartamento ,3,1,1, GAMA
+38,3.700,146,Apartamento ,3,1,2, AGUAS CLARAS
+39,3.000,90,Apartamento ,2,,, ASA SUL
+40,14.500,245,Apartamento ,4,4,3, ASA SUL
+41,4.200,81,Apartamento ,2,1,2, NOROESTE
+42,3.900,120,Apartamento ,4,1,, ASA NORTE
+43,3.000,48,Apartamento ,1,1,1, ASA SUL
+44,2.600,100,Apartamento ,3,1,, ASA SUL
+45,1.100,25,Kitnet ,1,,, ASA NORTE
+46,1.900,62,Apartamento ,3,,, CRUZEIRO
+47,3.100,96,Apartamento ,3,1,2, AGUAS CLARAS
+48,4.200,126,Apartamento ,3,1,, ASA SUL
+49,6.800,100,Apartamento ,2,2,2, NOROESTE
+50,8.390,105,Apartamento ,2,1,1, ASA SUL
+51,1.000,55,Apartamento ,2,,, CEILANDIA
+52,730,30,Apartamento ,1,,, RIACHO FUNDO
+53,2.400,11,Apartamento ,2,1,1, AGUAS CLARAS
+54,2.500,64,Apartamento ,2,1,1, AGUAS CLARAS
+55,1.400,58,Apartamento ,2,1,, AGUAS CLARAS
+56,1.100,28,Kitnet ,1,,, ASA SUL
+57,3.700,26,Apartamento ,1,1,1, SUDOESTE
+58,1.900,28,Apartamento ,1,1,2, SUDOESTE
+59,8.800,135,Apartamento ,3,1,2, NOROESTE
+60,9.500,302,Apartamento ,3,1,1, ASA SUL
+61,1.800,34,Apartamento ,1,1,1, AGUAS CLARAS
+62,2.600,72,Apartamento ,3,1,1, GUARA
+63,1.300,33,Kitnet ,1,,, PARK SUL
+64,5.600,64,Apartamento ,1,1,1, ASA SUL
+65,4.500,130,Apartamento ,3,1,1, ASA NORTE
+66,2.200,62,Apartamento ,2,1,, LAGO NORTE
+67,2.900,87,Apartamento ,3,1,1, AGUAS CLARAS
+68,2.800,68,Apartamento ,2,,, CRUZEIRO
+69,17.000,160,Apartamento ,3,3,, NOROESTE
+70,8.000,210,Apartamento ,4,1,2, ASA SUL
+71,600,43,Apartamento ,2,1,, VALPARAISO DE GOIAS
+72,11.900,209,Apartamento ,3,1,2, ASA SUL
+73,2.000,59,Apartamento ,1,1,, ASA SUL
+74,70.900,121,Apartamento ,4,2,, SETOR INDUSTRIAL
+75,2.000,36,Apartamento ,1,1,, AGUAS CLARAS
+76,5.500,158,Apartamento ,3,1,1, ASA SUL
+77,4.000,101,Apartamento ,3,1,2, AGUAS CLARAS
+78,5.250,150,Apartamento ,2,2,1, ASA SUL
+79,3.000,57,Apartamento ,2,1,, SUDOESTE
+80,1.000,27,Apartamento ,1,1,, AGUAS CLARAS
+81,8.000,163,Apartamento ,3,1,1, ASA SUL
+82,3.300,101,Apartamento ,3,1,1, AGUAS CLARAS
+83,3.600,142,Apartamento ,3,2,2, AGUAS CLARAS
+84,3.400,76,Apartamento ,3,1,, ASA NORTE
+85,1.500,34,Apartamento ,1,,, ASA SUL
+86,4.600,120,Apartamento ,3,1,1, ASA NORTE
+87,3.300,90,Apartamento ,2,,, ASA SUL
+88,2.000,104,Apartamento ,3,,, GUARA
+89,3.200,70,Apartamento ,3,1,, ASA NORTE
+90,3.200,80,Apartamento ,3,1,1, GUARA
+91,2.200,71,Apartamento ,3,1,1, AGUAS CLARAS
+92,4.800,78,Apartamento ,2,1,2, NOROESTE
+93,15.000,211,Apartamento ,3,3,4, PARK SUL
+94,2.000,70,Apartamento ,2,1,, AGUAS CLARAS
+95,5.400,170,Apartamento ,3,1,1, ASA SUL
+96,1.800,45,Apartamento ,2,,, GUARA
+97,5.500,104,Apartamento ,3,1,2, SUDOESTE
+98,2.650,68,Apartamento ,2,1,, ASA NORTE
+99,6.800,146,Apartamento ,3,2,1, ASA SUL
+100,1.000,48,Apartamento ,2,,, GUARA
+101,9.200,148,Apartamento ,4,2,4, NOROESTE
+102,9.900,232,Apartamento ,4,2,1, ASA SUL
+103,5.400,178,Apartamento ,3,1,, ASA SUL
+104,1.200,30,Apartamento ,1,,, ASA NORTE
+105,1.400,41,Apartamento ,1,1,, AGUAS CLARAS
+106,5.000,139,Apartamento ,3,3,2, AGUAS CLARAS
+107,2.500,103,Apartamento ,3,1,1, AGUAS CLARAS
+108,1.300,24,Kitnet ,1,,, ASA SUL
+109,8.900,164,Apartamento ,4,4,3, NOROESTE
+110,9.500,216,Apartamento ,3,1,2, SUDOESTE
+111,27.500,461,Apartamento ,3,3,4, ASA NORTE
+112,3.600,80,Apartamento ,3,,, ASA SUL
+113,1.300,28,Apartamento ,1,1,1, AGUAS CLARAS
+114,17.000,160,Apartamento ,3,3,3, NOROESTE
+115,1.200,58,Apartamento ,2,1,, GUARA
+116,2.850,31,Apartamento ,1,1,, ASA NORTE
+117,4.500,100,Apartamento ,3,1,2, NOROESTE
+118,700,33,Apartamento ,1,,, SAO SEBASTIAO
+119,2.000,44,Apartamento ,1,1,, AGUAS CLARAS
+120,5.800,157,Apartamento ,3,1,1, ASA SUL
+121,2.950,66,Apartamento ,2,1,1, GUARA
+122,3.950,73,Apartamento ,2,1,2, PARK SUL
+123,2.300,77,Apartamento ,3,,, ASA NORTE
+124,2.800,114,Apartamento ,3,1,, ASA SUL
+125,1.650,61,Apartamento ,2,1,1, AGUAS CLARAS
+126,4.500,95,Apartamento ,4,2,2, AGUAS CLARAS
+127,2.850,90,Apartamento ,3,2,1, AGUAS CLARAS
+128,7.800,155,Apartamento ,4,1,2, ASA NORTE
+129,1.000,34,Apartamento ,1,1,1, TAGUATINGA
+130,5.500,95,Apartamento ,3,1,1, SUDOESTE
+131,7.000,100,Apartamento ,3,1,2, PARK SUL
+132,4.600,75,Apartamento ,2,1,2, NOROESTE
+133,2.800,60,Apartamento ,2,,, SUDOESTE
+134,4.100,68,Apartamento ,2,1,1, SUDOESTE
+135,5.500,154,Apartamento ,3,1,, AGUAS CLARAS
+136,8.000,64,Apartamento ,1,1,1, ASA SUL
+137,2.100,37,Kitnet ,1,1,1, NOROESTE
+138,1.950,74,Apartamento ,3,1,1, SAMAMBAIA
+139,2.700,40,Apartamento ,1,1,1, ASA SUL
+140,6.300,158,Apartamento ,3,1,1, ASA SUL
+141,4.000,123,Apartamento ,3,1,1, ASA NORTE
+142,3.000,80,Apartamento ,3,1,2, GUARA
+143,5.500,144,Apartamento ,4,1,1, ASA NORTE
+144,2.300,58,Apartamento ,2,1,1, GUARA
+145,3.800,220,Apartamento ,4,3,2, VICENTE PIRES
+146,2.000,26,Apartamento ,1,,, ASA NORTE
+147,2.200,52,Apartamento ,2,1,1, AGUAS CLARAS
+148,3.600,120,Apartamento ,3,1,1, ASA SUL
+149,3.900,92,Apartamento ,3,1,1, SUDOESTE
+150,6.800,163,Apartamento ,3,1,, ASA SUL
+151,1.200,45,Apartamento ,2,1,1, CEILANDIA
+152,4.500,70,Apartamento ,2,1,1, NOROESTE
+153,2.450,56,Apartamento ,2,,, SUDOESTE
+154,2.065,41,Apartamento ,1,1,, ASA SUL
+155,700,50,Apartamento ,1,,, SAO SEBASTIAO
+156,2.830,43,Apartamento ,1,1,, AGUAS CLARAS
+157,1.650,38,Apartamento ,1,1,1, AGUAS CLARAS
+158,2.000,63,Apartamento ,1,1,1, LAGO NORTE
+159,4.300,100,Apartamento ,3,1,2, GUARA
+160,1.100,25,Kitnet ,1,1,, SUDOESTE
+161,2.500,80,Apartamento ,2,1,1, AGUAS CLARAS
+162,1.200,37,Apartamento ,1,1,1, AGUAS CLARAS
+163,12.000,209,Apartamento ,4,1,3, ASA SUL
+164,4.200,114,Apartamento ,4,1,2, AGUAS CLARAS
+165,1.800,56,Apartamento ,2,1,1, AGUAS CLARAS
+166,6.500,159,Apartamento ,4,1,1, ASA SUL
+167,2.200,33,Apartamento ,1,1,1, NOROESTE
+168,5.500,91,Apartamento ,3,1,1, SUDOESTE
+169,1.000,30,Kitnet ,1,1,, ASA NORTE
+170,1.850,35,Apartamento ,1,1,1, AGUAS CLARAS
+171,3.500,90,Apartamento ,2,1,1, ASA SUL
+172,5.500,150,Apartamento ,3,1,1, ASA SUL
+173,3.200,75,Apartamento ,3,1,, OCTOGONAL
+174,2.200,34,Apartamento ,1,1,, NOROESTE
+175,5.600,125,Apartamento ,4,1,2, GUARA
+176,6.000,150,Apartamento ,3,1,1, ASA SUL
+177,1.700,48,Apartamento ,1,,, SUDOESTE
+178,3.600,26,Kitnet ,1,1,1, SUDOESTE
+179,2.500,77,Apartamento ,3,,, ASA SUL
+180,710,45,Apartamento ,1,,, GAMA
+181,599,31,Kitnet ,1,,, ASA NORTE
+182,900,45,Apartamento ,2,1,, SAMAMBAIA
+183,3.400,83,Apartamento ,3,1,1, AGUAS CLARAS
+184,3.400,88,Apartamento ,3,1,1, AGUAS CLARAS
+185,8.200,166,Apartamento ,4,2,3, NOROESTE
+186,3.850,119,Apartamento ,3,1,1, ASA NORTE
+187,1.100,37,Apartamento ,1,1,1, TAGUATINGA
+188,5.250,90,Apartamento ,3,1,2, NOROESTE
+189,1.500,35,Kitnet ,1,1,, LAGO NORTE
+190,5.000,167,Apartamento ,2,1,1, ASA NORTE
+191,3.700,26,Kitnet ,1,1,1, SUDOESTE
+192,10.500,221,Apartamento ,4,2,1, ASA SUL
+193,1.200,48,Apartamento ,2,,, SAO SEBASTIAO
+194,4.500,70,Apartamento ,2,2,1, PARK SUL
+195,15.000,211,Apartamento ,3,3,4, PARK SUL
+196,8.200,145,Apartamento ,4,2,3, PARK SUL
+197,6.000,91,Apartamento ,2,1,, GUARA
+198,2.390,32,Apartamento ,1,1,1, NOROESTE
+199,4.500,99,Apartamento ,3,1,1, ASA SUL
+200,8.900,100,Apartamento ,3,1,2, ASA NORTE
+201,3.500,87,Apartamento ,3,1,2, GUARA
+202,900,29,Kitnet ,1,,, ASA NORTE
+203,4.800,130,Apartamento ,3,1,, ASA SUL
+204,4.500,110,Apartamento ,3,1,1, ASA NORTE
+205,12.800,213,Apartamento ,3,3,4, NOROESTE
+206,4.200,157,Apartamento ,4,2,2, AGUAS CLARAS
+207,2.340,48,Apartamento ,1,1,1, TAGUATINGA
+208,2.600,51,Apartamento ,1,1,, ASA SUL
+209,1.100,70,Apartamento ,2,,, SAO SEBASTIAO
+210,1.900,33,Apartamento ,2,,, AGUAS CLARAS
+211,3.200,26,Kitnet ,1,1,1, SUDOESTE
+212,2.250,58,Apartamento ,2,1,1, AGUAS CLARAS
+213,4.200,127,Apartamento ,3,1,1, ASA NORTE
+214,9.000,154,Apartamento ,4,2,2, SUDOESTE
+215,2.400,80,Apartamento ,2,1,2, AGUAS CLARAS
+216,1.500,62,Apartamento ,2,,, SOBRADINHO
+217,13.200,291,Apartamento ,3,2,3, SUDOESTE
+218,4.500,111,Apartamento ,3,1,1, ASA NORTE
+219,4.600,75,Apartamento ,2,1,2, NOROESTE
+220,6.400,143,Apartamento ,3,3,2, AGUAS CLARAS
+221,1.950,57,Apartamento ,2,1,2, AGUAS CLARAS
+222,4.200,73,Apartamento ,2,1,2, PARK SUL
+223,890,26,Kitnet ,1,1,1, SUDOESTE
+224,3.400,75,Apartamento ,2,1,, ASA NORTE
+225,2.900,102,Apartamento ,3,1,, AGUAS CLARAS
+226,7.000,200,Apartamento ,4,1,2, ASA SUL
+227,900,40,Apartamento ,2,,, GUARA
+228,1.250,64,Apartamento ,2,1,, TAGUATINGA
+229,1.087,33,Kitnet ,1,,, SAMAMBAIA
+230,2.500,63,Apartamento ,2,1,1, AGUAS CLARAS
+231,1.050,31,Kitnet ,1,1,1, ASA NORTE
+232,3.500,78,Apartamento ,1,,, ASA NORTE
+233,3.200,64,Apartamento ,2,1,1, GUARA
+234,1.100,37,Apartamento ,1,,, ASA NORTE
+235,10.190,175,Apartamento ,3,1,1, ASA SUL
+236,3.700,53,Apartamento ,1,1,, ASA NORTE
+237,2.750,53,Apartamento ,2,1,, LAGO NORTE
+238,15.000,211,Apartamento ,4,3,4, PARK SUL
+239,2.800,40,Apartamento ,1,1,1, ASA SUL
+240,6.600,214,Apartamento ,4,2,, ASA SUL
+241,1.900,73,Apartamento ,3,1,1, AGUAS CLARAS
+242,1.700,34,Apartamento ,1,1,, AGUAS CLARAS
+243,3.300,52,Apartamento ,1,2,, ASA SUL
+244,3.400,26,Kitnet ,1,1,1, SUDOESTE
+245,2.350,64,Apartamento ,2,1,1, AGUAS CLARAS
+246,1.900,61,Apartamento ,3,,, CRUZEIRO
+247,2.100,34,Apartamento ,1,1,1, NOROESTE
+248,6.000,166,Apartamento ,4,1,, ASA SUL
+249,4.600,76,Apartamento ,2,1,2, NOROESTE
+250,2.300,72,Apartamento ,3,1,1, GUARA
+251,1.350,60,Apartamento ,3,1,, TAGUATINGA
+252,3.600,141,Apartamento ,3,1,2, AGUAS CLARAS
+253,3.700,160,Apartamento ,3,1,1, ASA NORTE
+254,1.850,63,Apartamento ,3,,, CRUZEIRO
+255,2.950,70,Apartamento ,2,,, ASA NORTE
+256,7.200,172,Apartamento ,3,2,2, SUDOESTE
+257,3.600,130,Apartamento ,3,1,, ASA SUL
+258,2.000,61,Apartamento ,1,1,1, SUDOESTE
+259,1.300,26,Kitnet ,1,1,, SUDOESTE
+260,4.200,103,Apartamento ,2,1,1, ASA NORTE
+261,3.800,94,Apartamento ,3,1,2, AGUAS CLARAS
+262,750,47,Apartamento ,1,1,1, SAMAMBAIA
+263,5.200,75,Apartamento ,2,1,, ASA NORTE
+264,3.700,26,Kitnet ,1,1,1, SUDOESTE
+265,4.500,152,Apartamento ,3,3,2, AGUAS CLARAS
+266,4.850,180,Apartamento ,3,1,1, ASA NORTE
+267,2.000,78,Apartamento ,3,1,, AGUAS CLARAS
+268,4.500,76,Apartamento ,2,1,1, NOROESTE
+269,2.490,68,Apartamento ,2,1,1, AGUAS CLARAS
+270,1.400,51,Apartamento ,2,,, SOBRADINHO
+271,1.420,34,Apartamento ,1,1,1, AGUAS CLARAS
+272,6.800,200,Apartamento ,3,1,2, AGUAS CLARAS
+273,1.900,40,Apartamento ,1,,, ASA SUL
+274,4.200,86,Apartamento ,2,1,1, NOROESTE
+275,1.100,31,Apartamento ,1,1,, AGUAS CLARAS
+276,4.600,120,Apartamento ,3,1,1, ASA SUL
+277,2.490,34,Apartamento ,1,1,, NOROESTE
+278,1.100,37,Apartamento ,1,,, ASA NORTE
+279,1.600,33,Apartamento ,1,1,1, AGUAS CLARAS
+280,850,34,Kitnet ,1,1,, LAGO NORTE
+281,700,50,Apartamento ,2,1,1, VICENTE PIRES
+282,2.100,50,Apartamento ,1,1,1, AGUAS CLARAS
+283,5.500,170,Apartamento ,4,1,1, ASA NORTE
+284,1.750,58,Apartamento ,2,1,1, AGUAS CLARAS
+285,1.200,25,Kitnet ,1,1,, SUDOESTE
+286,2.600,60,Apartamento ,2,1,, ASA NORTE
+287,3.000,77,Apartamento ,2,1,1, SUDOESTE
+288,3.290,41,Apartamento ,1,1,, ASA SUL
+289,9.600,170,Apartamento ,4,2,4, NOROESTE
+290,3.300,82,Apartamento ,3,2,1, AGUAS CLARAS
+291,900,52,Apartamento ,2,,, CEILANDIA
+292,3.000,87,Apartamento ,3,1,2, AGUAS CLARAS
+293,1.555,50,Apartamento ,2,1,, TAGUATINGA
+294,3.900,110,Apartamento ,3,,, ASA SUL
+295,1.500,54,Apartamento ,1,1,, AGUAS CLARAS
+296,2.000,34,Kitnet ,1,1,, AGUAS CLARAS
+297,2.800,57,Apartamento ,2,1,1, AGUAS CLARAS
+298,1.000,48,Apartamento ,2,,, SOBRADINHO
+299,920,35,Kitnet ,1,,, GUARA
+300,1.200,30,Apartamento ,1,1,, AGUAS CLARAS
+301,1.100,27,Kitnet ,1,1,, ASA NORTE
+302,1.000,25,Kitnet ,1,1,, SUDOESTE
+303,3.400,26,Kitnet ,1,1,1, SUDOESTE
+304,4.300,113,Apartamento ,3,1,, ASA SUL
+305,610,32,Apartamento ,1,,, GUARA
+306,3.300,127,Apartamento ,3,1,2, AGUAS CLARAS
+307,800,30,Apartamento ,1,1,, SOBRADINHO
+308,900,28,Apartamento ,1,1,, ASA NORTE
+309,1.400,59,Apartamento ,2,1,, VICENTE PIRES
+310,9.800,97,Apartamento ,2,1,2, ASA NORTE
+311,3.300,104,Apartamento ,3,1,2, AGUAS CLARAS
+312,2.500,56,Apartamento ,2,1,1, GUARA
+313,2.300,62,Apartamento ,2,,, SUDOESTE
+314,2.600,75,Apartamento ,3,,, ASA SUL
+315,1.900,57,Apartamento ,2,1,1, AGUAS CLARAS
+316,2.600,50,Apartamento ,2,1,, LAGO NORTE
+317,2.700,74,Apartamento ,2,1,1, SUDOESTE
+318,1.800,75,Apartamento ,2,1,, ASA SUL
+319,191.900,45,Apartamento ,2,1,, RECANTO DAS EMAS
+320,600,60,Apartamento ,2,1,, VALPARAISO DE GOIAS
+321,1.100,70,Apartamento ,2,1,, SANTA MARIA
+322,800,50,Apartamento ,2,,, NUCLEO BANDEIRANTE
+323,800,33,Kitnet ,1,,, ASA NORTE
+324,2.400,69,Apartamento ,2,,, ASA NORTE
+325,2.000,52,Apartamento ,2,1,1, LAGO NORTE
+326,790,29,Kitnet ,1,,, ASA NORTE
+327,800,30,Kitnet ,1,,, SAMAMBAIA
+328,9.000,275,Apartamento ,3,3,4, NOROESTE
+329,2.400,74,Apartamento ,2,1,1, AGUAS CLARAS
+330,1.750,67,Apartamento ,2,1,1, AGUAS CLARAS
+331,1.600,40,Kitnet ,1,,, ASA NORTE
+332,3.500,48,Apartamento ,1,1,1, ASA SUL
+333,1.550,76,Apartamento ,3,1,1, AGUAS CLARAS
+334,900,25,Kitnet ,1,1,, ASA NORTE
+335,1.800,23,Apartamento ,1,1,, AGUAS CLARAS
+336,700,30,Apartamento ,1,1,, VICENTE PIRES
+337,2.900,66,Apartamento ,2,1,, ASA NORTE
+338,4.500,51,Apartamento ,1,1,, ASA NORTE
+339,2.600,93,Apartamento ,3,1,1, AGUAS CLARAS
+340,990,33,Apartamento ,1,1,1, SUDOESTE
+341,1.850,55,Apartamento ,2,1,, LAGO NORTE
+342,2.400,97,Apartamento ,4,1,1, AGUAS CLARAS
+343,700,40,Apartamento ,1,,, GUARA
+344,1.300,28,Kitnet ,1,1,, ASA SUL
+345,2.900,75,Apartamento ,2,1,, ASA NORTE
+346,2.200,60,Apartamento ,2,1,1, AGUAS CLARAS
+347,3.300,47,Apartamento ,2,1,, NOROESTE
+348,850,28,Apartamento ,1,1,, AGUAS CLARAS
+349,1.300,80,Apartamento ,2,1,, TAGUATINGA
+350,2.900,80,Apartamento ,2,1,1, SUDOESTE
+351,1.100,55,Apartamento ,2,,, CEILANDIA
+352,950,53,Apartamento ,2,,, GUARA
+353,8.500,178,Apartamento ,4,2,1, ASA SUL
+354,750,44,Apartamento ,2,1,, PLANALTINA
+355,2.300,65,Apartamento ,3,2,1, AGUAS CLARAS
+356,1.800,37,Apartamento ,1,1,, ASA NORTE
+357,1.200,70,Apartamento ,2,,, SOBRADINHO
+358,1.950,53,Apartamento ,1,1,1, AGUAS CLARAS
+359,2.800,89,Apartamento ,3,1,, ASA SUL
+360,1.250,58,Apartamento ,2,,, SAMAMBAIA
+361,1.600,26,Kitnet ,1,1,, ASA SUL
+362,2.800,84,Apartamento ,3,,, ASA SUL
+363,800,30,Kitnet ,1,,, SAMAMBAIA
+364,2.900,73,Apartamento ,2,1,, ASA NORTE
+365,3.200,75,Apartamento ,2,1,, ASA SUL
+366,890,30,Apartamento ,1,1,, ASA NORTE
+367,1.500,76,Apartamento ,3,1,1, AGUAS CLARAS
+368,870,62,Apartamento ,2,1,, TAGUATINGA
+369,2.500,44,Apartamento ,1,1,, NOROESTE
+370,1.900,75,Apartamento ,3,1,1, AGUAS CLARAS
+371,1.200,35,Kitnet ,1,,, ASA NORTE
+372,1.800,90,Apartamento ,3,1,, CRUZEIRO
+373,1.500,43,Apartamento ,1,1,, AGUAS CLARAS
+374,900,28,Kitnet ,1,,, ASA NORTE
+375,1.200,30,Apartamento ,1,1,, SUDOESTE
+376,1.000,42,Apartamento ,1,,, ASA NORTE
+377,1.800,32,Apartamento ,1,1,, NOROESTE
+378,3.200,78,Apartamento ,2,1,1, AGUAS CLARAS
+379,2.500,78,Apartamento ,2,,, ASA SUL
+380,800,28,Apartamento ,1,,, ASA NORTE
+381,2.600,100,Apartamento ,2,1,1, SAMAMBAIA
+382,3.600,63,Apartamento ,3,3,1, GUARA
+383,650,50,Apartamento ,1,,, AGUAS CLARAS
+384,9.800,163,Apartamento ,3,1,1, ASA SUL
+385,4.800,82,Apartamento ,2,1,2, NOROESTE
+386,1.190,34,Apartamento ,1,1,, AGUAS CLARAS
+387,1.950,83,Apartamento ,3,1,, GUARA
+388,1.500,60,Apartamento ,2,,, ASA SUL
+389,1.500,27,Kitnet ,1,1,, PARK SUL
+390,3.800,37,Apartamento ,1,1,, ASA NORTE
+391,1.350,80,Apartamento ,2,1,1, CEILANDIA
+392,2.300,60,Apartamento ,2,1,1, AGUAS CLARAS
+393,600,35,Apartamento ,1,,, SAMAMBAIA
+394,4.200,0,Apartamento ,1,1,, ASA NORTE
+395,1.850,52,Apartamento ,2,1,, GUARA
+396,3.000,250,Apartamento ,4,2,, TAGUATINGA
+397,700,60,Apartamento ,2,,, CEILANDIA
+398,2.100,38,Apartamento ,1,1,, TAGUATINGA
+399,2.520,70,Apartamento ,2,1,, GUARA
+400,1.100,60,Apartamento ,2,,, GUARA
+401,1.250,30,Apartamento ,1,,, AGUAS CLARAS
+402,5.000,119,Apartamento ,3,1,1, ASA NORTE
+403,800,80,Apartamento ,3,,, CEILANDIA
+404,600,50,Apartamento ,2,,, GUARA
+405,1.100,30,Apartamento ,1,1,, ASA NORTE
+406,2.000,50,Apartamento ,2,,, ASA SUL
+407,1.200,60,Apartamento ,2,,, VICENTE PIRES
+408,950,22,Kitnet ,1,,, ASA NORTE
+409,2.700,134,Apartamento ,2,2,, SAMAMBAIA
+410,2.900,65,Apartamento ,2,,, ASA NORTE
+411,1.200,36,Apartamento ,1,1,, LAGO NORTE
+412,3.400,26,Kitnet ,1,1,1, SUDOESTE
+413,600,40,Kitnet ,1,,, GUARA
+414,3.500,93,Apartamento ,3,1,1, AGUAS CLARAS
+415,2.100,62,Apartamento ,3,,, CRUZEIRO
+416,2.500,75,Apartamento ,2,,, ASA SUL
+417,2.990,70,Apartamento ,1,1,1, LAGO NORTE
+418,870,60,Kitnet ,1,,, SOBRADINHO
+419,4.200,96,Apartamento ,3,1,1, SUDOESTE
+420,850,60,Apartamento ,2,,, NUCLEO BANDEIRANTE
+421,1.000,60,Apartamento ,2,1,, CEILANDIA
+422,800,35,Apartamento ,1,,, SOBRADINHO
+423,1.100,30,Kitnet ,1,1,, AGUAS CLARAS
+424,2.500,82,Apartamento ,2,1,2, AGUAS CLARAS
+425,3.600,70,Apartamento ,2,,, ASA NORTE
+426,1.499,64,Apartamento ,3,1,, VICENTE PIRES
+427,3.900,95,Apartamento ,3,1,1, SUDOESTE
+428,700,30,Kitnet ,1,,, ASA NORTE
+429,1.400,60,Apartamento ,2,1,, TAGUATINGA
+430,3.200,85,Apartamento ,2,1,1, SUDOESTE
+431,1.000,26,Kitnet ,1,1,1, ASA NORTE
+432,2.200,84,Apartamento ,2,,, ASA NORTE
+433,620,30,Kitnet ,1,1,, GUARA
+434,800,30,Apartamento ,1,,, GUARA
+435,2.200,60,Apartamento ,2,1,1, AGUAS CLARAS
+436,2.800,80,Apartamento ,2,1,, ASA NORTE
+437,2.597,26,Apartamento ,1,1,, SUDOESTE
+438,800,48,Apartamento ,2,1,, VALPARAISO DE GOIAS
+439,3.800,104,Apartamento ,3,1,, ASA SUL
+440,2.250,30,Apartamento ,1,1,2, ASA NORTE
+441,1.800,82,Apartamento ,3,1,, AGUAS CLARAS
+442,1.200,50,Apartamento ,1,,, ASA SUL
+443,4.150,125,Apartamento ,3,1,1, ASA NORTE
+444,1.300,80,Apartamento ,2,1,, VICENTE PIRES
+445,1.100,70,Apartamento ,2,,, SAMAMBAIA
+446,1.320,72,Kitnet ,1,1,, GUARA
+447,1.300,60,Apartamento ,2,1,, AGUAS CLARAS
+448,900,60,Apartamento ,2,,, PLANALTINA
+449,1.550,38,Apartamento ,2,,, GUARA
+450,3.600,82,Apartamento ,3,1,, ASA NORTE
+451,2.300,56,Apartamento ,1,,, CRUZEIRO
+452,2.000,65,Apartamento ,3,1,, GUARA
+453,1.800,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+454,3.800,90,Apartamento ,3,1,1, SUDOESTE
+455,2.400,58,Apartamento ,2,1,1, GUARA
+456,5.900,140,Apartamento ,4,2,2, SUDOESTE
+457,1.200,25,Apartamento ,1,1,, ASA NORTE
+458,1.100,33,Apartamento ,1,1,1, AGUAS CLARAS
+459,800,30,Kitnet ,1,,, ASA NORTE
+460,900,27,Apartamento ,1,,, LAGO NORTE
+461,2.000,34,Apartamento ,1,1,, NOROESTE
+462,1.000,38,Kitnet ,1,1,, ASA NORTE
+463,1.150,50,Apartamento ,2,1,, TAGUATINGA
+464,2.400,80,Apartamento ,2,1,1, AGUAS CLARAS
+465,5.500,160,Apartamento ,4,4,3, AGUAS CLARAS
+466,1.650,38,Apartamento ,1,1,1, AGUAS CLARAS
+467,1.250,55,Apartamento ,2,2,, NUCLEO BANDEIRANTE
+468,950,58,Apartamento ,2,,, GUARA
+469,1.500,31,Apartamento ,1,1,1, AGUAS CLARAS
+470,900,45,Apartamento ,2,1,, VALPARAISO DE GOIAS
+471,2.900,69,Apartamento ,2,1,, OCTOGONAL
+472,550,20,Apartamento ,1,,, GUARA
+473,850,60,Apartamento ,2,1,, RIACHO FUNDO
+474,2.700,63,Apartamento ,2,1,1, AGUAS CLARAS
+475,1.600,30,Apartamento ,1,1,, LAGO NORTE
+476,1.300,55,Apartamento ,2,1,, TAGUATINGA
+477,1.300,48,Apartamento ,2,,, JARDINS MANGUEIRAL
+478,8.000,96,Apartamento ,2,1,1, ASA NORTE
+479,1.300,40,Apartamento ,1,,, TAGUATINGA
+480,790,48,Apartamento ,1,,, RECANTO DAS EMAS
+481,17.000,160,Apartamento ,3,3,3, NOROESTE
+482,3.500,53,Apartamento ,2,1,, NOROESTE
+483,2.500,70,Apartamento ,2,1,1, AGUAS CLARAS
+484,680,29,Apartamento ,1,,, RIACHO FUNDO
+485,10.500,205,Apartamento ,4,4,2, ASA NORTE
+486,1.250,30,Kitnet ,1,1,, SUDOESTE
+487,1.200,23,Apartamento ,1,,, ASA SUL
+488,950,50,Apartamento ,2,1,1, RIACHO FUNDO
+489,2.100,65,Apartamento ,2,,, SUDOESTE
+490,1.000,58,Apartamento ,2,1,, JARDINS MANGUEIRAL
+491,2.650,70,Apartamento ,2,,, SUDOESTE
+492,750,31,Kitnet ,1,1,, RIACHO FUNDO
+493,1.100,46,Apartamento ,1,1,, GUARA
+494,2.850,67,Apartamento ,2,,, ASA SUL
+495,650,30,Kitnet ,1,,, GUARA
+496,1.000,29,Apartamento ,1,1,, AGUAS CLARAS
+497,900,37,Apartamento ,1,,, GUARA
+498,800,32,Apartamento ,1,1,, TAGUATINGA
+499,3.300,82,Apartamento ,3,1,, SUDOESTE
+500,1.400,50,Apartamento ,2,1,, GUARA
+501,2.300,65,Apartamento ,1,1,1, AGUAS CLARAS
+502,1.650,65,Apartamento ,2,,, GUARA
+503,1.350,64,Apartamento ,3,1,1, SANTA MARIA
+504,3.900,127,Apartamento ,3,1,2, AGUAS CLARAS
+505,1.500,44,Apartamento ,2,1,, CEILANDIA
+506,2.700,91,Apartamento ,3,1,1, AGUAS CLARAS
+507,1.400,50,Apartamento ,2,1,, TAGUATINGA
+508,4.100,87,Apartamento ,3,1,1, SUDOESTE
+509,2.500,60,Apartamento ,1,1,1, LAGO NORTE
+510,920,30,Kitnet ,1,1,1, CRUZEIRO
+511,3.300,97,Apartamento ,4,3,2, AGUAS CLARAS
+512,2.800,68,Apartamento ,2,1,2, AGUAS CLARAS
+513,4.200,98,Apartamento ,3,1,1, SUDOESTE
+514,6.800,120,Apartamento ,3,1,, NOROESTE
+515,1.500,75,Apartamento ,1,1,1, LAGO NORTE
+516,4.500,75,Apartamento ,2,1,1, NOROESTE
+517,5.500,163,Apartamento ,3,1,1, ASA SUL
+518,3.000,64,Apartamento ,1,1,1, ASA SUL
+519,1.000,50,Apartamento ,1,,, TAGUATINGA
+520,1.900,66,Apartamento ,2,1,, AGUAS CLARAS
+521,1.000,30,Apartamento ,1,1,, LAGO NORTE
+522,12.000,209,Apartamento ,4,1,2, ASA SUL
+523,1.000,45,Kitnet ,1,1,, TAGUATINGA
+524,800,35,Apartamento ,1,,, TAGUATINGA
+525,6.000,134,Apartamento ,3,1,1, ASA NORTE
+526,900,50,Apartamento ,1,1,, GUARA
+527,8.000,127,Apartamento ,3,1,2, NOROESTE
+528,1.300,42,Apartamento ,1,1,, AGUAS CLARAS
+529,9.500,172,Apartamento ,4,2,4, NOROESTE
+530,700,24,Kitnet ,1,,, NUCLEO BANDEIRANTE
+531,900,43,Apartamento ,2,1,, PLANALTINA
+532,5.200,120,Apartamento ,4,1,1, ASA NORTE
+533,5.500,98,Apartamento ,3,1,1, ASA NORTE
+534,1.100,49,Apartamento ,2,1,1, SAMAMBAIA
+535,1.100,33,Apartamento ,1,1,1, GUARA
+536,650,31,Apartamento ,1,1,, TAGUATINGA
+537,3.000,95,Apartamento ,3,1,1, OCTOGONAL
+538,1.050,47,Kitnet ,1,,, ASA NORTE
+539,1.600,43,Apartamento ,2,,, AGUAS CLARAS
+540,800,33,Kitnet ,1,,, AGUAS CLARAS
+541,3.000,50,Apartamento ,1,,, NOROESTE
+542,1.400,69,Apartamento ,2,1,, TAGUATINGA
+543,2.000,80,Apartamento ,3,1,1, AGUAS CLARAS
+544,1.500,26,Apartamento ,1,1,, PARK SUL
+545,600,30,Apartamento ,1,,, TAGUATINGA
+546,700,30,Apartamento ,1,,, GUARA
+547,700,35,Apartamento ,1,1,, GUARA
+548,3.400,26,Apartamento ,1,1,1, SUDOESTE
+549,3.350,110,Apartamento ,3,1,, ASA SUL
+550,650,23,Kitnet ,1,,, NUCLEO BANDEIRANTE
+551,2.150,33,Apartamento ,1,1,, AGUAS CLARAS
+552,1.900,51,Apartamento ,2,,, ASA NORTE
+553,1.500,27,Kitnet ,1,1,, SUDOESTE
+554,1.620,78,Apartamento ,3,1,, GUARA
+555,6.600,158,Apartamento ,3,1,1, ASA SUL
+556,1.500,50,Apartamento ,2,1,, TAGUATINGA
+557,1.250,68,Apartamento ,2,1,, GAMA
+558,2.500,39,Apartamento ,1,1,, NOROESTE
+559,1.400,0,Apartamento ,2,1,, GAMA
+560,1.300,30,Apartamento ,1,1,, AGUAS CLARAS
+561,1.100,33,Apartamento ,1,,, ASA NORTE
+562,650,50,Apartamento ,2,,, SAMAMBAIA
+563,950,28,Kitnet ,1,1,, ASA NORTE
+564,750,27,Apartamento ,1,1,, TAGUATINGA
+565,1.500,40,Apartamento ,1,1,, AGUAS CLARAS
+566,480,40,Kitnet ,1,1,, TAGUATINGA
+567,5.000,80,Apartamento ,2,2,2, NOROESTE
+568,1.500,59,Apartamento ,2,1,1, CEILANDIA
+569,2.800,57,Apartamento ,2,1,, LAGO NORTE
+570,5.000,198,Apartamento ,4,1,1, OCTOGONAL
+571,900,50,Apartamento ,2,1,, CEILANDIA
+572,4.190,122,Apartamento ,4,2,2, AGUAS CLARAS
+573,1.650,30,Apartamento ,1,1,1, ASA NORTE
+574,1.800,44,Apartamento ,2,2,, LAGO SUL
+575,900,43,Apartamento ,2,1,, SAMAMBAIA
+576,1.800,53,Apartamento ,2,1,1, AGUAS CLARAS
+577,700,18,Kitnet ,1,,, ASA NORTE
+578,5.500,178,Apartamento ,3,1,2, AGUAS CLARAS
+579,4.000,107,Apartamento ,3,1,, SUDOESTE
+580,1.350,32,Apartamento ,1,1,, AGUAS CLARAS
+581,800,27,Apartamento ,1,,, ASA NORTE
+582,2.000,65,Apartamento ,2,,, SUDOESTE
+583,950,55,Apartamento ,2,1,, RIACHO FUNDO
+584,650,30,Apartamento ,1,1,, CEILANDIA
+585,3.000,26,Apartamento ,1,1,, SUDOESTE
+586,660,40,Apartamento ,1,,, GUARA
+587,4.700,110,Apartamento ,3,1,1, ASA NORTE
+588,1.500,54,Apartamento ,2,1,, TAGUATINGA
+589,4.300,160,Apartamento ,3,1,, ASA SUL
+590,13.000,227,Apartamento ,4,,, ASA SUL
+591,750,28,Kitnet ,1,1,, ASA NORTE
+592,1.100,83,Apartamento ,3,1,, TAGUATINGA
+593,1.300,32,Kitnet ,1,,, PARK SUL
+594,3.900,109,Apartamento ,3,1,1, ASA NORTE
+595,2.400,40,Apartamento ,1,1,, NOROESTE
+596,900,43,Apartamento ,2,1,, PLANALTINA
+597,1.600,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+598,2.500,42,Apartamento ,1,1,, ASA NORTE
+599,1.500,38,Apartamento ,1,,, ASA NORTE
+600,850,27,Kitnet ,1,1,, ASA NORTE
+601,2.400,92,Apartamento ,3,1,1, AGUAS CLARAS
+602,2.300,30,Kitnet ,1,1,, NOROESTE
+603,2.700,65,Apartamento ,2,1,, PARK WAY
+604,2.500,80,Apartamento ,2,1,, AGUAS CLARAS
+605,790,26,Kitnet ,1,1,, SUDOESTE
+606,1.700,40,Apartamento ,1,,, SUDOESTE
+607,950,55,Apartamento ,2,,, GUARA
+608,1.400,33,Apartamento ,1,1,1, AGUAS CLARAS
+609,2.500,70,Apartamento ,2,1,1, GUARA
+610,4.900,115,Apartamento ,3,1,1, ASA SUL
+611,2.300,62,Apartamento ,2,,, CRUZEIRO
+612,1.300,80,Apartamento ,3,1,, CEILANDIA
+613,4.800,91,Apartamento ,3,1,1, ASA NORTE
+614,1.400,75,Apartamento ,2,1,1, TAGUATINGA
+615,3.400,104,Apartamento ,3,1,2, AGUAS CLARAS
+616,1.600,65,Apartamento ,3,1,, TAGUATINGA
+617,6.200,85,Apartamento ,1,1,1, SUDOESTE
+618,1.300,50,Apartamento ,2,,, GUARA
+619,2.900,70,Apartamento ,3,1,1, AGUAS CLARAS
+620,1.100,48,Apartamento ,2,,, GUARA
+621,2.000,59,Apartamento ,2,1,, LAGO NORTE
+622,3.350,78,Apartamento ,3,1,, ASA SUL
+623,1.200,30,Kitnet ,1,1,1, ASA NORTE
+624,1.450,41,Kitnet ,1,,, ASA NORTE
+625,3.400,102,Apartamento ,3,1,1, AGUAS CLARAS
+626,5.000,143,Apartamento ,3,3,2, AGUAS CLARAS
+627,3.500,90,Apartamento ,3,1,1, ASA SUL
+628,1.000,50,Apartamento ,2,,, GUARA
+629,3.700,45,Apartamento ,1,1,, ASA NORTE
+630,1.200,27,Kitnet ,1,1,, LAGO NORTE
+631,4.500,56,Apartamento ,2,1,1, LAGO NORTE
+632,1.500,44,Apartamento ,1,1,, AGUAS CLARAS
+633,3.300,71,Apartamento ,2,1,, ASA NORTE
+634,5.800,98,Apartamento ,3,2,, PARK SUL
+635,1.230,53,Apartamento ,2,1,1, AGUAS CLARAS
+636,4.200,113,Apartamento ,3,1,2, GUARA
+637,16.000,211,Apartamento ,4,3,4, GUARA
+638,1.400,70,Apartamento ,3,1,2, SAMAMBAIA
+639,990,30,Apartamento ,1,,, ASA SUL
+640,1.850,27,Kitnet ,1,1,1, SUDOESTE
+641,1.500,47,Apartamento ,1,1,1, GUARA
+642,850,35,Kitnet ,1,,, ASA NORTE
+643,1.800,78,Apartamento ,3,1,, GUARA
+644,2.400,70,Apartamento ,3,1,1, AGUAS CLARAS
+645,1.400,68,Apartamento ,2,1,1, GUARA
+646,1.800,100,Apartamento ,3,1,, TAGUATINGA
+647,1.170,35,Apartamento ,1,,, SOBRADINHO
+648,2.000,40,Apartamento ,1,,, ASA SUL
+649,1.300,80,Apartamento ,2,1,, TAGUATINGA
+650,1.000,40,Apartamento ,1,,, ASA NORTE
+651,1.350,65,Apartamento ,2,1,, SAO SEBASTIAO
+652,3.400,94,Apartamento ,3,1,1, SUDOESTE
+653,650,40,Apartamento ,1,,, TAGUATINGA
+654,750,26,Apartamento ,1,1,, SUDOESTE
+655,2.100,62,Apartamento ,2,,, CRUZEIRO
+656,1.600,39,Apartamento ,1,1,, AGUAS CLARAS
+657,650,30,Kitnet ,1,1,, LAGO NORTE
+658,2.400,62,Apartamento ,2,1,1, LAGO NORTE
+659,900,40,Apartamento ,1,1,1, SAMAMBAIA
+660,3.800,130,Apartamento ,3,1,, ASA SUL
+661,1.380,32,Apartamento ,1,1,1, AGUAS CLARAS
+662,850,35,Kitnet ,1,1,, TAGUATINGA
+663,2.300,80,Apartamento ,3,,, ASA SUL
+664,500,33,Apartamento ,1,,, NUCLEO BANDEIRANTE
+665,2.100,60,Apartamento ,2,,, SUDOESTE
+666,1.100,28,Kitnet ,1,1,, PARK SUL
+667,1.100,70,Apartamento ,3,,, NUCLEO BANDEIRANTE
+668,4.500,78,Apartamento ,2,1,, ASA SUL
+669,3.100,100,Apartamento ,2,,, ASA SUL
+670,2.700,31,Apartamento ,1,1,, ASA NORTE
+671,2.650,92,Apartamento ,3,1,1, AGUAS CLARAS
+672,1.000,70,Apartamento ,2,,, NUCLEO BANDEIRANTE
+673,1.100,47,Kitnet ,1,,, ASA NORTE
+674,6.000,180,Apartamento ,3,1,1, ASA SUL
+675,1.000,40,Kitnet ,1,,, AGUAS CLARAS
+676,3.800,90,Apartamento ,2,1,1, ASA SUL
+677,3.000,72,Apartamento ,2,1,1, SUDOESTE
+678,600,18,Kitnet ,1,,, ASA SUL
+679,750,30,Apartamento ,1,,, SOBRADINHO
+680,2.950,91,Apartamento ,3,1,, AGUAS CLARAS
+681,1.100,33,Apartamento ,1,,, SUDOESTE
+682,1.500,30,Apartamento ,1,1,, AGUAS CLARAS
+683,4.700,160,Apartamento ,3,1,, ASA SUL
+684,650,21,Kitnet ,1,,, ASA NORTE
+685,1.000,30,Kitnet ,1,1,1, ASA NORTE
+686,800,38,Apartamento ,1,,, RIACHO FUNDO
+687,3.850,60,Apartamento ,2,1,, LAGO NORTE
+688,4.090,128,Apartamento ,3,1,1, ASA NORTE
+689,1.500,29,Apartamento ,1,1,, SUDOESTE
+690,800,25,Kitnet ,1,,, ASA NORTE
+691,1.650,30,Kitnet ,1,1,, LAGO NORTE
+692,1.300,50,Apartamento ,2,1,, TAGUATINGA
+693,2.800,62,Apartamento ,2,,, SUDOESTE
+694,1.000,30,Kitnet ,1,,, ASA NORTE
+695,2.250,67,Apartamento ,2,,, CRUZEIRO
+696,4.500,129,Apartamento ,3,1,1, ASA NORTE
+697,1.000,30,Kitnet ,1,1,, SUDOESTE
+698,5.000,124,Apartamento ,4,1,1, OCTOGONAL
+699,690,65,Apartamento ,2,1,, CEILANDIA
+700,1.500,40,Apartamento ,2,,, ASA NORTE
+701,6.000,127,Apartamento ,3,3,2, NOROESTE
+702,12.500,100,Apartamento ,3,1,3, ASA NORTE
+703,700,29,Kitnet ,1,,, RIACHO FUNDO
+704,1.100,65,Apartamento ,2,,, TAGUATINGA
+705,800,31,Kitnet ,1,1,, CRUZEIRO
+706,1.800,66,Apartamento ,2,1,1, AGUAS CLARAS
+707,2.890,71,Apartamento ,2,1,1, ASA NORTE
+708,3.300,82,Apartamento ,2,1,1, SUDOESTE
+709,1.200,31,Kitnet ,1,1,1, SUDOESTE
+710,1.250,55,Apartamento ,1,1,1, SOBRADINHO
+711,2.800,30,Kitnet ,1,1,, ASA NORTE
+712,1.600,88,Apartamento ,2,,, GUARA
+713,2.300,44,Apartamento ,1,1,1, AGUAS CLARAS
+714,900,23,Apartamento ,1,1,, CRUZEIRO
+715,1.400,52,Apartamento ,2,1,, GUARA
+716,4.500,100,Apartamento ,3,1,1, ASA NORTE
+717,3.800,95,Apartamento ,3,1,1, SUDOESTE
+718,3.000,63,Apartamento ,2,1,, ASA SUL
+719,1.300,60,Apartamento ,2,,, GUARA
+720,3.800,120,Apartamento ,3,1,1, ASA NORTE
+721,1.200,80,Apartamento ,2,,, RIACHO FUNDO
+722,2.300,30,Apartamento ,1,,, NOROESTE
+723,950,26,Kitnet ,1,1,, ASA NORTE
+724,1.500,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+725,2.500,67,Apartamento ,2,1,1, GUARA
+726,3.000,82,Apartamento ,3,,, ASA SUL
+727,3.400,29,Apartamento ,1,1,, ASA NORTE
+728,3.400,88,Apartamento ,2,1,1, ASA NORTE
+729,780,36,Apartamento ,1,,, ASA NORTE
+730,1.400,33,Apartamento ,1,1,1, AGUAS CLARAS
+731,1.750,50,Apartamento ,1,1,1, SUDOESTE
+732,2.000,93,Apartamento ,3,,, CRUZEIRO
+733,1.300,40,Apartamento ,1,1,, AGUAS CLARAS
+734,1.300,30,Kitnet ,1,,, ASA NORTE
+735,1.100,39,Apartamento ,1,,, ASA NORTE
+736,800,630,Kitnet ,1,1,, ASA NORTE
+737,800,35,Kitnet ,1,,, ASA NORTE
+738,700,25,Kitnet ,1,,, ASA NORTE
+739,4.500,76,Apartamento ,2,1,2, NOROESTE
+740,2.850,53,Apartamento ,2,1,1, LAGO NORTE
+741,700,35,Apartamento ,1,1,, SAMAMBAIA
+742,1.100,41,Apartamento ,2,,, GUARA
+743,3.000,38,Apartamento ,1,1,1, AGUAS CLARAS
+744,780,45,Apartamento ,1,,, ASA NORTE
+745,720,29,Kitnet ,1,,, SUDOESTE
+746,1.300,60,Apartamento ,2,1,, AGUAS CLARAS
+747,1.100,89,Apartamento ,2,1,, TAGUATINGA
+748,1.400,59,Apartamento ,1,1,, LAGO NORTE
+749,1.300,50,Apartamento ,2,1,, GAMA
+750,950,32,Apartamento ,1,,, ASA SUL
+751,6.500,190,Apartamento ,3,1,1, ASA SUL
+752,1.100,61,Apartamento ,2,1,1, SAMAMBAIA
+753,950,47,Kitnet ,1,,, ASA NORTE
+754,3.270,70,Apartamento ,3,1,, OCTOGONAL
+755,3.300,80,Apartamento ,3,1,1, AGUAS CLARAS
+756,850,40,Apartamento ,1,,, ASA NORTE
+757,3.265,74,Apartamento ,2,1,1, AGUAS CLARAS
+758,2.300,60,Apartamento ,2,,, ASA NORTE
+759,2.000,60,Apartamento ,2,1,1, AGUAS CLARAS
+760,2.200,78,Apartamento ,3,1,1, AGUAS CLARAS
+761,2.000,52,Apartamento ,2,,, LAGO NORTE
+762,3.500,26,Apartamento ,1,1,1, SUDOESTE
+763,1.000,27,Apartamento ,1,1,, ASA NORTE
+764,7.500,150,Apartamento ,4,2,1, SUDOESTE
+765,3.200,63,Apartamento ,2,1,, GUARA
+766,1.100,30,Apartamento ,1,1,, SUDOESTE
+767,950,30,Kitnet ,1,,, VICENTE PIRES
+768,1.350,34,Kitnet ,1,,, ASA NORTE
+769,1.790,70,Apartamento ,3,,, GUARA
+770,1.500,35,Apartamento ,1,1,1, TAGUATINGA
+771,4.300,102,Apartamento ,3,1,1, ASA NORTE
+772,1.200,25,Kitnet ,1,1,, ASA SUL
+773,1.000,26,Kitnet ,1,1,1, ASA NORTE
+774,2.100,52,Apartamento ,2,,, ASA NORTE
+775,5.500,132,Apartamento ,3,1,2, AGUAS CLARAS
+776,1.100,30,Kitnet ,1,,, ASA NORTE
+777,2.900,60,Apartamento ,1,,, ASA NORTE
+778,2.000,80,Apartamento ,3,,, CRUZEIRO
+779,1.650,60,Apartamento ,2,1,1, AGUAS CLARAS
+780,1.450,35,Kitnet ,1,,, ASA NORTE
+781,650.000,47,Apartamento ,2,1,, PARK SUL
+782,1.500,30,Apartamento ,1,1,, AGUAS CLARAS
+783,1.300,50,Apartamento ,2,,, VICENTE PIRES
+784,800,35,Apartamento ,1,,, NUCLEO BANDEIRANTE
+785,1.000,60,Apartamento ,2,1,, TAGUATINGA
+786,550,26,Kitnet ,1,,, TAGUATINGA
+787,7.000,148,Apartamento ,4,2,2, SUDOESTE
+788,1.900,58,Apartamento ,2,1,, TAGUATINGA
+789,1.400,33,Kitnet ,1,1,, AGUAS CLARAS
+790,1.450,36,Apartamento ,1,1,, AGUAS CLARAS
+791,500,30,Kitnet ,1,,, NUCLEO BANDEIRANTE
+792,3.200,60,Apartamento ,2,1,1, SUDOESTE
+793,900,34,Kitnet ,1,,, SUDOESTE
+794,2.500,39,Apartamento ,1,1,, NOROESTE
+795,3.500,100,Apartamento ,2,1,1, LAGO NORTE
+796,1.700,80,Apartamento ,3,,, AGUAS CLARAS
+797,2.900,91,Apartamento ,3,1,, GUARA
+798,3.200,80,Apartamento ,2,1,, LAGO SUL
+799,3.900,90,Apartamento ,3,1,1, ASA NORTE
+800,3.500,52,Apartamento ,2,2,1, PARK SUL
+801,1.587,35,Apartamento ,1,1,, NOROESTE
+802,1.800,60,Apartamento ,2,,, ASA NORTE
+803,1.000,110,Apartamento ,3,1,1, PLANALTINA
+804,920,27,Kitnet ,1,,, ASA NORTE
+805,4.200,103,Apartamento ,3,1,1, ASA NORTE
+806,1.400,62,Apartamento ,1,1,, AGUAS CLARAS
+807,1.100,30,Kitnet ,1,,, ASA NORTE
+808,1.300,37,Apartamento ,1,1,, AGUAS CLARAS
+809,1.800,40,Apartamento ,1,1,, AGUAS CLARAS
+810,3.200,70,Apartamento ,2,1,, ASA NORTE
+811,4.500,90,Apartamento ,3,1,1, ASA NORTE
+812,3.600,118,Apartamento ,2,1,1, ASA NORTE
+813,4.200,110,Apartamento ,3,2,1, ASA NORTE
+814,1.500,39,Apartamento ,1,1,1, AGUAS CLARAS
+815,1.400,33,Apartamento ,1,1,, LAGO NORTE
+816,750,50,Apartamento ,1,,, GUARA
+817,1.790,30,Apartamento ,1,1,, ASA NORTE
+818,720,40,Apartamento ,1,,, GUARA
+819,4.200,70,Apartamento ,2,2,, PARK SUL
+820,800,35,Kitnet ,1,,, GUARA
+821,1.300,27,Kitnet ,1,1,, ASA NORTE
+822,13.000,307,Apartamento ,4,2,3, SUDOESTE
+823,6.200,168,Apartamento ,4,1,2, AGUAS CLARAS
+824,1.750,33,Apartamento ,1,1,, AGUAS CLARAS
+825,5.500,150,Apartamento ,3,1,, ASA SUL
+826,1.000,50,Apartamento ,2,,, GUARA
+827,4.200,79,Apartamento ,2,1,1, ASA NORTE
+828,980,50,Apartamento ,2,1,, AGUAS CLARAS
+829,1.200,57,Apartamento ,2,1,1, VALPARAISO DE GOIAS
+830,1.400,60,Apartamento ,2,1,, SAMAMBAIA
+831,1.500,39,Apartamento ,1,1,1, AGUAS CLARAS
+832,2.300,69,Apartamento ,3,1,1, AGUAS CLARAS
+833,2.300,51,Apartamento ,1,,, LAGO NORTE
+834,2.100,33,Kitnet ,1,1,1, NOROESTE
+835,1.000,28,Kitnet ,1,,, LAGO NORTE
+836,970,40,Apartamento ,1,,, GUARA
+837,1.300,30,Kitnet ,1,,, SUDOESTE
+838,4.350,90,Apartamento ,3,1,, ASA SUL
+839,1.150,40,Apartamento ,1,,, ASA NORTE
+840,1.400,33,Apartamento ,1,1,, AGUAS CLARAS
+841,1.790,45,Apartamento ,2,,, CRUZEIRO
+842,1.400,36,Apartamento ,1,1,1, TAGUATINGA
+843,2.000,74,Apartamento ,3,1,, GUARA
+844,1.050,33,Kitnet ,1,1,1, AGUAS CLARAS
+845,5.500,100,Apartamento ,3,1,2, NOROESTE
+846,3.200,106,Apartamento ,3,1,, AGUAS CLARAS
+847,1.100,42,Kitnet ,1,,, ASA NORTE
+848,600,18,Kitnet ,1,,, ASA SUL
+849,3.500,85,Apartamento ,3,,, ASA SUL
+850,1.500,80,Apartamento ,1,,, JARDIM BOTANICO
+851,3.200,75,Apartamento ,1,1,1, ASA NORTE
+852,4.500,140,Apartamento ,3,1,1, ASA SUL
+853,750,30,Kitnet ,1,,, SUDOESTE
+854,2.700,82,Apartamento ,2,1,1, AGUAS CLARAS
+855,2.000,52,Apartamento ,1,1,1, LAGO NORTE
+856,8.600,163,Apartamento ,4,4,3, NOROESTE
+857,810,40,Apartamento ,1,,, GUARA
+858,1.000,30,Apartamento ,1,1,, SUDOESTE
+859,1.299,24,Apartamento ,1,1,, AGUAS CLARAS
+860,1.450,27,Kitnet ,1,1,, ASA NORTE
+861,800,30,Apartamento ,1,,, ASA NORTE
+862,900,31,Kitnet ,1,2,, SUDOESTE
+863,1.500,33,Apartamento ,1,1,1, AGUAS CLARAS
+864,1.000,26,Apartamento ,1,1,, SUDOESTE
+865,800,55,Apartamento ,2,1,, TAGUATINGA
+866,3.300,96,Apartamento ,2,1,, ASA NORTE
+867,1.100,35,Apartamento ,1,,, GUARA
+868,6.500,158,Apartamento ,3,1,1, ASA SUL
+869,1.650,30,Apartamento ,1,1,1, LAGO NORTE
+870,800,32,Kitnet ,1,,, ASA NORTE
+871,2.100,75,Apartamento ,3,,, CRUZEIRO
+872,2.000,33,Apartamento ,1,1,1, AGUAS CLARAS
+873,1.100,55,Apartamento ,2,1,, TAGUATINGA
+874,1.200,38,Kitnet ,1,,, SUDOESTE
+875,1.200,28,Kitnet ,1,1,, LAGO NORTE
+876,11.200,223,Apartamento ,3,1,2, NOROESTE
+877,800,30,Kitnet ,1,,, ASA NORTE
+878,4.500,128,Apartamento ,4,1,2, AGUAS CLARAS
+879,850,35,Kitnet ,1,1,, AGUAS CLARAS
+880,1.400,34,Apartamento ,1,1,1, AGUAS CLARAS
+881,600,40,Apartamento ,1,,, TAGUATINGA
+882,1.790,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+883,1.400,35,Apartamento ,1,,, ASA NORTE
+884,4.000,103,Apartamento ,3,1,2, AGUAS CLARAS
+885,1.800,38,Apartamento ,1,1,, AGUAS CLARAS
+886,5.000,116,Apartamento ,3,1,2, GUARA
+887,800,35,Kitnet ,1,,, ASA NORTE
+888,2.500,69,Apartamento ,2,1,1, LAGO NORTE
+889,6.000,109,Apartamento ,2,1,1, NOROESTE
+890,1.800,68,Apartamento ,3,1,, GUARA
+891,800,30,Kitnet ,1,,, SAMAMBAIA
+892,900,30,Kitnet ,1,1,, SUDOESTE
+893,1.200,30,Kitnet ,1,1,, LAGO NORTE
+894,5.200,115,Apartamento ,3,1,1, ASA NORTE
+895,1.200,30,Apartamento ,1,1,, GUARA
+896,14.000,185,Apartamento ,3,3,3, NOROESTE
+897,1.550,37,Apartamento ,1,1,, NOROESTE
+898,1.250,60,Apartamento ,2,1,1, GUARA
+899,1.190,46,Apartamento ,1,,, ASA NORTE
+900,1.800,38,Apartamento ,1,,, AGUAS CLARAS
+901,1.400,37,Apartamento ,1,1,, OCTOGONAL
+902,1.200,34,Kitnet ,1,,, AGUAS CLARAS
+903,3.499,74,Apartamento ,2,1,, ASA SUL
+904,2.800,100,Apartamento ,3,1,1, AGUAS CLARAS
+905,7.000,139,Apartamento ,3,3,2, NOROESTE
+906,3.300,79,Apartamento ,3,1,2, GUARA
+907,1.500,64,Apartamento ,2,1,, AGUAS CLARAS
+908,1.000,28,Apartamento ,1,1,, AGUAS CLARAS
+909,2.500,44,Apartamento ,1,1,1, AGUAS CLARAS
+910,1.100,30,Kitnet ,1,,, ASA NORTE
+911,700,45,Kitnet ,1,,, SAMAMBAIA
+912,9.500,196,Apartamento ,4,2,1, ASA NORTE
+913,5.800,140,Apartamento ,2,1,2, SUDOESTE
+914,800,31,Kitnet ,1,,, ASA NORTE
+915,1.900,55,Apartamento ,2,1,1, AGUAS CLARAS
+916,1.900,55,Apartamento ,2,1,, GUARA
+917,3.900,73,Apartamento ,2,2,, PARK SUL
+918,1.600,35,Apartamento ,1,1,, ASA SUL
+919,650,52,Apartamento ,2,2,, VALPARAISO DE GOIAS
+920,1.700,26,Apartamento ,1,1,, AGUAS CLARAS
+921,1.250,43,Apartamento ,1,1,1, AGUAS CLARAS
+922,2.200,59,Apartamento ,1,1,, LAGO NORTE
+923,3.100,89,Apartamento ,3,1,1, AGUAS CLARAS
+924,1.900,25,Kitnet ,1,1,1, ASA SUL
+925,550,30,Apartamento ,1,1,, RIACHO FUNDO
+926,1.200,50,Apartamento ,2,1,, SAMAMBAIA
+927,4.500,107,Apartamento ,3,1,1, ASA NORTE
+928,1.450,48,Apartamento ,1,1,, ASA SUL
+929,900,37,Kitnet ,1,,, ASA NORTE
+930,2.800,44,Apartamento ,1,,, AGUAS CLARAS
+931,1.000,25,Kitnet ,1,1,, ASA NORTE
+932,1.350,36,Apartamento ,1,,, PARK SUL
+933,1.500,27,Kitnet ,1,1,, SUDOESTE
+934,5.900,117,Apartamento ,3,1,2, NOROESTE
+935,1.700,34,Kitnet ,1,1,, SUDOESTE
+936,2.880,80,Apartamento ,3,1,1, AGUAS CLARAS
+937,1.200,33,Apartamento ,1,1,, AGUAS CLARAS
+938,1.130,36,Kitnet ,1,,, AGUAS CLARAS
+939,3.400,86,Apartamento ,3,,, ASA SUL
+940,3.100,77,Apartamento ,3,,, ASA NORTE
+941,2.800,62,Apartamento ,2,1,1, LAGO NORTE
+942,3.300,120,Apartamento ,3,1,1, AGUAS CLARAS
+943,1.900,53,Apartamento ,2,,, ASA SUL
+944,2.600,86,Apartamento ,3,1,1, AGUAS CLARAS
+945,3.500,85,Apartamento ,3,1,, ASA NORTE
+946,2.000,67,Apartamento ,2,,, ASA SUL
+947,1.190,26,Kitnet ,1,1,1, SUDOESTE
+948,920,35,Apartamento ,1,1,, SOBRADINHO
+949,1.300,60,Apartamento ,2,,, ASA NORTE
+950,1.300,60,Apartamento ,2,,, RIACHO FUNDO
+951,1.200,28,Kitnet ,1,1,, ASA NORTE
+952,1.700,32,Kitnet ,1,1,, SUDOESTE
+953,6.900,131,Apartamento ,3,1,1, ASA NORTE
+954,1.200,25,Kitnet ,1,1,, SUDOESTE
+955,1.800,100,Apartamento ,3,1,1, FORMOSA
+956,800,29,Kitnet ,1,,, AGUAS CLARAS
+957,600,50,Apartamento ,2,,, VALPARAISO DE GOIAS
+958,2.700,67,Apartamento ,2,1,, LAGO NORTE
+959,4.500,142,Apartamento ,4,1,2, AGUAS CLARAS
+960,750,27,Apartamento ,1,1,, ASA NORTE
+961,720,30,Apartamento ,1,,, ASA NORTE
+962,680,34,Kitnet ,1,1,, VICENTE PIRES
+963,4.300,110,Apartamento ,4,2,2, AGUAS CLARAS
+964,800,25,Apartamento ,1,,, ASA NORTE
+965,4.300,95,Apartamento ,2,1,, LAGO NORTE
+966,1.000,58,Apartamento ,2,1,, CEILANDIA
+967,1.400,90,Apartamento ,3,1,, GUARA
+968,1.400,34,Kitnet ,1,,, SUDOESTE
+969,12.000,211,Apartamento ,4,4,3, NOROESTE
+970,800,75,Apartamento ,2,,, PARANOA
+971,1.000,40,Kitnet ,1,,, GUARA
+972,2.700,71,Apartamento ,2,1,, ASA NORTE
+973,1.444,51,Apartamento ,2,,, VICENTE PIRES
+974,700,11,Kitnet ,1,,, ASA NORTE
+975,4.500,85,Apartamento ,2,1,2, NOROESTE
+976,5.700,109,Apartamento ,3,2,1, ASA NORTE
+977,2.000,42,Kitnet ,1,1,1, SUDOESTE
+978,1.620,64,Apartamento ,2,,, GUARA
+979,850,70,Apartamento ,2,1,, SANTA MARIA
+980,650,24,Kitnet ,1,,, NUCLEO BANDEIRANTE
+981,1.500,35,Apartamento ,1,1,1, AGUAS CLARAS
+982,900,30,Kitnet ,1,,, ASA NORTE
+983,800,40,Apartamento ,2,,, RIACHO FUNDO
+984,1.499,37,Apartamento ,1,1,1, TAGUATINGA
+985,2.100,62,Apartamento ,3,,, CRUZEIRO
+986,4.600,137,Apartamento ,3,1,1, ASA NORTE
+987,1.400,27,Kitnet ,1,1,, SUDOESTE
+988,700,55,Apartamento ,2,,, TAGUATINGA
+989,1.100,58,Apartamento ,2,,, TAGUATINGA
+990,2.500,62,Apartamento ,2,1,2, AGUAS CLARAS
+991,900,42,Apartamento ,2,,, VICENTE PIRES
+992,3.000,90,Apartamento ,2,2,1, AGUAS CLARAS
+993,2.250,62,Apartamento ,1,1,1, AGUAS CLARAS
+994,1.200,29,Apartamento ,1,1,, SUDOESTE
+995,900,50,Apartamento ,2,,, GUARA
+996,1.000,42,Apartamento ,2,1,, SANTA MARIA
+997,3.700,100,Apartamento ,3,1,1, SUDOESTE
+998,800,42,Apartamento ,2,1,, VALPARAISO DE GOIAS
+999,750,27,Kitnet ,1,,, ASA NORTE
+1000,1.500,40,Apartamento ,1,,, ASA SUL
+1001,1.200,35,Kitnet ,1,,, SUDOESTE
+1002,6.900,128,Apartamento ,3,2,2, NOROESTE
+1003,1.000,32,Apartamento ,1,,, ASA SUL
+1004,1.300,32,Apartamento ,1,1,, AGUAS CLARAS
+1005,4.000,140,Apartamento ,2,1,, ASA SUL
+1006,550,19,Kitnet ,1,,, ASA NORTE
+1007,1.800,30,Apartamento ,1,1,, AGUAS CLARAS
+1008,2.800,105,Apartamento ,3,1,2, AGUAS CLARAS
+1009,900,30,Apartamento ,1,1,1, SAMAMBAIA
+1010,1.528,26,Kitnet ,1,1,, SUDOESTE
+1011,1.000,43,Apartamento ,1,1,, SAMAMBAIA
+1012,2.050,58,Apartamento ,2,1,1, AGUAS CLARAS
+1013,5.900,140,Apartamento ,3,1,, ASA SUL
+1014,1.500,35,Apartamento ,1,1,2, GUARA
+1015,1.400,0,Apartamento ,2,1,, GAMA
+1016,1.600,55,Apartamento ,2,1,, NUCLEO BANDEIRANTE
+1017,650,30,Apartamento ,1,,, VILA ESTRUTURAL
+1018,6.000,101,Apartamento ,3,1,1, ASA NORTE
+1019,700,45,Kitnet ,1,,, SAMAMBAIA
+1020,2.700,75,Apartamento ,1,1,, SUDOESTE
+1021,450,25,Kitnet ,1,,, SAO SEBASTIAO
+1022,4.500,90,Apartamento ,2,2,1, SUDOESTE
+1023,2.900,35,Apartamento ,2,1,, SUDOESTE
+1024,1.400,40,Apartamento ,1,1,1, TAGUATINGA
+1025,750,50,Apartamento ,1,1,, VICENTE PIRES
+1026,5.400,156,Apartamento ,3,1,1, ASA SUL
+1027,900,28,Apartamento ,1,1,1, LAGO NORTE
+1028,1.300,70,Apartamento ,2,,, TAGUATINGA
+1029,800,50,Apartamento ,2,,, CEILANDIA
+1030,3.500,36,Apartamento ,1,,, ASA SUL
+1031,2.000,47,Apartamento ,1,1,, AGUAS CLARAS
+1032,750,35,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1033,1.650,55,Apartamento ,2,1,, TAGUATINGA
+1034,2.890,55,Apartamento ,2,1,, ASA NORTE
+1035,800,43,Kitnet ,1,,, ASA NORTE
+1036,1.500,33,Apartamento ,1,1,1, AGUAS CLARAS
+1037,2.250,71,Apartamento ,2,,, ASA SUL
+1038,1.600,53,Apartamento ,2,1,1, AGUAS CLARAS
+1039,9.200,148,Apartamento ,4,2,4, NOROESTE
+1040,950,30,Kitnet ,1,,, GUARA
+1041,1.400,45,Apartamento ,2,,, GUARA
+1042,2.400,72,Apartamento ,3,,, CRUZEIRO
+1043,2.000,45,Apartamento ,1,,, ASA SUL
+1044,3.000,66,Apartamento ,2,1,, ASA NORTE
+1045,1.150,30,Apartamento ,1,1,, GUARA
+1046,2.000,26,Apartamento ,1,1,, PARK SUL
+1047,1.450,33,Apartamento ,1,1,1, AGUAS CLARAS
+1048,1.499,75,Apartamento ,2,,, ASA NORTE
+1049,5.300,82,Apartamento ,2,1,2, NOROESTE
+1050,830,25,Kitnet ,1,,, GUARA
+1051,800,38,Apartamento ,1,,, RIACHO FUNDO
+1052,4.300,78,Apartamento ,2,1,, AGUAS CLARAS
+1053,4.200,120,Apartamento ,3,1,1, ASA NORTE
+1054,2.100,60,Apartamento ,2,1,1, AGUAS CLARAS
+1055,1.550,52,Apartamento ,1,1,1, AGUAS CLARAS
+1056,2.000,50,Apartamento ,1,,, ASA SUL
+1057,5.000,118,Apartamento ,3,1,1, AGUAS CLARAS
+1058,700,30,Apartamento ,1,,, RIACHO FUNDO
+1059,700,37,Apartamento ,1,,, SAO SEBASTIAO
+1060,800,30,Apartamento ,1,,, VICENTE PIRES
+1061,1.050,36,Apartamento ,1,,, ASA NORTE
+1062,2.000,64,Apartamento ,2,,, ASA SUL
+1063,5.000,100,Apartamento ,3,1,, ASA SUL
+1064,1.250,23,Kitnet ,1,1,, SUDOESTE
+1065,800,33,Apartamento ,1,,, ASA NORTE
+1066,1.295,36,Kitnet ,1,,, ASA NORTE
+1067,1.790,35,Apartamento ,1,1,, NOROESTE
+1068,1.300,30,Apartamento ,1,1,, AGUAS CLARAS
+1069,1.250,33,Apartamento ,1,,, AGUAS CLARAS
+1070,2.800,75,Apartamento ,2,1,, SUDOESTE
+1071,450,33,Kitnet ,1,,, TAGUATINGA
+1072,1.100,46,Apartamento ,1,,, ASA NORTE
+1073,2.200,60,Apartamento ,2,1,1, AGUAS CLARAS
+1074,2.550,69,Apartamento ,2,1,, OCTOGONAL
+1075,3.200,100,Apartamento ,3,1,, ASA SUL
+1076,11.900,306,Apartamento ,5,2,4, SUDOESTE
+1077,1.850,45,Apartamento ,1,1,, AGUAS CLARAS
+1078,1.300,45,Apartamento ,2,2,, TAGUATINGA
+1079,4.000,96,Apartamento ,3,1,1, SUDOESTE
+1080,1.000,30,Kitnet ,1,1,, AGUAS CLARAS
+1081,1.000,60,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1082,500,35,Apartamento ,,,, TAGUATINGA
+1083,1.000,75,Apartamento ,3,1,1, PLANALTINA
+1084,5.500,104,Apartamento ,3,1,, ASA SUL
+1085,1.300,60,Apartamento ,3,1,1, TAGUATINGA
+1086,4.500,167,Apartamento ,2,1,2, GUARA
+1087,8.600,94,Apartamento ,3,1,2, ASA NORTE
+1088,4.300,99,Apartamento ,3,2,1, GUARA
+1089,1.100,50,Apartamento ,1,,, RIACHO FUNDO
+1090,1.400,62,Apartamento ,3,1,1, AGUAS CLARAS
+1091,3.200,75,Apartamento ,3,,, ASA NORTE
+1092,550,31,Kitnet ,1,,, TAGUATINGA
+1093,3.094,56,Apartamento ,2,1,, ASA NORTE
+1094,1.200,40,Kitnet ,1,1,, SUDOESTE
+1095,650,55,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1096,1.300,32,Kitnet ,1,,, ASA NORTE
+1097,1.250,33,Kitnet ,1,,, AGUAS CLARAS
+1098,1.100,41,Kitnet ,1,,, SUDOESTE
+1099,800,28,Kitnet ,1,,, ASA NORTE
+1100,2.000,61,Apartamento ,2,1,1, AGUAS CLARAS
+1101,1.100,40,Apartamento ,2,,, TAGUATINGA
+1102,550,35,Apartamento ,1,,, RIACHO FUNDO
+1103,1.100,30,Kitnet ,1,1,, SUDOESTE
+1104,1.500,31,Apartamento ,1,1,, AGUAS CLARAS
+1105,2.900,90,Apartamento ,2,,, ASA NORTE
+1106,1.400,65,Apartamento ,2,,, GUARA
+1107,3.100,89,Apartamento ,2,1,1, SUDOESTE
+1108,2.500,95,Apartamento ,3,1,1, AGUAS CLARAS
+1109,1.500,26,Kitnet ,1,1,, ASA NORTE
+1110,1.100,27,Kitnet ,1,1,1, ASA NORTE
+1111,1.500,60,Apartamento ,2,1,, AGUAS CLARAS
+1112,1.500,37,Apartamento ,1,1,, AGUAS CLARAS
+1113,1.100,97,Apartamento ,2,1,, TAGUATINGA
+1114,2.300,88,Apartamento ,3,1,2, GUARA
+1115,1.600,37,Apartamento ,1,,, AGUAS CLARAS
+1116,1.900,30,Apartamento ,1,1,1, PARK SUL
+1117,5.000,80,Apartamento ,2,1,1, SUDOESTE
+1118,1.650,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1119,1.850,36,Apartamento ,1,1,, LAGO NORTE
+1120,3.400,107,Apartamento ,3,1,, ASA NORTE
+1121,1.200,57,Apartamento ,1,1,, GUARA
+1122,2.300,55,Apartamento ,2,1,1, LAGO NORTE
+1123,6.200,118,Apartamento ,3,1,2, NOROESTE
+1124,3.200,67,Apartamento ,2,1,, ASA SUL
+1125,800,33,Kitnet ,1,,, GUARA
+1126,2.900,72,Apartamento ,2,1,1, SUDOESTE
+1127,1.500,40,Apartamento ,1,,, ASA SUL
+1128,4.500,60,Apartamento ,1,,, ASA NORTE
+1129,6.300,120,Apartamento ,3,1,1, ASA NORTE
+1130,850,34,Apartamento ,1,,, ASA NORTE
+1131,650,30,Apartamento ,1,,, VILA ESTRUTURAL
+1132,1.450,65,Apartamento ,3,1,1, SAMAMBAIA
+1133,2.500,67,Apartamento ,2,,, ASA NORTE
+1134,1.300,30,Apartamento ,1,1,1, SUDOESTE
+1135,2.600,70,Apartamento ,2,1,1, AGUAS CLARAS
+1136,5.000,135,Apartamento ,4,1,2, AGUAS CLARAS
+1137,550,44,Apartamento ,2,1,, VALPARAISO DE GOIAS
+1138,710,45,Apartamento ,1,,, GAMA
+1139,8.500,105,Apartamento ,3,1,, SUDOESTE
+1140,1.100,27,Apartamento ,1,1,, PARK SUL
+1141,850,45,Apartamento ,2,,, CEILANDIA
+1142,3.200,70,Apartamento ,2,2,1, AGUAS CLARAS
+1143,17.000,160,Apartamento ,4,3,3, NOROESTE
+1144,1.100,26,Kitnet ,1,1,1, PARK SUL
+1145,1.500,67,Apartamento ,2,1,, GUARA
+1146,2.200,75,Apartamento ,2,1,1, AGUAS CLARAS
+1147,770,40,Apartamento ,2,1,, SANTA MARIA
+1148,1.500,41,Apartamento ,1,1,, GUARA
+1149,3.300,50,Apartamento ,1,,, ASA SUL
+1150,1.800,42,Apartamento ,1,,, ASA NORTE
+1151,700,55,Apartamento ,2,,, TAGUATINGA
+1152,2.500,55,Apartamento ,1,1,, PARK WAY
+1153,1.000,45,Apartamento ,2,,, ASA NORTE
+1154,800,50,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1155,1.000,25,Kitnet ,1,1,1, AGUAS CLARAS
+1156,1.100,40,Apartamento ,2,,, TAGUATINGA
+1157,3.400,90,Apartamento ,3,1,2, SUDOESTE
+1158,1.620,100,Apartamento ,3,1,, CEILANDIA
+1159,1.000,31,Kitnet ,1,1,, SUDOESTE
+1160,750,52,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1161,1.300,50,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1162,4.500,96,Apartamento ,2,1,1, SUDOESTE
+1163,20.000,296,Apartamento ,4,1,1, ASA SUL
+1164,850,45,Apartamento ,1,,, SAMAMBAIA
+1165,1.150,27,Kitnet ,1,1,, SUDOESTE
+1166,3.000,80,Apartamento ,3,1,2, GUARA
+1167,1.800,56,Apartamento ,2,,, ASA SUL
+1168,2.750,62,Apartamento ,2,1,1, GUARA
+1169,1.200,48,Apartamento ,1,,, GUARA
+1170,400,30,Kitnet ,1,,, NUCLEO BANDEIRANTE
+1171,3.900,144,Apartamento ,4,1,4, ASA SUL
+1172,3.800,120,Apartamento ,3,1,, ASA SUL
+1173,1.300,33,Apartamento ,1,1,1, NOROESTE
+1174,4.500,120,Apartamento ,3,1,1, ASA NORTE
+1175,900,11,Kitnet ,1,,, ASA NORTE
+1176,1.500,50,Apartamento ,2,,, GUARA
+1177,1.500,42,Apartamento ,1,1,, VICENTE PIRES
+1178,3.900,104,Apartamento ,3,1,1, ASA SUL
+1179,750,25,Kitnet ,1,,, ASA NORTE
+1180,850,70,Apartamento ,2,,, PLANALTINA
+1181,800,32,Kitnet ,1,,, ASA NORTE
+1182,2.600,60,Apartamento ,1,,, ASA NORTE
+1183,1.100,30,Apartamento ,1,1,, AGUAS CLARAS
+1184,2.100,53,Apartamento ,2,1,, LAGO NORTE
+1185,2.940,85,Apartamento ,3,2,1, AGUAS CLARAS
+1186,1.100,45,Apartamento ,1,,, LAGO NORTE
+1187,750,30,Kitnet ,1,,, GUARA
+1188,730,26,Kitnet ,1,,, ASA NORTE
+1189,1.500,61,Apartamento ,2,1,1, CEILANDIA
+1190,3.900,75,Apartamento ,2,,, ASA SUL
+1191,850,60,Kitnet ,1,,, TAGUATINGA
+1192,850,30,Kitnet ,1,,, GUARA
+1193,1.800,53,Apartamento ,1,1,, AGUAS CLARAS
+1194,4.000,102,Apartamento ,3,1,1, ASA NORTE
+1195,4.000,90,Apartamento ,3,1,1, ASA NORTE
+1196,2.200,39,Apartamento ,1,1,, NOROESTE
+1197,700,45,Kitnet ,1,,, SAMAMBAIA
+1198,4.800,170,Apartamento ,4,1,1, ASA SUL
+1199,2.050,28,Apartamento ,1,1,1, PARK SUL
+1200,3.950,99,Apartamento ,3,1,1, ASA NORTE
+1201,15.000,378,Apartamento ,4,4,4, SUDOESTE
+1202,2.600,124,Apartamento ,2,1,, LAGO NORTE
+1203,700,40,Kitnet ,1,,, TAGUATINGA
+1204,1.900,30,Apartamento ,1,1,, NOROESTE
+1205,1.450,37,Apartamento ,1,1,, AGUAS CLARAS
+1206,1.800,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1207,800,38,Apartamento ,1,,, RIACHO FUNDO
+1208,2.020,50,Apartamento ,2,1,, GUARA
+1209,1.100,75,Apartamento ,3,1,1, AGUAS CLARAS
+1210,1.000,200,Apartamento ,2,,, SAO SEBASTIAO
+1211,400,18,Apartamento ,1,,, AGUAS CLARAS
+1212,2.200,60,Apartamento ,2,1,1, AGUAS CLARAS
+1213,800,25,Apartamento ,1,,, TAGUATINGA
+1214,198.000,50,Apartamento ,2,1,, SAMAMBAIA
+1215,2.200,80,Apartamento ,3,1,1, AGUAS CLARAS
+1216,4.300,116,Apartamento ,3,1,1, SUDOESTE
+1217,3.300,108,Apartamento ,2,1,2, AGUAS CLARAS
+1218,7.000,164,Apartamento ,3,1,3, NOROESTE
+1219,3.800,90,Apartamento ,3,1,1, SUDOESTE
+1220,800,47,Apartamento ,1,,, SAMAMBAIA
+1221,1.100,30,Apartamento ,1,,, ASA NORTE
+1222,1.900,62,Apartamento ,3,,, CRUZEIRO
+1223,4.100,48,Apartamento ,1,1,1, ASA SUL
+1224,1.500,45,Apartamento ,2,,, SETOR INDUSTRIAL
+1225,2.000,50,Apartamento ,2,1,, LAGO NORTE
+1226,2.100,55,Apartamento ,2,1,, AGUAS CLARAS
+1227,2.400,40,Apartamento ,1,,, ASA NORTE
+1228,9.000,240,Apartamento ,4,1,2, ASA SUL
+1229,2.550,62,Apartamento ,2,1,1, GUARA
+1230,1.400,45,Apartamento ,2,1,, GUARA
+1231,750,28,Kitnet ,1,,, SUDOESTE
+1232,2.600,73,Apartamento ,2,1,, OCTOGONAL
+1233,2.100,60,Apartamento ,2,1,1, AGUAS CLARAS
+1234,1.100,30,Kitnet ,1,1,, LAGO NORTE
+1235,1.100,30,Kitnet ,1,,, SUDOESTE
+1236,650,27,Apartamento ,1,,, ASA NORTE
+1237,1.200,27,Kitnet ,1,1,, ASA NORTE
+1238,1.100,25,Apartamento ,1,1,, ASA SUL
+1239,550,40,Kitnet ,1,,, VICENTE PIRES
+1240,6.000,53,Apartamento ,1,,, ASA NORTE
+1241,2.400,70,Apartamento ,2,,, ASA NORTE
+1242,2.200,100,Apartamento ,3,1,1, AGUAS CLARAS
+1243,1.400,59,Apartamento ,1,1,, LAGO NORTE
+1244,6.000,118,Apartamento ,3,1,2, NOROESTE
+1245,1.100,90,Apartamento ,3,,, TAGUATINGA
+1246,4.350,98,Apartamento ,3,1,1, ASA NORTE
+1247,1.350,75,Apartamento ,2,1,, TAGUATINGA
+1248,1.100,35,Apartamento ,1,,, GUARA
+1249,1.100,28,Kitnet ,1,1,1, ASA NORTE
+1250,1.500,50,Apartamento ,2,1,1, TAGUATINGA
+1251,800,35,Apartamento ,1,,, ASA NORTE
+1252,2.800,77,Apartamento ,2,1,2, AGUAS CLARAS
+1253,4.800,130,Apartamento ,2,1,, ASA NORTE
+1254,1.190,60,Apartamento ,2,,, SOBRADINHO
+1255,1.300,36,Apartamento ,3,1,2, SAMAMBAIA
+1256,1.100,80,Apartamento ,2,,, PLANALTINA
+1257,800,35,Kitnet ,1,,, LAGO NORTE
+1258,2.200,42,Apartamento ,1,1,1, PARK SUL
+1259,15.900,204,Apartamento ,3,3,4, NOROESTE
+1260,4.800,82,Apartamento ,2,1,1, ASA NORTE
+1261,800,27,Apartamento ,1,1,, ASA NORTE
+1262,1.450,35,Apartamento ,1,,, AGUAS CLARAS
+1263,3.000,51,Apartamento ,1,,, ASA NORTE
+1264,1.200,29,Kitnet ,1,1,1, ASA NORTE
+1265,1.990,29,Apartamento ,1,1,, PARK SUL
+1266,1.000,40,Apartamento ,1,,, ASA NORTE
+1267,720,30,Apartamento ,1,,, GUARA
+1268,510,35,Kitnet ,1,,, VICENTE PIRES
+1269,3.100,26,Kitnet ,1,1,1, SUDOESTE
+1270,850,21,Kitnet ,1,,, ASA NORTE
+1271,2.200,33,Apartamento ,1,1,, NOROESTE
+1272,1.800,40,Apartamento ,1,1,1, SUDOESTE
+1273,550,35,Apartamento ,1,,, RIACHO FUNDO
+1274,1.400,38,Apartamento ,1,1,, LAGO NORTE
+1275,1.300,27,Kitnet ,1,1,, ASA NORTE
+1276,1.700,44,Apartamento ,1,1,1, AGUAS CLARAS
+1277,1.200,60,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1278,850,25,Kitnet ,1,,, ASA NORTE
+1279,2.200,90,Apartamento ,3,1,1, TAGUATINGA
+1280,620,32,Kitnet ,1,,, GUARA
+1281,2.500,70,Apartamento ,2,1,, JARDIM BOTANICO
+1282,550,24,Kitnet ,1,,, NUCLEO BANDEIRANTE
+1283,900,42,Apartamento ,1,,, GUARA
+1284,800,40,Kitnet ,1,1,, CRUZEIRO
+1285,1.400,50,Apartamento ,2,1,, TAGUATINGA
+1286,5.942,119,Apartamento ,3,1,1, ASA NORTE
+1287,2.950,68,Apartamento ,2,1,, ASA NORTE
+1288,1.500,67,Apartamento ,3,1,, GUARA
+1289,6.000,170,Apartamento ,2,2,1, ASA SUL
+1290,1.100,43,Apartamento ,2,1,, GUARA
+1291,1.000,67,Apartamento ,1,1,, ASA NORTE
+1292,2.200,44,Apartamento ,2,,, CRUZEIRO
+1293,5.700,150,Apartamento ,3,1,1, ASA SUL
+1294,285.000,55,Apartamento ,2,,, SOBRADINHO
+1295,2.700,38,Apartamento ,1,1,, ASA NORTE
+1296,1.000,27,Kitnet ,1,1,10, ASA NORTE
+1297,950,55,Apartamento ,2,,, PARANOA
+1298,1.600,41,Apartamento ,1,1,, AGUAS CLARAS
+1299,2.500,46,Apartamento ,2,1,, AGUAS CLARAS
+1300,1.000,60,Apartamento ,1,1,, SOBRADINHO
+1301,800,35,Kitnet ,1,,, ASA NORTE
+1302,620,34,Kitnet ,1,1,, GUARA
+1303,3.000,42,Apartamento ,1,1,, PARK SUL
+1304,3.980,110,Apartamento ,3,1,1, ASA NORTE
+1305,3.300,76,Apartamento ,2,1,1, ASA NORTE
+1306,1.500,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1307,3.700,74,Apartamento ,2,1,1, ASA NORTE
+1308,780,46,Apartamento ,2,1,, GAMA
+1309,2.500,80,Apartamento ,2,1,, JARDIM BOTANICO
+1310,800,29,Apartamento ,1,,, TAGUATINGA
+1311,1.200,27,Kitnet ,1,1,, ASA SUL
+1312,1.200,35,Kitnet ,1,,, ASA NORTE
+1313,5.500,120,Apartamento ,3,1,, ASA SUL
+1314,1.400,33,Apartamento ,1,,, AGUAS CLARAS
+1315,4.500,93,Apartamento ,3,1,1, ASA NORTE
+1316,900,30,Kitnet ,1,,, ASA NORTE
+1317,750,27,Apartamento ,1,,, TAGUATINGA
+1318,900,40,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1319,600,30,Apartamento ,1,,, TAGUATINGA
+1320,4.250,54,Apartamento ,1,1,1, ASA SUL
+1321,3.100,87,Apartamento ,2,,, ASA SUL
+1322,3.400,100,Apartamento ,3,1,, GUARA
+1323,950,30,Kitnet ,1,1,, ASA NORTE
+1324,1.400,28,Kitnet ,1,,, ASA NORTE
+1325,2.000,60,Apartamento ,2,1,1, AGUAS CLARAS
+1326,1.250,29,Apartamento ,1,1,1, LAGO NORTE
+1327,1.700,60,Apartamento ,2,1,1, AGUAS CLARAS
+1328,1.300,25,Apartamento ,1,1,1, AGUAS CLARAS
+1329,3.200,102,Apartamento ,3,1,2, AGUAS CLARAS
+1330,2.700,82,Apartamento ,3,1,, ASA NORTE
+1331,3.800,98,Apartamento ,3,1,1, ASA NORTE
+1332,900,50,Apartamento ,2,1,1, TAGUATINGA
+1333,1.400,11,Apartamento ,1,,, ASA NORTE
+1334,1.400,46,Apartamento ,2,1,, GUARA
+1335,1.500,30,Apartamento ,1,,, ASA SUL
+1336,4.200,69,Apartamento ,2,1,1, ASA SUL
+1337,2.400,110,Apartamento ,3,1,1, AGUAS CLARAS
+1338,1.000,50,Apartamento ,2,1,, RECANTO DAS EMAS
+1339,800,39,Apartamento ,1,1,2, RIACHO FUNDO
+1340,1.700,56,Apartamento ,1,,, SUDOESTE
+1341,850,60,Apartamento ,2,,, GUARA
+1342,900,29,Kitnet ,1,,, ASA NORTE
+1343,1.900,30,Apartamento ,1,1,, NOROESTE
+1344,420,34,Kitnet ,1,,, SANTA MARIA
+1345,550,35,Apartamento ,1,,, RIACHO FUNDO
+1346,1.040,40,Apartamento ,1,,, GUARA
+1347,900,22,Kitnet ,1,1,1, SUDOESTE
+1348,1.500,70,Apartamento ,3,1,, TAGUATINGA
+1349,6.300,140,Apartamento ,2,2,2, ASA NORTE
+1350,3.300,52,Apartamento ,1,2,, ASA SUL
+1351,5.800,167,Apartamento ,3,1,1, ASA SUL
+1352,2.500,70,Apartamento ,3,1,1, AGUAS CLARAS
+1353,1.100,40,Apartamento ,2,,, TAGUATINGA
+1354,3.800,140,Apartamento ,4,1,1, ASA NORTE
+1355,1.400,48,Apartamento ,2,1,, SAMAMBAIA
+1356,1.250,65,Apartamento ,2,1,, TAGUATINGA
+1357,1.200,60,Apartamento ,2,1,, VICENTE PIRES
+1358,2.600,32,Apartamento ,1,,, TAGUATINGA
+1359,1.480,49,Apartamento ,1,1,, AGUAS CLARAS
+1360,1.200,40,Apartamento ,1,1,, SUDOESTE
+1361,7.500,166,Apartamento ,4,1,1, ASA NORTE
+1362,6.000,177,Apartamento ,4,1,1, ASA SUL
+1363,2.700,63,Apartamento ,2,,, ASA NORTE
+1364,2.300,55,Apartamento ,2,1,1, AGUAS CLARAS
+1365,9.000,154,Apartamento ,3,3,3, NOROESTE
+1366,4.400,114,Apartamento ,3,1,, SUDOESTE
+1367,1.200,38,Apartamento ,1,,, ASA SUL
+1368,4.000,123,Apartamento ,3,1,1, ASA NORTE
+1369,900,45,Apartamento ,1,1,1, AGUAS CLARAS
+1370,2.650,60,Apartamento ,2,1,, SUDOESTE
+1371,800,40,Kitnet ,1,,, NUCLEO BANDEIRANTE
+1372,750,32,Apartamento ,1,1,, GUARA
+1373,2.400,61,Apartamento ,2,2,1, AGUAS CLARAS
+1374,6.500,117,Apartamento ,3,1,2, NOROESTE
+1375,700,40,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1376,2.900,71,Apartamento ,2,1,, OCTOGONAL
+1377,1.550,34,Apartamento ,1,1,1, AGUAS CLARAS
+1378,1.200,25,Kitnet ,1,,, LAGO SUL
+1379,1.700,27,Apartamento ,1,1,, PARK SUL
+1380,4.500,78,Apartamento ,2,1,2, NOROESTE
+1381,1.000,30,Kitnet ,1,,, GUARA
+1382,3.100,45,Apartamento ,1,1,, ASA NORTE
+1383,550,25,Kitnet ,1,,, SAO SEBASTIAO
+1384,1.700,41,Apartamento ,1,1,, AGUAS CLARAS
+1385,2.100,45,Apartamento ,1,,, ASA NORTE
+1386,900,32,Apartamento ,1,1,, AGUAS CLARAS
+1387,1.800,40,Apartamento ,1,1,, LAGO NORTE
+1388,1.400,30,Kitnet ,1,1,, SUDOESTE
+1389,2.037,45,Apartamento ,1,1,1, NOROESTE
+1390,3.000,78,Apartamento ,2,,, ASA SUL
+1391,4.500,41,Apartamento ,1,1,1, ASA SUL
+1392,2.300,95,Apartamento ,3,1,1, AGUAS CLARAS
+1393,1.190,28,Apartamento ,1,1,, SUDOESTE
+1394,1.400,65,Apartamento ,2,1,, TAGUATINGA
+1395,1.100,33,Apartamento ,1,,, AGUAS CLARAS
+1396,800,40,Apartamento ,1,,, GUARA
+1397,3.500,52,Apartamento ,2,1,1, SUDOESTE
+1398,900,29,Kitnet ,1,1,1, SUDOESTE
+1399,2.700,72,Apartamento ,2,1,, ASA NORTE
+1400,800,46,Apartamento ,2,1,, SANTA MARIA
+1401,1.600,70,Apartamento ,2,1,, VILA DA TELEBRASILIA
+1402,550,25,Kitnet ,1,,, RIACHO FUNDO
+1403,750,40,Kitnet ,1,,, ASA NORTE
+1404,1.250,38,Apartamento ,1,1,, SAMAMBAIA
+1405,4.000,114,Apartamento ,2,1,, ASA SUL
+1406,1.200,30,Apartamento ,1,1,1, SUDOESTE
+1407,1.100,55,Apartamento ,2,1,, TAGUATINGA
+1408,1.700,48,Apartamento ,1,1,, ASA SUL
+1409,980,31,Kitnet ,1,,, ASA NORTE
+1410,1.000,40,Kitnet ,1,,, ASA SUL
+1411,1.100,24,Kitnet ,1,1,, SUDOESTE
+1412,1.800,57,Apartamento ,2,1,1, LAGO NORTE
+1413,10.000,215,Apartamento ,4,2,2, SUDOESTE
+1414,2.500,78,Apartamento ,3,1,, CRUZEIRO
+1415,1.800,29,Apartamento ,1,1,, PARK SUL
+1416,2.900,70,Apartamento ,3,1,1, AGUAS CLARAS
+1417,3.650,125,Apartamento ,3,1,, ASA SUL
+1418,600,50,Apartamento ,1,,, RECANTO DAS EMAS
+1419,400,14,Kitnet ,1,,, NUCLEO BANDEIRANTE
+1420,899,29,Apartamento ,1,1,1, SUDOESTE
+1421,2.000,64,Apartamento ,2,1,1, AGUAS CLARAS
+1422,12.000,209,Apartamento ,3,1,2, ASA SUL
+1423,920,30,Apartamento ,1,,, ASA SUL
+1424,850,74,Apartamento ,2,1,, VALPARAISO DE GOIAS
+1425,950,60,Apartamento ,2,1,, TAGUATINGA
+1426,4.200,64,Apartamento ,2,1,1, SETOR INDUSTRIAL
+1427,1.350,54,Apartamento ,1,,, TAGUATINGA
+1428,850,27,Kitnet ,1,1,, ASA NORTE
+1429,1.290,53,Apartamento ,2,1,1, SAMAMBAIA
+1430,600,44,Apartamento ,2,1,, VALPARAISO DE GOIAS
+1431,14.000,207,Apartamento ,4,2,2, ASA SUL
+1432,1.000,50,Apartamento ,2,1,, RECANTO DAS EMAS
+1433,1.050,25,Kitnet ,1,,, ASA NORTE
+1434,2.200,40,Apartamento ,1,1,, NOROESTE
+1435,4.000,99,Apartamento ,3,1,2, GUARA
+1436,1.500,60,Apartamento ,1,,, ASA NORTE
+1437,2.100,51,Apartamento ,2,1,, AGUAS CLARAS
+1438,3.000,90,Apartamento ,2,1,, ASA SUL
+1439,1.632,37,Apartamento ,1,1,, NOROESTE
+1440,1.300,30,Apartamento ,1,1,1, AGUAS CLARAS
+1441,15.000,283,Apartamento ,4,1,2, SUDOESTE
+1442,2.650,64,Apartamento ,2,1,1, AGUAS CLARAS
+1443,15.000,260,Apartamento ,4,4,4, NOROESTE
+1444,1.750,50,Apartamento ,2,1,, AGUAS CLARAS
+1445,2.000,50,Apartamento ,2,1,1, AGUAS CLARAS
+1446,3.800,30,Apartamento ,1,1,, NOROESTE
+1447,3.000,81,Apartamento ,2,1,1, SUDOESTE
+1448,5.700,138,Apartamento ,4,1,1, ASA NORTE
+1449,800,30,Kitnet ,1,,, SAMAMBAIA
+1450,1.250,55,Apartamento ,2,,, GAMA
+1451,5.000,85,Apartamento ,2,1,1, NOROESTE
+1452,900,30,Kitnet ,1,,, SUDOESTE
+1453,2.800,84,Apartamento ,3,1,2, AGUAS CLARAS
+1454,2.500,71,Apartamento ,2,1,, SUDOESTE
+1455,1.350,55,Apartamento ,2,,, SOBRADINHO
+1456,2.800,63,Apartamento ,1,1,, LAGO NORTE
+1457,900,73,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1458,5.500,169,Apartamento ,3,1,1, ASA SUL
+1459,7.700,185,Apartamento ,4,2,2, ASA NORTE
+1460,950,36,Apartamento ,1,1,, AGUAS CLARAS
+1461,1.900,70,Apartamento ,3,,, CRUZEIRO
+1462,1.000,35,Apartamento ,1,,, ASA NORTE
+1463,6.500,165,Apartamento ,4,1,1, ASA SUL
+1464,5.200,79,Apartamento ,2,1,2, NOROESTE
+1465,2.500,50,Apartamento ,1,1,, ASA NORTE
+1466,1.100,51,Apartamento ,2,,, SOBRADINHO
+1467,600,22,Kitnet ,1,,, ASA NORTE
+1468,1.400,54,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1469,950,28,Kitnet ,1,,, LAGO NORTE
+1470,2.300,25,Kitnet ,1,1,, LAGO NORTE
+1471,1.700,33,Apartamento ,1,,, AGUAS CLARAS
+1472,1.200,42,Apartamento ,2,,, AGUAS CLARAS
+1473,450,30,Kitnet ,1,1,, SANTA MARIA
+1474,1.100,16,Kitnet ,1,,, JARDIM BOTANICO
+1475,2.000,60,Apartamento ,2,,, SUDOESTE
+1476,1.750,72,Apartamento ,1,1,, AGUAS CLARAS
+1477,2.000,106,Apartamento ,2,1,1, AGUAS CLARAS
+1478,1.000,24,Kitnet ,1,1,, SUDOESTE
+1479,2.100,54,Apartamento ,2,,, ASA NORTE
+1480,800,40,Apartamento ,1,,, RIACHO FUNDO
+1481,5.900,179,Apartamento ,4,2,2, SUDOESTE
+1482,2.200,37,Apartamento ,1,,, ASA NORTE
+1483,1.000,30,Kitnet ,1,,, ASA NORTE
+1484,770,23,Kitnet ,1,,, ASA NORTE
+1485,600,52,Apartamento ,2,1,, VALPARAISO DE GOIAS
+1486,4.700,1100,Apartamento ,3,1,, ASA NORTE
+1487,2.700,56,Apartamento ,2,1,, SUDOESTE
+1488,550,35,Kitnet ,1,,, ASA NORTE
+1489,1.600,42,Apartamento ,1,,, ASA SUL
+1490,2.350,35,Kitnet ,1,1,, ASA SUL
+1491,1.500,60,Apartamento ,2,,, CRUZEIRO
+1492,1.100,30,Apartamento ,1,1,1, AGUAS CLARAS
+1493,10.000,187,Apartamento ,3,1,2, SUDOESTE
+1494,7.000,187,Apartamento ,4,1,2, SUDOESTE
+1495,1.000,22,Apartamento ,1,,, ASA NORTE
+1496,4.200,110,Apartamento ,3,2,1, ASA NORTE
+1497,890,60,Apartamento ,3,1,1, GAMA
+1498,2.510,200,Apartamento ,4,2,, GAMA
+1499,890,60,Apartamento ,3,1,1, GAMA
+1500,600,47,Apartamento ,2,,, SAMAMBAIA
+1501,1.000,38,Kitnet ,1,1,, ASA NORTE
+1502,1.200,28,Kitnet ,1,1,, ASA NORTE
+1503,700,40,Apartamento ,1,1,, SOBRADINHO
+1504,1.700,25,Kitnet ,1,1,1, SUDOESTE
+1505,2.500,70,Apartamento ,3,1,, AGUAS CLARAS
+1506,3.700,98,Apartamento ,3,1,1, SUDOESTE
+1507,2.500,41,Apartamento ,1,1,, AGUAS CLARAS
+1508,600,23,Kitnet ,1,,, ASA NORTE
+1509,700,45,Apartamento ,1,,, CEILANDIA
+1510,950,30,Kitnet ,1,,, LAGO NORTE
+1511,4.350,98,Apartamento ,3,1,1, ASA NORTE
+1512,780,38,Kitnet ,1,,, ASA NORTE
+1513,14.000,203,Apartamento ,4,4,4, NOROESTE
+1514,1.300,29,Apartamento ,1,1,1, AGUAS CLARAS
+1515,3.800,110,Apartamento ,3,1,1, ASA SUL
+1516,1.150,33,Apartamento ,1,1,, AGUAS CLARAS
+1517,1.250,30,Apartamento ,1,1,1, PARK SUL
+1518,2.000,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1519,1.850,32,Apartamento ,1,1,1, AGUAS CLARAS
+1520,3.000,120,Apartamento ,3,1,2, AGUAS CLARAS
+1521,4.500,147,Apartamento ,3,1,1, ASA NORTE
+1522,10.000,200,Apartamento ,3,2,2, ASA SUL
+1523,2.000,57,Apartamento ,2,1,1, AGUAS CLARAS
+1524,2.200,67,Apartamento ,2,,, ASA NORTE
+1525,650,33,Kitnet ,1,,, LAGO NORTE
+1526,3.300,65,Apartamento ,2,1,, ASA NORTE
+1527,4.000,89,Apartamento ,3,1,2, GUARA
+1528,1.200,33,Apartamento ,1,1,1, AGUAS CLARAS
+1529,1.700,95,Apartamento ,2,1,1, TAGUATINGA
+1530,1.000,60,Apartamento ,2,1,, SOBRADINHO
+1531,2.200,45,Apartamento ,1,1,, ASA SUL
+1532,2.300,55,Apartamento ,2,1,1, AGUAS CLARAS
+1533,4.150,74,Apartamento ,2,1,2, PARK SUL
+1534,775,35,Kitnet ,1,1,, ASA NORTE
+1535,600,38,Apartamento ,1,1,1, SANTA MARIA
+1536,700,48,Apartamento ,1,,, GUARA
+1537,550,25,Kitnet ,1,,, SAO SEBASTIAO
+1538,2.200,71,Apartamento ,3,1,1, AGUAS CLARAS
+1539,2.000,42,Apartamento ,2,1,, SUDOESTE
+1540,4.999,159,Apartamento ,3,1,1, ASA SUL
+1541,1.200,67,Kitnet ,1,1,1, ASA NORTE
+1542,3.150,53,Apartamento ,1,1,, ASA NORTE
+1543,1.000,35,Apartamento ,1,1,, AGUAS CLARAS
+1544,3.800,150,Apartamento ,4,3,2, AGUAS CLARAS
+1545,5.255,114,Apartamento ,3,1,1, ASA SUL
+1546,249.000,200,Kitnet ,6,,, CEILANDIA
+1547,1.100,30,Apartamento ,1,1,1, ASA NORTE
+1548,2.600,55,Apartamento ,2,1,, ASA NORTE
+1549,3.700,90,Apartamento ,3,1,1, ASA NORTE
+1550,1.090,25,Kitnet ,1,,, GUARA
+1551,1.450,65,Apartamento ,3,1,1, SAMAMBAIA
+1552,1.000,46,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1553,1.400,32,Apartamento ,1,1,, AGUAS CLARAS
+1554,750,20,Apartamento ,1,,, TAGUATINGA
+1555,900,52,Apartamento ,2,,, TAGUATINGA
+1556,2.000,50,Apartamento ,2,,, CRUZEIRO
+1557,10.000,220,Apartamento ,4,1,2, ASA SUL
+1558,1.450,24,Kitnet ,1,1,1, SUDOESTE
+1559,1.100,60,Apartamento ,3,1,, VICENTE PIRES
+1560,2.500,52,Apartamento ,2,,, ASA NORTE
+1561,1.700,68,Apartamento ,2,,, TAGUATINGA
+1562,1.450,36,Apartamento ,1,1,1, AGUAS CLARAS
+1563,2.200,52,Apartamento ,2,1,1, LAGO NORTE
+1564,575,30,Apartamento ,1,,, GUARA
+1565,2.190,62,Apartamento ,2,,, SUDOESTE
+1566,800,40,Apartamento ,1,1,, VICENTE PIRES
+1567,1.350,45,Apartamento ,1,,, ASA NORTE
+1568,375,1,Kitnet ,1,,, CEILANDIA
+1569,600,40,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1570,1.000,28,Apartamento ,1,1,, GUARA
+1571,5.430,48,Apartamento ,1,1,1, ASA SUL
+1572,2.300,73,Apartamento ,3,1,, AGUAS CLARAS
+1573,1.700,35,Apartamento ,1,1,, AGUAS CLARAS
+1574,480,40,Apartamento ,1,1,, TAGUATINGA
+1575,1.200,30,Apartamento ,1,,, ASA NORTE
+1576,2.100,42,Apartamento ,1,1,, AGUAS CLARAS
+1577,1.300,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1578,900,55,Apartamento ,2,,, AGUAS CLARAS
+1579,1.200,32,Kitnet ,1,1,, SUDOESTE
+1580,800,30,Kitnet ,1,,, ASA NORTE
+1581,1.800,26,Kitnet ,1,1,, PARK SUL
+1582,750,27,Apartamento ,1,,, TAGUATINGA
+1583,750,35,Kitnet ,1,1,, TAGUATINGA
+1584,3.600,102,Apartamento ,3,1,1, ASA SUL
+1585,3.200,88,Apartamento ,3,1,1, SUDOESTE
+1586,1.900,60,Apartamento ,1,1,1, AGUAS CLARAS
+1587,3.600,90,Apartamento ,3,1,1, SUDOESTE
+1588,7.500,160,Apartamento ,4,2,1, ASA NORTE
+1589,900,33,Kitnet ,1,1,, SUDOESTE
+1590,980,26,Kitnet ,1,,, LAGO NORTE
+1591,3.600,104,Apartamento ,3,1,, ASA SUL
+1592,2.100,72,Apartamento ,3,1,, GUARA
+1593,750,56,Apartamento ,1,,, AGUAS CLARAS
+1594,790,40,Apartamento ,1,,, SOBRADINHO
+1595,1.750,62,Apartamento ,2,,, ASA NORTE
+1596,800,50,Apartamento ,2,,, TAGUATINGA
+1597,1.200,50,Apartamento ,2,1,, GUARA
+1598,3.900,144,Apartamento ,4,1,4, AGUAS CLARAS
+1599,990,48,Apartamento ,2,,, GUARA
+1600,2.450,57,Apartamento ,2,1,, AGUAS CLARAS
+1601,2.500,37,Apartamento ,1,1,, ASA NORTE
+1602,850,60,Apartamento ,2,,, GAMA
+1603,3.900,90,Apartamento ,3,1,, ASA SUL
+1604,900,60,Apartamento ,1,1,, VICENTE PIRES
+1605,1.700,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1606,2.200,76,Apartamento ,3,1,2, AGUAS CLARAS
+1607,15.000,262,Apartamento ,4,4,3, NOROESTE
+1608,950,30,Kitnet ,1,1,, PARK SUL
+1609,4.400,75,Apartamento ,2,1,2, NOROESTE
+1610,3.500,104,Apartamento ,3,1,, ASA SUL
+1611,1.900,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1612,12.000,209,Apartamento ,4,1,2, ASA SUL
+1613,1.100,38,Apartamento ,1,,, ASA NORTE
+1614,5.399,107,Apartamento ,3,1,2, PARK SUL
+1615,4.500,128,Apartamento ,3,1,1, ASA SUL
+1616,590,28,Apartamento ,1,,, TAGUATINGA
+1617,1.500,52,Apartamento ,2,1,, CRUZEIRO
+1618,2.350,63,Apartamento ,2,1,, LAGO NORTE
+1619,1.300,23,Kitnet ,1,,, ASA SUL
+1620,600,60,Apartamento ,2,,, CEILANDIA
+1621,1.500,35,Apartamento ,1,1,1, LAGO NORTE
+1622,3.400,26,Kitnet ,1,1,1, SUDOESTE
+1623,1.200,42,Kitnet ,1,,, ASA NORTE
+1624,850,74,Apartamento ,2,,, TAGUATINGA
+1625,600,44,Apartamento ,2,1,, VALPARAISO DE GOIAS
+1626,1.300,35,Apartamento ,1,1,1, AGUAS CLARAS
+1627,650,29,Kitnet ,1,,, ASA NORTE
+1628,2.100,70,Apartamento ,3,1,, AGUAS CLARAS
+1629,660,55,Apartamento ,2,,, GAMA
+1630,3.300,80,Apartamento ,2,,, ASA SUL
+1631,1.200,60,Apartamento ,2,1,, NUCLEO BANDEIRANTE
+1632,4.550,38,Apartamento ,1,1,1, ASA NORTE
+1633,850,40,Apartamento ,1,,, SOBRADINHO
+1634,4.400,119,Apartamento ,3,1,1, ASA SUL
+1635,1.700,35,Apartamento ,1,1,, AGUAS CLARAS
+1636,3.900,119,Apartamento ,3,1,1, ASA NORTE
+1637,1.200,30,Apartamento ,1,1,1, AGUAS CLARAS
+1638,1.300,36,Apartamento ,1,1,1, AGUAS CLARAS
+1639,420,45,Apartamento ,1,,, CEILANDIA
+1640,600,40,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1641,1.300,28,Apartamento ,1,,, ASA SUL
+1642,2.250,62,Apartamento ,2,,, SUDOESTE
+1643,4.800,100,Apartamento ,2,1,1, LAGO NORTE
+1644,1.400,42,Kitnet ,1,,, ASA NORTE
+1645,1.320,35,Apartamento ,1,1,1, GUARA
+1646,6.500,120,Apartamento ,3,1,2, NOROESTE
+1647,1.600,38,Apartamento ,1,1,1, AGUAS CLARAS
+1648,1.000,30,Kitnet ,1,1,1, AGUAS CLARAS
+1649,1.100,61,Apartamento ,2,1,1, SAMAMBAIA
+1650,900,45,Apartamento ,2,,, CEILANDIA
+1651,2.600,95,Apartamento ,3,,, ASA NORTE
+1652,700,27,Kitnet ,1,,, ASA NORTE
+1653,500,60,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1654,900,52,Apartamento ,2,,, GUARA
+1655,1.100,27,Kitnet ,1,1,, SUDOESTE
+1656,1.100,30,Apartamento ,1,,, ASA NORTE
+1657,1.200,34,Apartamento ,1,,, LAGO NORTE
+1658,900,42,Apartamento ,2,1,, AGUAS CLARAS
+1659,1.600,63,Apartamento ,2,1,1, AGUAS CLARAS
+1660,1.600,52,Apartamento ,1,,, ASA SUL
+1661,4.200,126,Apartamento ,3,1,2, AGUAS CLARAS
+1662,1.800,25,Kitnet ,1,1,1, SUDOESTE
+1663,2.000,35,Kitnet ,1,1,, PARK SUL
+1664,750,38,Apartamento ,1,,, TAGUATINGA
+1665,13.000,225,Apartamento ,4,4,3, ASA NORTE
+1666,850,30,Kitnet ,1,,, ASA NORTE
+1667,1.200,41,Apartamento ,1,1,, OCTOGONAL
+1668,1.100,26,Kitnet ,1,1,, PARK SUL
+1669,2.700,56,Apartamento ,1,1,, LAGO NORTE
+1670,1.300,45,Apartamento ,2,,, AGUAS CLARAS
+1671,3.100,77,Apartamento ,3,,, ASA NORTE
+1672,2.900,90,Apartamento ,3,,, ASA NORTE
+1673,2.400,75,Apartamento ,3,1,1, AGUAS CLARAS
+1674,950,28,Apartamento ,1,,, SAMAMBAIA
+1675,1.100,30,Apartamento ,1,1,, SAMAMBAIA
+1676,1.400,36,Apartamento ,1,1,1, AGUAS CLARAS
+1677,780,30,Kitnet ,1,,, SUDOESTE
+1678,4.500,60,Apartamento ,1,1,1, ASA NORTE
+1679,1.100,50,Apartamento ,2,1,, SAMAMBAIA
+1680,3.500,144,Apartamento ,3,1,1, AGUAS CLARAS
+1681,6.300,160,Apartamento ,4,1,1, ASA SUL
+1682,2.200,56,Apartamento ,2,1,1, GUARA
+1683,500,30,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1684,2.800,68,Apartamento ,2,1,2, AGUAS CLARAS
+1685,400,35,Kitnet ,1,,, NUCLEO BANDEIRANTE
+1686,1.500,37,Apartamento ,1,1,, AGUAS CLARAS
+1687,1.500,30,Apartamento ,1,1,, ASA NORTE
+1688,4.600,75,Apartamento ,2,2,1, NOROESTE
+1689,600,40,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1690,3.200,48,Apartamento ,2,1,, NOROESTE
+1691,3.500,48,Apartamento ,1,2,, NOROESTE
+1692,6.000,127,Apartamento ,3,1,2, NOROESTE
+1693,3.500,143,Apartamento ,3,2,2, AGUAS CLARAS
+1694,5.400,174,Apartamento ,4,2,2, SUDOESTE
+1695,1.350,38,Apartamento ,1,1,1, ASA NORTE
+1696,900,30,Apartamento ,1,1,1, LAGO NORTE
+1697,1.500,33,Apartamento ,1,,, LAGO NORTE
+1698,5.200,123,Apartamento ,3,1,1, ASA NORTE
+1699,700,30,Apartamento ,1,1,, VICENTE PIRES
+1700,1.250,60,Apartamento ,2,,, RIACHO FUNDO
+1701,1.400,28,Kitnet ,1,,, SUDOESTE
+1702,2.150,60,Apartamento ,2,,, SUDOESTE
+1703,5.143,120,Apartamento ,2,1,1, ASA NORTE
+1704,1.650,30,Kitnet ,1,,, PARK SUL
+1705,4.500,123,Apartamento ,3,1,1, ASA NORTE
+1706,1.450,40,Apartamento ,1,,, ASA SUL
+1707,4.390,82,Apartamento ,2,1,3, NOROESTE
+1708,6.000,53,Apartamento ,1,1,, ASA SUL
+1709,1.850,36,Kitnet ,1,1,, LAGO NORTE
+1710,600,40,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1711,3.350,80,Apartamento ,2,1,1, ASA NORTE
+1712,652,15,Kitnet ,1,,, GUARA
+1713,29.900,324,Apartamento ,3,3,5, NOROESTE
+1714,920,30,Kitnet ,1,1,, ASA NORTE
+1715,1.000,58,Apartamento ,2,1,1, SAMAMBAIA
+1716,3.400,103,Apartamento ,3,1,2, AGUAS CLARAS
+1717,3.500,80,Apartamento ,2,1,1, ASA NORTE
+1718,750,35,Kitnet ,1,,, GUARA
+1719,900,43,Apartamento ,2,,, TAGUATINGA
+1720,1.100,30,Kitnet ,1,1,1, SUDOESTE
+1721,1.000,43,Apartamento ,1,,, ASA NORTE
+1722,2.000,54,Apartamento ,1,1,1, AGUAS CLARAS
+1723,2.400,62,Apartamento ,2,,, SUDOESTE
+1724,5.900,150,Apartamento ,4,2,1, SUDOESTE
+1725,2.100,56,Apartamento ,2,1,1, AGUAS CLARAS
+1726,1.500,50,Apartamento ,2,,, GUARA
+1727,3.300,74,Apartamento ,2,1,1, ASA NORTE
+1728,890,60,Apartamento ,3,1,1, GAMA
+1729,2.550,58,Apartamento ,2,,, ASA SUL
+1730,1.000,22,Apartamento ,1,,, ASA NORTE
+1731,1.900,47,Apartamento ,1,1,1, TAGUATINGA
+1732,1.600,34,Apartamento ,1,1,1, AGUAS CLARAS
+1733,1.800,25,Kitnet ,1,1,1, PARK SUL
+1734,950,60,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1735,2.800,69,Apartamento ,2,1,2, AGUAS CLARAS
+1736,1.400,37,Apartamento ,1,1,1, TAGUATINGA
+1737,1.650,62,Apartamento ,2,1,, AGUAS CLARAS
+1738,1.500,27,Apartamento ,1,1,, ASA SUL
+1739,800,46,Kitnet ,1,1,1, AGUAS CLARAS
+1740,1.000,40,Apartamento ,1,,, GUARA
+1741,900,33,Apartamento ,1,1,1, SAMAMBAIA
+1742,1.200,40,Apartamento ,2,,, SOBRADINHO
+1743,625,44,Apartamento ,2,1,, VALPARAISO DE GOIAS
+1744,1.100,27,Kitnet ,1,1,1, ASA NORTE
+1745,1.100,50,Apartamento ,1,1,, SAMAMBAIA
+1746,3.500,90,Apartamento ,3,1,, ASA SUL
+1747,1.700,34,Apartamento ,1,1,, AGUAS CLARAS
+1748,900,55,Apartamento ,2,,, RIACHO FUNDO
+1749,2.600,60,Apartamento ,2,1,1, AGUAS CLARAS
+1750,680,30,Apartamento ,1,,, TAGUATINGA
+1751,2.850,73,Apartamento ,2,1,, LAGO NORTE
+1752,1.650,30,Kitnet ,1,1,1, LAGO NORTE
+1753,1.900,80,Apartamento ,3,1,2, AGUAS CLARAS
+1754,650,19,Apartamento ,1,,, ASA NORTE
+1755,490,25,Kitnet ,1,,, VICENTE PIRES
+1756,1.200,50,Apartamento ,1,1,, AGUAS CLARAS
+1757,750,40,Apartamento ,1,,, SAMAMBAIA
+1758,1.200,65,Apartamento ,2,,, GUARA
+1759,2.750,72,Apartamento ,2,1,, ASA NORTE
+1760,1.100,55,Apartamento ,2,,, GUARA
+1761,700,45,Kitnet ,1,1,, TAGUATINGA
+1762,660,30,Apartamento ,1,,, CEILANDIA
+1763,790,45,Apartamento ,1,,, RECANTO DAS EMAS
+1764,1.150,47,Apartamento ,2,,, GUARA
+1765,620,44,Apartamento ,2,1,, VALPARAISO DE GOIAS
+1766,800,60,Apartamento ,2,1,, TAGUATINGA
+1767,1.400,39,Kitnet ,1,,, ASA NORTE
+1768,2.400,66,Apartamento ,3,1,1, AGUAS CLARAS
+1769,3.300,83,Apartamento ,3,1,, ASA SUL
+1770,950,30,Apartamento ,1,1,1, TAGUATINGA
+1771,800,30,Kitnet ,1,,, ASA NORTE
+1772,4.000,85,Apartamento ,3,1,1, AGUAS CLARAS
+1773,1.300,57,Apartamento ,2,1,, SAMAMBAIA
+1774,5.900,85,Apartamento ,2,2,2, NOROESTE
+1775,2.100,28,Apartamento ,1,,, ASA NORTE
+1776,4.900,164,Apartamento ,5,3,3, AGUAS CLARAS
+1777,1.500,63,Apartamento ,2,1,, TAGUATINGA
+1778,3.800,110,Apartamento ,3,1,1, SUDOESTE
+1779,920,50,Kitnet ,1,,, ASA NORTE
+1780,900,55,Apartamento ,2,1,, AGUAS CLARAS
+1781,1.150,29,Kitnet ,1,1,, SUDOESTE
+1782,3.950,37,Apartamento ,1,1,1, ASA NORTE
+1783,850,50,Apartamento ,2,,, GUARA
+1784,1.400,57,Apartamento ,2,,, ASA NORTE
+1785,2.900,85,Apartamento ,2,,, ASA SUL
+1786,700,54,Apartamento ,2,,, VALPARAISO DE GOIAS
+1787,2.100,42,Apartamento ,2,1,, LAGO NORTE
+1788,5.200,115,Apartamento ,3,1,1, ASA NORTE
+1789,6.100,106,Apartamento ,3,1,2, NOROESTE
+1790,3.700,119,Apartamento ,3,1,1, AGUAS CLARAS
+1791,3.250,83,Apartamento ,3,1,1, ASA NORTE
+1792,2.900,92,Apartamento ,2,,, ASA SUL
+1793,1.400,41,Kitnet ,1,1,, LAGO NORTE
+1794,1.000,60,Apartamento ,2,,, RIACHO FUNDO
+1795,3.000,71,Apartamento ,3,1,1, SUDOESTE
+1796,3.500,65,Apartamento ,2,1,, ASA NORTE
+1797,5.500,164,Apartamento ,4,1,1, ASA SUL
+1798,2.400,60,Apartamento ,2,1,1, AGUAS CLARAS
+1799,700,32,Apartamento ,1,,, RIACHO FUNDO
+1800,1.600,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1801,2.340,73,Apartamento ,1,1,2, LAGO NORTE
+1802,800,40,Apartamento ,1,,, TAGUATINGA
+1803,2.850,80,Apartamento ,2,1,1, GUARA
+1804,2.000,60,Apartamento ,2,1,2, AGUAS CLARAS
+1805,450,25,Kitnet ,1,,, SAO SEBASTIAO
+1806,1.600,56,Apartamento ,2,,, CRUZEIRO
+1807,2.300,80,Apartamento ,2,1,1, AGUAS CLARAS
+1808,1.500,38,Apartamento ,1,1,1, AGUAS CLARAS
+1809,1.700,60,Apartamento ,2,1,, AGUAS CLARAS
+1810,1.390,33,Apartamento ,1,1,1, AGUAS CLARAS
+1811,1.700,33,Apartamento ,1,1,1, AGUAS CLARAS
+1812,7.900,181,Apartamento ,4,3,, ASA NORTE
+1813,1.000,45,Apartamento ,2,,, ASA NORTE
+1814,1.300,121,Apartamento ,2,,, VICENTE PIRES
+1815,880,58,Apartamento ,1,,, TAGUATINGA
+1816,1.500,33,Kitnet ,1,1,, AGUAS CLARAS
+1817,4.400,98,Apartamento ,3,1,1, SUDOESTE
+1818,1.500,42,Apartamento ,1,,, ASA NORTE
+1819,1.620,54,Apartamento ,2,1,, GUARA
+1820,2.000,65,Apartamento ,2,1,, AGUAS CLARAS
+1821,2.090,40,Apartamento ,1,1,, NOROESTE
+1822,1.200,31,Apartamento ,1,1,, AGUAS CLARAS
+1823,500,25,Kitnet ,1,,, RIACHO FUNDO
+1824,1.200,37,Apartamento ,1,1,, AGUAS CLARAS
+1825,1.000,27,Kitnet ,1,1,1, SUDOESTE
+1826,1.500,80,Apartamento ,3,1,, GUARA
+1827,650,33,Kitnet ,1,,, LAGO NORTE
+1828,1.200,60,Apartamento ,2,,, SOBRADINHO
+1829,5.800,77,Apartamento ,2,2,1, NOROESTE
+1830,850,50,Apartamento ,2,1,, SAMAMBAIA
+1831,1.000,50,Apartamento ,2,1,, RECANTO DAS EMAS
+1832,1.600,40,Apartamento ,1,1,, AGUAS CLARAS
+1833,900,60,Apartamento ,2,1,, TAGUATINGA
+1834,2.000,84,Apartamento ,1,1,1, LAGO NORTE
+1835,1.000,60,Apartamento ,2,1,, CEILANDIA
+1836,1.300,65,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1837,850,55,Apartamento ,2,1,, TAGUATINGA
+1838,7.500,200,Apartamento ,4,2,3, SUDOESTE
+1839,700,30,Kitnet ,1,,, NUCLEO BANDEIRANTE
+1840,2.100,58,Apartamento ,2,1,1, AGUAS CLARAS
+1841,1.600,36,Apartamento ,1,1,, AGUAS CLARAS
+1842,1.450,33,Apartamento ,1,1,1, AGUAS CLARAS
+1843,2.000,75,Apartamento ,3,1,1, AGUAS CLARAS
+1844,7.000,210,Apartamento ,4,1,2, ASA SUL
+1845,1.350,63,Apartamento ,2,1,, GUARA
+1846,700,40,Apartamento ,1,,, TAGUATINGA
+1847,1.100,60,Apartamento ,2,,, RIACHO FUNDO
+1848,1.250,50,Apartamento ,2,,, GUARA
+1849,850,64,Apartamento ,2,,, NUCLEO BANDEIRANTE
+1850,1.000,25,Kitnet ,1,1,, ASA NORTE
+1851,1.290,48,Apartamento ,2,1,, GUARA
+1852,830,25,Apartamento ,1,1,, ASA NORTE
+1853,1.150,50,Apartamento ,2,,, GUARA
+1854,800,45,Apartamento ,1,,, GUARA
+1855,3.300,70,Apartamento ,2,1,1, AGUAS CLARAS
+1856,1.050,27,Apartamento ,1,1,, ASA SUL
+1857,1.300,33,Apartamento ,1,1,, AGUAS CLARAS
+1858,3.700,116,Apartamento ,4,1,1, AGUAS CLARAS
+1859,2.500,62,Apartamento ,2,1,2, AGUAS CLARAS
+1860,1.800,57,Apartamento ,2,1,1, GAMA
+1861,2.990,68,Apartamento ,2,1,, ASA NORTE
+1862,450,30,Apartamento ,1,,, NUCLEO BANDEIRANTE
+1863,1.000,32,Apartamento ,1,1,1, AGUAS CLARAS
+1864,2.500,75,Apartamento ,3,,, ASA SUL
+1865,1.100,38,Kitnet ,1,1,1, GUARA
+1866,800,50,Apartamento ,2,,, SAMAMBAIA
+1867,2.600,29,Apartamento ,1,1,, PARK SUL
+1868,3.000,90,Apartamento ,3,,, ASA SUL
+1869,980,11,Apartamento ,1,1,, SETOR INDUSTRIAL
+1870,800,31,Apartamento ,1,,, ASA NORTE
+1871,1.400,27,Kitnet ,1,1,, SUDOESTE
+1872,11.800,146,Apartamento ,1,1,1, ASA SUL
+1873,2.000,34,Apartamento ,1,1,, AGUAS CLARAS
+1874,1.100,44,Apartamento ,1,1,, TAGUATINGA
+1875,9.850,178,Apartamento ,4,2,3, NOROESTE
+1876,1.200,35,Kitnet ,1,1,, SUDOESTE
+1877,1.350,60,Apartamento ,2,1,, NUCLEO BANDEIRANTE
+1878,3.300,64,Apartamento ,2,1,1, ASA NORTE
+1879,3.200,130,Apartamento ,4,1,2, AGUAS CLARAS
+1880,1.549,33,Apartamento ,1,,, AGUAS CLARAS
+1881,1.400,75,Apartamento ,3,,, NUCLEO BANDEIRANTE
+1882,1.500,62,Apartamento ,2,1,, AGUAS CLARAS
+1883,1.590,45,Apartamento ,1,,, OCTOGONAL
+1884,4.500,130,Apartamento ,4,1,2, ASA NORTE
+1885,1.800,45,Apartamento ,1,1,, AGUAS CLARAS
+1886,4.400,137,Apartamento ,4,1,2, SUDOESTE
+1887,850,38,Apartamento ,1,,, GUARA
+1888,580,23,Apartamento ,1,,, ASA NORTE
+1889,1.400,70,Apartamento ,2,,, SOBRADINHO
+1890,2.500,80,Apartamento ,3,,, ASA SUL
+1891,850,35,Apartamento ,1,,, GUARA
+1892,1.490,60,Apartamento ,2,1,1, GAMA
+1893,500,45,Apartamento ,2,1,, TAGUATINGA
+1894,1.700,34,Kitnet ,1,,, LAGO NORTE
+1895,700,40,Apartamento ,2,1,, PLANALTINA
+1896,980,32,Kitnet ,1,,, ASA NORTE
+1897,1.100,33,Apartamento ,2,,, TAGUATINGA
+1898,700,50,Apartamento ,2,2,, PLANALTINA
+1899,3.300,110,Apartamento ,3,1,2, AGUAS CLARAS
+1900,1.000,55,Apartamento ,2,1,1, SAMAMBAIA
+1901,850,34,Apartamento ,1,1,, SAMAMBAIA
+1902,780,30,Apartamento ,1,,, CEILANDIA
+1903,3.000,88,Apartamento ,3,1,1, AGUAS CLARAS
+1904,3.500,51,Apartamento ,1,1,, ASA NORTE
+1905,1.100,48,Kitnet ,1,,, ASA NORTE
+1906,700,50,Apartamento ,2,,, GUARA
+1907,4.300,100,Apartamento ,2,1,1, NOROESTE
+1908,2.500,40,Apartamento ,1,1,, ASA NORTE
+1909,850,60,Apartamento ,3,,, CEILANDIA
+1910,990,30,Apartamento ,1,1,1, ASA NORTE
+1911,1.100,35,Apartamento ,1,,, GUARA
+1912,12.000,209,Apartamento ,4,1,2, ASA SUL
+1913,950,71,Apartamento ,2,,, TAGUATINGA
+1914,820,42,Apartamento ,2,,, SAMAMBAIA
+1915,5.800,145,Apartamento ,4,2,2, AGUAS CLARAS
+1916,749,28,Kitnet ,1,,, ASA NORTE
+1917,1.400,25,Apartamento ,1,1,1, SUDOESTE
+1918,2.300,58,Apartamento ,2,,, ASA NORTE
+1919,1.350,52,Apartamento ,2,1,, CEILANDIA
+1920,4.500,48,Apartamento ,1,1,, ASA SUL
+1921,7.100,144,Apartamento ,4,1,3, NOROESTE
+1922,1.100,34,Apartamento ,2,,, ASA NORTE
+1923,1.500,63,Apartamento ,2,1,1, AGUAS CLARAS
+1924,660,30,Apartamento ,1,,, TAGUATINGA
+1925,1.200,45,Apartamento ,2,,, GUARA
+1926,1.500,70,Apartamento ,3,1,1, SAMAMBAIA
+1927,800,30,Kitnet ,1,,, GUARA
+1928,600,28,Apartamento ,1,,, TAGUATINGA
+1929,4.550,120,Apartamento ,4,1,2, ASA NORTE
+1930,1.200,34,Kitnet ,1,1,1, LAGO NORTE
+1931,800,25,Kitnet ,1,2,, ASA NORTE
+1932,3.500,104,Apartamento ,3,1,1, AGUAS CLARAS
+1933,1.300,37,Apartamento ,1,1,, AGUAS CLARAS
+1934,1.500,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+1935,1.400,62,Apartamento ,3,1,1, AGUAS CLARAS
+1936,2.790,82,Apartamento ,3,1,2, AGUAS CLARAS
+1937,1.790,62,Apartamento ,2,,, ASA NORTE
+1938,1.900,32,Apartamento ,1,,, ASA NORTE
+1939,2.500,28,Apartamento ,1,,, PARK SUL
+1940,1.000,27,Kitnet ,1,1,, ASA NORTE
+1941,1.000,32,Kitnet ,1,,, ASA NORTE
+1942,575,30,Apartamento ,1,,, GUARA
+1943,15.000,283,Apartamento ,4,1,2, SUDOESTE
+1944,1.000,42,Apartamento ,1,,, TAGUATINGA
+1945,900,30,Apartamento ,1,1,1, SAMAMBAIA
+1946,2.100,87,Apartamento ,3,1,1, AGUAS CLARAS
+1947,450,30,Kitnet ,1,,, TAGUATINGA
+1948,2.300,53,Apartamento ,1,1,1, LAGO NORTE
+1949,2.800,50,Apartamento ,2,,, ASA SUL
+1950,1.500,35,Kitnet ,1,,, LAGO NORTE
+1951,3.100,152,Apartamento ,3,1,1, AGUAS CLARAS
+1952,2.500,70,Apartamento ,2,1,, OCTOGONAL
+1953,1.580,30,Kitnet ,1,1,, PARK SUL
+1954,2.500,80,Apartamento ,2,,, LAGO NORTE
+1955,2.700,80,Apartamento ,3,1,, AGUAS CLARAS
+1956,3.200,79,Apartamento ,2,1,2, AGUAS CLARAS
+1957,3.500,97,Apartamento ,3,1,1, AGUAS CLARAS
+1958,2.150,55,Apartamento ,1,1,1, GUARA
+1959,900,30,Kitnet ,1,,, SUDOESTE
+1960,930,26,Apartamento ,1,1,, ASA SUL
+1961,2.600,75,Apartamento ,3,1,, ASA SUL
+1962,1.500,63,Apartamento ,2,,, GUARA
+1963,3.240,58,Apartamento ,2,,, SUDOESTE
+1964,2.600,44,Apartamento ,1,1,1, AGUAS CLARAS
+1965,2.900,92,Apartamento ,3,,, ASA SUL
+1966,560,26,Apartamento ,1,,, GUARA
+1967,450,28,Apartamento ,1,,, RIACHO FUNDO
+1968,5.800,110,Apartamento ,3,1,1, ASA SUL
+1969,650,21,Kitnet ,1,,, ASA NORTE
+1970,5.000,161,Apartamento ,3,1,, ASA SUL
+1971,1.900,45,Apartamento ,1,1,, AGUAS CLARAS
+1972,1.900,69,Apartamento ,2,1,, AGUAS CLARAS
+1973,350.000,35,Kitnet ,8,,, CEILANDIA
+1974,6.200,107,Apartamento ,4,1,2, PARK SUL
+1975,750,30,Kitnet ,1,,, ASA NORTE
+1976,1.650,45,Apartamento ,2,1,, TAGUATINGA
+1977,1.200,41,Apartamento ,1,,, GUARA
+1978,900,28,Kitnet ,1,,, ASA NORTE
+1979,1.100,58,Apartamento ,2,,, TAGUATINGA
+1980,1.750,60,Apartamento ,2,1,1, AGUAS CLARAS
+1981,650,20,Kitnet ,1,,, ASA NORTE
+1982,1.900,60,Apartamento ,2,,, CRUZEIRO
+1983,2.200,50,Apartamento ,2,1,, LAGO NORTE
+1984,850,28,Kitnet ,1,,, ASA SUL
+1985,1.490,37,Apartamento ,1,1,1, AGUAS CLARAS
+1986,5.800,160,Apartamento ,3,1,, ASA SUL
+1987,1.100,62,Apartamento ,2,1,, TAGUATINGA
+1988,1.200,32,Apartamento ,1,1,1, ASA NORTE
+1989,12.000,200,Apartamento ,4,4,2, SUDOESTE
+1990,4.970,155,Apartamento ,4,2,4, AGUAS CLARAS
+1991,3.200,70,Apartamento ,3,1,, ASA SUL
+1992,2.000,35,Apartamento ,2,1,, PARK SUL
+1993,1.150,28,Kitnet ,1,1,1, ASA NORTE
+1994,4.200,73,Apartamento ,2,1,2, NOROESTE
+1995,2.650,77,Apartamento ,2,,, ASA SUL
+1996,7.000,153,Apartamento ,4,4,3, AGUAS CLARAS
+1997,1.100,40,Apartamento ,2,,, TAGUATINGA
+1998,3.000,62,Apartamento ,2,1,, OCTOGONAL
+1999,3.150,46,Apartamento ,1,1,1, SUDOESTE
+2000,3.800,120,Apartamento ,3,1,1, ASA SUL
+2001,1.000,28,Kitnet ,1,1,, ASA NORTE
+2002,1.100,28,Kitnet ,1,1,1, ASA SUL
+2003,800,30,Kitnet ,1,,, SAMAMBAIA
+2004,1.100,27,Apartamento ,1,,, ASA SUL
+2005,1.600,88,Apartamento ,2,1,, GUARA
+2006,600,60,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2007,2.500,50,Apartamento ,2,,, ASA NORTE
+2008,1.450,55,Apartamento ,1,,, ASA SUL
+2009,1.300,55,Apartamento ,2,1,1, CEILANDIA
+2010,1.350,42,Apartamento ,2,1,, LAGO NORTE
+2011,1.100,35,Apartamento ,1,,, GUARA
+2012,850,50,Apartamento ,2,1,1, VALPARAISO DE GOIAS
+2013,2.450,94,Apartamento ,1,1,2, TAGUATINGA
+2014,1.000,25,Kitnet ,1,1,1, SUDOESTE
+2015,4.500,245,Apartamento ,4,2,2, AGUAS CLARAS
+2016,11.000,132,Apartamento ,4,2,2, NOROESTE
+2017,3.500,121,Apartamento ,3,1,, ASA NORTE
+2018,1.590,33,Apartamento ,1,1,, AGUAS CLARAS
+2019,1.150,36,Apartamento ,1,,, GUARA
+2020,2.200,50,Apartamento ,2,1,, AGUAS CLARAS
+2021,3.000,67,Apartamento ,2,,, ASA NORTE
+2022,900,42,Kitnet ,1,,, ASA NORTE
+2023,950,40,Apartamento ,1,,, ASA NORTE
+2024,1.000,55,Apartamento ,1,,, NUCLEO BANDEIRANTE
+2025,900,25,Kitnet ,1,1,, ASA NORTE
+2026,2.100,33,Apartamento ,1,1,1, AGUAS CLARAS
+2027,1.100,50,Apartamento ,1,1,, SAMAMBAIA
+2028,700,30,Apartamento ,1,,, GUARA
+2029,450,30,Kitnet ,1,,, NUCLEO BANDEIRANTE
+2030,1.250,26,Apartamento ,1,2,, ASA SUL
+2031,11.000,347,Apartamento ,4,2,2, ASA SUL
+2032,3.000,77,Apartamento ,2,3,, AGUAS CLARAS
+2033,750,45,Apartamento ,2,,, GUARA
+2034,1.300,54,Apartamento ,2,,, TAGUATINGA
+2035,4.000,99,Apartamento ,3,1,2, GUARA
+2036,2.100,61,Apartamento ,2,,, SUDOESTE
+2037,3.200,76,Apartamento ,3,1,1, GUARA
+2038,4.000,100,Apartamento ,3,1,1, SUDOESTE
+2039,900,50,Apartamento ,2,,, GUARA
+2040,1.450,32,Apartamento ,1,1,1, AGUAS CLARAS
+2041,1.700,33,Apartamento ,1,1,1, AGUAS CLARAS
+2042,1.800,57,Apartamento ,3,1,, GUARA
+2043,700,30,Kitnet ,1,,, RIACHO FUNDO
+2044,2.100,74,Apartamento ,3,1,1, TAGUATINGA
+2045,1.000,40,Kitnet ,1,,, ASA NORTE
+2046,2.500,57,Apartamento ,2,1,, ASA NORTE
+2047,4.400,152,Apartamento ,3,2,, AGUAS CLARAS
+2048,3.200,131,Apartamento ,2,1,, ASA NORTE
+2049,800,52,Apartamento ,1,,, SAMAMBAIA
+2050,1.900,34,Apartamento ,1,1,, NOROESTE
+2051,6.600,158,Apartamento ,3,1,1, ASA SUL
+2052,900,30,Apartamento ,1,,, ASA NORTE
+2053,700,40,Apartamento ,1,,, BRAZLANDIA
+2054,750,30,Apartamento ,1,,, SUDOESTE
+2055,700,28,Apartamento ,1,,, TAGUATINGA
+2056,2.200,69,Apartamento ,3,1,1, GAMA
+2057,900,29,Apartamento ,1,1,, SAMAMBAIA
+2058,17.000,147,Apartamento ,4,4,4, SUDOESTE
+2059,2.200,59,Apartamento ,3,1,, ASA SUL
+2060,1.400,30,Kitnet ,1,,, SUDOESTE
+2061,1.950,52,Apartamento ,2,,, CRUZEIRO
+2062,980,70,Apartamento ,2,1,1, SAMAMBAIA
+2063,1.100,33,Kitnet ,1,1,, LAGO NORTE
+2064,1.500,75,Apartamento ,1,1,, LAGO NORTE
+2065,5.800,96,Apartamento ,2,1,2, PARK SUL
+2066,1.900,51,Apartamento ,2,1,1, AGUAS CLARAS
+2067,4.200,144,Apartamento ,3,1,, ASA SUL
+2068,5.500,160,Apartamento ,3,1,1, ASA SUL
+2069,5.900,70,Apartamento ,2,2,2, PARK SUL
+2070,2.500,60,Apartamento ,2,,, SUDOESTE
+2071,1.500,40,Apartamento ,1,,, ASA NORTE
+2072,2.800,123,Apartamento ,3,1,1, AGUAS CLARAS
+2073,2.500,68,Apartamento ,2,,, ASA SUL
+2074,800,30,Apartamento ,1,1,, SOBRADINHO
+2075,2.400,77,Apartamento ,3,,, ASA SUL
+2076,1.400,55,Apartamento ,2,,, RIACHO FUNDO
+2077,750,30,Kitnet ,1,,, LAGO NORTE
+2078,1.300,32,Apartamento ,1,1,1, AGUAS CLARAS
+2079,4.000,83,Apartamento ,1,1,1, AGUAS CLARAS
+2080,1.290,55,Apartamento ,2,1,, GUARA
+2081,3.400,87,Apartamento ,3,1,2, GUARA
+2082,2.500,65,Apartamento ,2,,, ASA NORTE
+2083,1.200,55,Apartamento ,2,1,, GAMA
+2084,1.100,47,Kitnet ,1,,, GUARA
+2085,1.100,70,Apartamento ,3,1,, CEILANDIA
+2086,820,29,Kitnet ,1,1,, LAGO NORTE
+2087,1.800,70,Apartamento ,2,1,, AGUAS CLARAS
+2088,1.100,40,Apartamento ,1,,, ASA SUL
+2089,1.350,26,Apartamento ,1,1,, RIACHO FUNDO
+2090,6.700,145,Apartamento ,3,1,, ASA SUL
+2091,850,30,Kitnet ,1,,, ASA NORTE
+2092,1.550,34,Apartamento ,1,1,1, AGUAS CLARAS
+2093,2.100,54,Apartamento ,2,1,1, AGUAS CLARAS
+2094,2.700,90,Apartamento ,3,1,1, AGUAS CLARAS
+2095,1.300,50,Apartamento ,1,1,, AGUAS CLARAS
+2096,1.900,58,Apartamento ,1,1,1, AGUAS CLARAS
+2097,800,22,Kitnet ,1,,, ASA NORTE
+2098,900,60,Apartamento ,2,1,1, RIACHO FUNDO
+2099,850,54,Kitnet ,1,,, GUARA
+2100,1.600,56,Apartamento ,1,,, AGUAS CLARAS
+2101,1.400,57,Apartamento ,2,2,, SOBRADINHO
+2102,1.400,52,Apartamento ,2,1,1, TAGUATINGA
+2103,3.300,158,Apartamento ,3,1,1, AGUAS CLARAS
+2104,1.500,55,Apartamento ,2,1,, TAGUATINGA
+2105,4.500,51,Apartamento ,1,1,, ASA NORTE
+2106,950,60,Apartamento ,2,,, GUARA
+2107,2.500,63,Apartamento ,2,1,1, GUARA
+2108,2.500,55,Apartamento ,2,1,, LAGO NORTE
+2109,1.700,60,Apartamento ,2,1,1, TAGUATINGA
+2110,2.400,80,Apartamento ,2,,, ASA NORTE
+2111,700,50,Apartamento ,2,,, GUARA
+2112,3.000,190,Apartamento ,3,1,, ASA SUL
+2113,900,65,Apartamento ,2,,, TAGUATINGA
+2114,1.990,64,Apartamento ,1,1,, LAGO NORTE
+2115,1.000,12,Kitnet ,1,,, ASA NORTE
+2116,4.700,135,Apartamento ,3,1,1, ASA NORTE
+2117,1.300,35,Apartamento ,1,1,, SAMAMBAIA
+2118,450,25,Apartamento ,1,1,, NUCLEO BANDEIRANTE
+2119,1.100,37,Apartamento ,1,,, LAGO NORTE
+2120,1.100,26,Kitnet ,1,,, ASA NORTE
+2121,3.100,89,Apartamento ,3,,, ASA SUL
+2122,650,45,Apartamento ,1,,, NUCLEO BANDEIRANTE
+2123,2.300,55,Apartamento ,2,1,1, AGUAS CLARAS
+2124,800,30,Kitnet ,1,,, ASA NORTE
+2125,2.800,74,Apartamento ,2,1,, ASA NORTE
+2126,1.000,200,Apartamento ,2,,, SAO SEBASTIAO
+2127,950,46,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2128,900,30,Kitnet ,1,1,, SUDOESTE
+2129,800,40,Apartamento ,1,,, RIACHO FUNDO
+2130,5.500,158,Apartamento ,3,2,1, ASA SUL
+2131,1.260,40,Kitnet ,1,,, SUDOESTE
+2132,1.900,46,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2133,3.600,82,Apartamento ,3,1,1, SUDOESTE
+2134,950,37,Apartamento ,1,,, SUDOESTE
+2135,650,28,Kitnet ,1,,, AGUAS CLARAS
+2136,1.400,75,Apartamento ,3,1,1, SOBRADINHO
+2137,8.500,173,Apartamento ,4,2,2, ASA NORTE
+2138,900,50,Apartamento ,2,,, TAGUATINGA
+2139,17.000,300,Apartamento ,4,4,3, SUDOESTE
+2140,1.300,25,Kitnet ,1,1,, ASA SUL
+2141,4.600,106,Apartamento ,4,2,2, ASA NORTE
+2142,4.500,120,Apartamento ,3,1,1, ASA NORTE
+2143,2.900,70,Apartamento ,2,1,, SUDOESTE
+2144,800,25,Kitnet ,1,,, SUDOESTE
+2145,1.700,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2146,1.450,27,Kitnet ,1,,, ASA NORTE
+2147,2.850,65,Apartamento ,2,1,, ASA NORTE
+2148,1.550,39,Apartamento ,1,,, ASA SUL
+2149,1.060,28,Kitnet ,1,,, SUDOESTE
+2150,6.000,185,Apartamento ,3,1,1, ASA SUL
+2151,3.500,96,Apartamento ,3,1,1, AGUAS CLARAS
+2152,7.000,156,Apartamento ,2,1,2, NOROESTE
+2153,2.900,91,Apartamento ,3,1,1, AGUAS CLARAS
+2154,7.000,105,Apartamento ,3,1,1, SUDOESTE
+2155,2.000,76,Apartamento ,3,1,, GUARA
+2156,1.750,74,Apartamento ,3,1,1, GUARA
+2157,6.500,130,Apartamento ,3,1,, ASA NORTE
+2158,4.500,51,Apartamento ,1,1,, ASA NORTE
+2159,2.000,78,Apartamento ,3,1,1, AGUAS CLARAS
+2160,1.000,35,Apartamento ,2,,, AGUAS CLARAS
+2161,650,45,Apartamento ,2,1,, SANTA MARIA
+2162,1.000,30,Kitnet ,1,,, GUARA
+2163,3.700,105,Apartamento ,3,3,2, AGUAS CLARAS
+2164,3.300,69,Apartamento ,2,,, ASA NORTE
+2165,1.000,52,Apartamento ,1,,, GUARA
+2166,1.100,28,Apartamento ,1,,, ASA NORTE
+2167,950,50,Apartamento ,2,,, GUARA
+2168,950,50,Kitnet ,1,,, CEILANDIA
+2169,900,38,Apartamento ,1,,, VICENTE PIRES
+2170,1.300,82,Apartamento ,3,1,, GUARA
+2171,2.000,70,Apartamento ,3,1,1, AGUAS CLARAS
+2172,900,50,Apartamento ,2,,, GUARA
+2173,650,30,Kitnet ,1,,, GUARA
+2174,760,44,Apartamento ,2,,, GUARA
+2175,2.100,27,Apartamento ,1,1,, SUDOESTE
+2176,2.500,68,Apartamento ,2,,, OCTOGONAL
+2177,1.300,26,Kitnet ,1,1,1, LAGO NORTE
+2178,1.900,30,Apartamento ,1,,, ASA SUL
+2179,700,65,Apartamento ,2,1,, SANTA MARIA
+2180,1.100,47,Kitnet ,1,,, LAGO NORTE
+2181,4.500,66,Apartamento ,1,1,1, SUDOESTE
+2182,1.250,26,Kitnet ,1,1,, ASA NORTE
+2183,1.800,73,Apartamento ,3,1,, TAGUATINGA
+2184,2.200,70,Apartamento ,3,1,1, AGUAS CLARAS
+2185,1.650,37,Apartamento ,1,1,, AGUAS CLARAS
+2186,630,50,Apartamento ,1,,, CEILANDIA
+2187,1.900,33,Apartamento ,1,1,, NOROESTE
+2188,3.500,79,Apartamento ,2,1,1, ASA NORTE
+2189,1.000,38,Apartamento ,1,1,1, GUARA
+2190,950,43,Kitnet ,1,,, GUARA
+2191,1.790,32,Kitnet ,1,1,, SUDOESTE
+2192,900,60,Apartamento ,2,1,, VALPARAISO DE GOIAS
+2193,3.300,64,Apartamento ,2,1,, ASA NORTE
+2194,950,27,Kitnet ,1,1,, GUARA
+2195,6.500,200,Apartamento ,3,2,2, AGUAS CLARAS
+2196,1.100,33,Kitnet ,1,,, SUDOESTE
+2197,2.110,0,Apartamento ,2,1,1, GAMA
+2198,1.200,30,Kitnet ,1,,, ASA NORTE
+2199,950,30,Apartamento ,1,,, GUARA
+2200,2.700,75,Apartamento ,2,,, ASA NORTE
+2201,1.000,34,Apartamento ,1,1,1, AGUAS CLARAS
+2202,1.400,67,Apartamento ,3,1,1, CEILANDIA
+2203,900,1,Kitnet ,1,1,, GUARA
+2204,700,35,Kitnet ,1,,, PLANALTINA
+2205,3.700,97,Apartamento ,3,1,1, ASA NORTE
+2206,950,61,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2207,1.700,28,Kitnet ,1,1,, ASA NORTE
+2208,2.550,63,Apartamento ,2,,, SUDOESTE
+2209,2.900,85,Apartamento ,3,1,1, AGUAS CLARAS
+2210,1.500,65,Apartamento ,2,1,1, AGUAS CLARAS
+2211,2.000,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2212,800,31,Kitnet ,1,,, ASA NORTE
+2213,1.300,25,Kitnet ,1,1,1, SUDOESTE
+2214,950,33,Apartamento ,1,1,, AGUAS CLARAS
+2215,900,50,Apartamento ,2,,, CEILANDIA
+2216,3.000,85,Apartamento ,3,,, ASA SUL
+2217,1.200,45,Kitnet ,1,,, ASA NORTE
+2218,1.900,60,Apartamento ,1,,, ASA NORTE
+2219,1.600,45,Apartamento ,1,1,, AGUAS CLARAS
+2220,1.500,90,Apartamento ,2,1,, GUARA
+2221,220.000,54,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2222,1.100,25,Kitnet ,1,1,, ASA NORTE
+2223,1.400,33,Apartamento ,1,1,1, AGUAS CLARAS
+2224,2.200,34,Apartamento ,1,1,1, ASA NORTE
+2225,1.400,50,Apartamento ,2,1,1, CEILANDIA
+2226,2.300,80,Apartamento ,2,1,1, AGUAS CLARAS
+2227,750,22,Kitnet ,1,,, ASA NORTE
+2228,1.500,28,Kitnet ,1,1,, NOROESTE
+2229,1.400,43,Apartamento ,1,1,1, AGUAS CLARAS
+2230,1.000,50,Apartamento ,2,,, TAGUATINGA
+2231,2.000,40,Apartamento ,1,1,, ASA NORTE
+2232,950,40,Apartamento ,1,1,, AGUAS CLARAS
+2233,2.750,80,Apartamento ,2,,, ASA SUL
+2234,950,28,Kitnet ,1,1,, ASA NORTE
+2235,2.800,68,Apartamento ,2,1,1, AGUAS CLARAS
+2236,3.600,77,Apartamento ,3,,, ASA SUL
+2237,1.150,33,Apartamento ,1,,, ASA NORTE
+2238,2.000,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2239,5.490,140,Apartamento ,3,1,1, ASA SUL
+2240,700,32,Apartamento ,1,,, RIACHO FUNDO
+2241,3.800,78,Apartamento ,2,1,2, GUARA
+2242,3.300,84,Apartamento ,3,1,1, ASA NORTE
+2243,2.350,45,Apartamento ,1,1,, ASA SUL
+2244,4.000,147,Apartamento ,3,1,, JARDIM BOTANICO
+2245,900,25,Kitnet ,1,1,, ASA NORTE
+2246,850,70,Apartamento ,2,,, PLANALTINA
+2247,2.350,52,Apartamento ,2,,, CRUZEIRO
+2248,4.500,110,Apartamento ,3,1,2, NOROESTE
+2249,900,50,Apartamento ,2,1,, TAGUATINGA
+2250,1.200,29,Kitnet ,1,,, ASA NORTE
+2251,1.300,58,Apartamento ,2,1,1, SAMAMBAIA
+2252,1.700,30,Kitnet ,1,1,1, ASA NORTE
+2253,4.200,120,Apartamento ,2,1,1, ASA SUL
+2254,1.400,60,Apartamento ,2,1,1, SAMAMBAIA
+2255,1.200,28,Kitnet ,1,1,, LAGO NORTE
+2256,6.500,130,Apartamento ,3,1,2, SUDOESTE
+2257,1.200,25,Kitnet ,1,1,, SUDOESTE
+2258,800,41,Apartamento ,2,,, SAMAMBAIA
+2259,800,41,Apartamento ,2,,, SAMAMBAIA
+2260,700,59,Apartamento ,2,,, TAGUATINGA
+2261,2.970,147,Apartamento ,3,1,1, AGUAS CLARAS
+2262,1.250,25,Kitnet ,1,1,, SUDOESTE
+2263,1.250,27,Kitnet ,1,1,, SUDOESTE
+2264,3.950,125,Apartamento ,3,1,1, ASA NORTE
+2265,1.600,34,Apartamento ,1,1,, AGUAS CLARAS
+2266,2.100,37,Apartamento ,1,1,, AGUAS CLARAS
+2267,1.100,70,Apartamento ,2,1,, TAGUATINGA
+2268,2.300,43,Apartamento ,1,1,, GUARA
+2269,800,35,Apartamento ,1,,, RIACHO FUNDO
+2270,1.550,31,Kitnet ,1,1,1, NOROESTE
+2271,5.000,183,Apartamento ,3,1,2, AGUAS CLARAS
+2272,2.600,87,Apartamento ,3,1,1, AGUAS CLARAS
+2273,1.800,70,Apartamento ,3,1,, TAGUATINGA
+2274,3.200,46,Apartamento ,1,1,, ASA NORTE
+2275,530,35,Apartamento ,1,,, NUCLEO BANDEIRANTE
+2276,1.000,36,Apartamento ,1,,, ASA NORTE
+2277,1.100,24,Kitnet ,1,1,, PARK SUL
+2278,1.300,30,Kitnet ,1,1,, ASA SUL
+2279,1.200,24,Kitnet ,1,1,, ASA SUL
+2280,1.100,39,Apartamento ,1,,, SOBRADINHO
+2281,1.000,33,Kitnet ,1,,, LAGO NORTE
+2282,1.800,60,Apartamento ,2,,, GUARA
+2283,1.550,42,Apartamento ,2,,, CRUZEIRO
+2284,4.000,52,Apartamento ,1,1,, ASA NORTE
+2285,1.700,28,Apartamento ,1,1,, PARK SUL
+2286,1.100,25,Kitnet ,1,1,, ASA NORTE
+2287,4.000,100,Apartamento ,4,3,2, AGUAS CLARAS
+2288,850,38,Apartamento ,1,1,, SAMAMBAIA
+2289,2.450,75,Apartamento ,2,1,, LAGO NORTE
+2290,1.100,65,Apartamento ,2,,, RIACHO FUNDO
+2291,2.700,58,Apartamento ,2,,, ASA NORTE
+2292,1.200,55,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2293,1.300,66,Apartamento ,2,,, TAGUATINGA
+2294,3.900,120,Apartamento ,3,1,, ASA NORTE
+2295,3.200,75,Apartamento ,2,1,, ASA NORTE
+2296,2.500,64,Apartamento ,2,,, ASA SUL
+2297,3.200,110,Apartamento ,3,1,1, AGUAS CLARAS
+2298,1.700,33,Apartamento ,1,1,, AGUAS CLARAS
+2299,1.050,50,Apartamento ,2,,, RECANTO DAS EMAS
+2300,1.650,55,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2301,600,38,Apartamento ,1,,, RIACHO FUNDO
+2302,1.100,70,Apartamento ,2,1,, TAGUATINGA
+2303,2.000,84,Apartamento ,1,1,1, LAGO NORTE
+2304,4.500,167,Apartamento ,3,1,1, ASA SUL
+2305,1.000,30,Kitnet ,1,1,, OCTOGONAL
+2306,6.800,145,Apartamento ,2,1,1, ASA SUL
+2307,2.300,55,Apartamento ,2,1,1, LAGO NORTE
+2308,2.100,26,Apartamento ,1,,, AGUAS CLARAS
+2309,1.150,36,Apartamento ,1,,, GUARA
+2310,4.200,160,Apartamento ,4,2,2, AGUAS CLARAS
+2311,1.200,40,Kitnet ,1,1,, SUDOESTE
+2312,1.200,30,Kitnet ,1,1,, NOROESTE
+2313,3.150,70,Apartamento ,2,1,, ASA NORTE
+2314,900,30,Apartamento ,1,1,, ASA NORTE
+2315,900,34,Apartamento ,1,1,1, ASA NORTE
+2316,800,45,Apartamento ,1,,, GUARA
+2317,8.400,145,Apartamento ,4,2,3, PARK SUL
+2318,1.200,35,Kitnet ,1,,, SUDOESTE
+2319,3.500,104,Apartamento ,3,,, ASA SUL
+2320,4.200,124,Apartamento ,4,1,1, OCTOGONAL
+2321,2.200,33,Apartamento ,1,1,1, ASA NORTE
+2322,2.500,65,Apartamento ,2,1,, OCTOGONAL
+2323,980,30,Kitnet ,1,1,, CRUZEIRO
+2324,3.900,126,Apartamento ,3,1,1, AGUAS CLARAS
+2325,4.900,93,Apartamento ,3,1,1, ASA NORTE
+2326,1.750,34,Apartamento ,1,1,, AGUAS CLARAS
+2327,1.180,36,Kitnet ,1,,, SUDOESTE
+2328,1.200,26,Kitnet ,1,,, ASA NORTE
+2329,900,43,Apartamento ,2,,, TAGUATINGA
+2330,1.600,34,Apartamento ,1,1,, AGUAS CLARAS
+2331,650,30,Apartamento ,1,,, GUARA
+2332,2.000,32,Apartamento ,1,1,, ASA NORTE
+2333,750,30,Kitnet ,1,1,1, SUDOESTE
+2334,3.200,26,Kitnet ,1,1,, SUDOESTE
+2335,1.650,29,Apartamento ,1,1,, LAGO NORTE
+2336,950,157,Apartamento ,1,,, TAGUATINGA
+2337,6.200,110,Apartamento ,3,1,1, ASA SUL
+2338,750,45,Kitnet ,1,,, SAMAMBAIA
+2339,1.050,50,Apartamento ,2,,, RECANTO DAS EMAS
+2340,650,25,Kitnet ,1,,, VILA PLANALTO
+2341,1.500,56,Apartamento ,2,,, GUARA
+2342,1.250,56,Apartamento ,2,1,, SAMAMBAIA
+2343,950,40,Apartamento ,1,,, TAGUATINGA
+2344,950,29,Kitnet ,1,,, ASA NORTE
+2345,2.300,96,Apartamento ,3,1,1, AGUAS CLARAS
+2346,900,27,Kitnet ,1,1,, PARK SUL
+2347,3.300,65,Apartamento ,2,1,, ASA SUL
+2348,3.000,78,Apartamento ,3,1,2, GUARA
+2349,3.200,70,Apartamento ,2,1,, ASA NORTE
+2350,600,27,Kitnet ,,,, RIACHO FUNDO
+2351,5.100,123,Apartamento ,3,1,1, ASA NORTE
+2352,1.950,54,Kitnet ,1,1,, SUDOESTE
+2353,1.000,43,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2354,2.100,60,Apartamento ,2,,, CRUZEIRO
+2355,800,60,Apartamento ,2,,, TAGUATINGA
+2356,1.550,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2357,4.500,120,Apartamento ,3,1,1, ASA NORTE
+2358,1.080,25,Kitnet ,1,1,1, ASA NORTE
+2359,1.500,26,Apartamento ,1,2,, ASA SUL
+2360,2.850,65,Apartamento ,2,,, ASA NORTE
+2361,2.650,66,Apartamento ,2,1,1, GUARA
+2362,1.100,35,Apartamento ,1,,, SUDOESTE
+2363,2.200,98,Apartamento ,3,1,1, AGUAS CLARAS
+2364,4.200,87,Apartamento ,1,1,2, NOROESTE
+2365,1.700,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2366,1.000,28,Kitnet ,1,,, ASA NORTE
+2367,3.100,80,Apartamento ,2,1,1, ASA NORTE
+2368,1.800,84,Apartamento ,3,1,1, GUARA
+2369,790,29,Kitnet ,1,,, ASA NORTE
+2370,6.000,152,Apartamento ,4,2,2, SUDOESTE
+2371,1.100,25,Kitnet ,1,1,, ASA NORTE
+2372,1.500,32,Apartamento ,1,1,1, AGUAS CLARAS
+2373,1.500,34,Apartamento ,1,1,1, AGUAS CLARAS
+2374,750,35,Kitnet ,1,,, SIG
+2375,2.100,33,Apartamento ,1,1,, AGUAS CLARAS
+2376,900,35,Kitnet ,1,,, SUDOESTE
+2377,850,50,Apartamento ,2,,, PARANOA
+2378,2.950,63,Apartamento ,2,1,1, SUDOESTE
+2379,850,55,Apartamento ,2,,, TAGUATINGA
+2380,1.000,40,Apartamento ,2,,, TAGUATINGA
+2381,1.550,30,Apartamento ,1,1,1, AGUAS CLARAS
+2382,750,55,Apartamento ,1,1,, SOBRADINHO
+2383,6.700,144,Apartamento ,4,2,2, ASA NORTE
+2384,11.000,240,Apartamento ,4,2,2, ASA SUL
+2385,670,45,Kitnet ,1,,, GUARA
+2386,800,30,Apartamento ,1,1,1, TAGUATINGA
+2387,5.500,163,Apartamento ,3,1,, ASA SUL
+2388,4.430,120,Apartamento ,3,1,1, ASA NORTE
+2389,1.500,32,Apartamento ,1,1,, AGUAS CLARAS
+2390,650,43,Apartamento ,2,1,, VALPARAISO DE GOIAS
+2391,800,55,Apartamento ,2,1,, VALPARAISO DE GOIAS
+2392,1.550,49,Apartamento ,2,,, ASA SUL
+2393,950,29,Kitnet ,1,1,, ASA NORTE
+2394,2.200,62,Apartamento ,2,,, SUDOESTE
+2395,4.200,95,Apartamento ,3,1,1, ASA NORTE
+2396,1.100,55,Apartamento ,2,1,, TAGUATINGA
+2397,1.100,36,Apartamento ,1,,, LAGO NORTE
+2398,1.200,45,Kitnet ,1,,, ASA NORTE
+2399,900,45,Apartamento ,2,,, GUARA
+2400,1.000,57,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2401,1.320,65,Apartamento ,3,1,1, SAMAMBAIA
+2402,1.520,80,Apartamento ,3,1,1, SOBRADINHO
+2403,1.165,50,Apartamento ,2,,, VARJAO
+2404,1.300,26,Kitnet ,1,1,, PARK SUL
+2405,3.300,106,Apartamento ,4,1,2, AGUAS CLARAS
+2406,10.000,155,Apartamento ,3,3,2, NOROESTE
+2407,1.800,97,Apartamento ,2,1,1, GUARA
+2408,1.300,27,Kitnet ,1,1,, SUDOESTE
+2409,2.400,60,Apartamento ,1,1,, ASA NORTE
+2410,2.500,34,Apartamento ,1,1,, NOROESTE
+2411,550,20,Kitnet ,1,,, VILA PLANALTO
+2412,500,45,Kitnet ,1,1,, RECANTO DAS EMAS
+2413,3.350,104,Apartamento ,3,1,1, AGUAS CLARAS
+2414,1.100,28,Kitnet ,1,,, SUDOESTE
+2415,1.700,30,Kitnet ,1,1,, NOROESTE
+2416,750,30,Apartamento ,1,,, SOBRADINHO
+2417,820,28,Kitnet ,1,1,, GUARA
+2418,6.000,110,Apartamento ,3,1,1, ASA SUL
+2419,1.763,45,Apartamento ,1,,, ASA NORTE
+2420,1.350,48,Apartamento ,2,1,, AGUAS CLARAS
+2421,750,30,Kitnet ,1,,, SUDOESTE
+2422,800,30,Apartamento ,1,1,, NUCLEO BANDEIRANTE
+2423,6.300,181,Apartamento ,4,2,1, ASA NORTE
+2424,1.600,32,Apartamento ,1,1,1, AGUAS CLARAS
+2425,780,26,Kitnet ,1,,, SUDOESTE
+2426,2.600,70,Apartamento ,3,1,1, AGUAS CLARAS
+2427,850,65,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2428,650,50,Apartamento ,2,,, SAMAMBAIA
+2429,1.700,70,Apartamento ,3,1,1, AGUAS CLARAS
+2430,1.300,65,Apartamento ,2,1,, SOBRADINHO
+2431,1.100,36,Apartamento ,1,1,1, AGUAS CLARAS
+2432,690,48,Apartamento ,2,,, TAGUATINGA
+2433,1.200,25,Kitnet ,1,1,1, SUDOESTE
+2434,2.300,30,Apartamento ,1,1,, ASA NORTE
+2435,2.200,76,Apartamento ,3,1,1, AGUAS CLARAS
+2436,3.000,46,Apartamento ,1,,, ASA SUL
+2437,6.000,147,Apartamento ,3,3,2, AGUAS CLARAS
+2438,1.300,33,Apartamento ,1,1,, SUDOESTE
+2439,950,30,Apartamento ,1,,, NUCLEO BANDEIRANTE
+2440,1.500,65,Apartamento ,3,2,1, AGUAS CLARAS
+2441,2.400,41,Apartamento ,2,1,1, SUDOESTE
+2442,1.250,35,Kitnet ,1,1,, SUDOESTE
+2443,1.000,28,Kitnet ,1,1,, ASA NORTE
+2444,3.800,115,Apartamento ,3,1,1, ASA SUL
+2445,2.890,33,Apartamento ,1,1,1, ASA NORTE
+2446,1.700,40,Kitnet ,1,,, SUDOESTE
+2447,1.300,59,Apartamento ,2,1,, TAGUATINGA
+2448,1.900,34,Apartamento ,1,1,, NOROESTE
+2449,1.300,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2450,2.300,68,Apartamento ,2,1,1, AGUAS CLARAS
+2451,950,26,Kitnet ,1,1,, ASA NORTE
+2452,1.400,34,Apartamento ,1,1,, AGUAS CLARAS
+2453,950,31,Kitnet ,1,,, ASA NORTE
+2454,10.700,212,Apartamento ,4,4,3, NOROESTE
+2455,850,30,Kitnet ,1,,, ASA NORTE
+2456,1.550,34,Kitnet ,1,1,, LAGO NORTE
+2457,1.350,34,Kitnet ,1,,, ASA NORTE
+2458,1.200,37,Kitnet ,1,1,, LAGO NORTE
+2459,900,25,Kitnet ,1,1,, ASA NORTE
+2460,1.250,40,Apartamento ,1,1,, AGUAS CLARAS
+2461,1.000,33,Apartamento ,1,,, GUARA
+2462,1.500,75,Apartamento ,1,1,1, LAGO NORTE
+2463,1.050,40,Apartamento ,2,,, SOBRADINHO
+2464,1.200,30,Kitnet ,1,,, ASA NORTE
+2465,3.900,85,Apartamento ,3,1,, ASA SUL
+2466,1.200,32,Apartamento ,1,1,, ASA NORTE
+2467,3.500,125,Apartamento ,3,1,, ASA NORTE
+2468,1.950,69,Apartamento ,3,1,1, GAMA
+2469,750,35,Apartamento ,1,,, TAGUATINGA
+2470,1.900,32,Apartamento ,1,,, NOROESTE
+2471,1.000,28,Kitnet ,1,,, ASA NORTE
+2472,750,29,Kitnet ,1,,, ASA NORTE
+2473,800,30,Kitnet ,1,,, ASA NORTE
+2474,1.000,47,Apartamento ,2,1,, VALPARAISO DE GOIAS
+2475,1.100,27,Kitnet ,1,1,, AGUAS CLARAS
+2476,2.430,92,Apartamento ,3,,, ASA SUL
+2477,2.800,80,Apartamento ,2,1,, AGUAS CLARAS
+2478,800,58,Kitnet ,1,,, NUCLEO BANDEIRANTE
+2479,900,43,Apartamento ,2,1,, PLANALTINA
+2480,4.600,120,Apartamento ,3,1,1, ASA SUL
+2481,700,32,Apartamento ,1,,, SAMAMBAIA
+2482,12.500,281,Apartamento ,4,4,4, ASA NORTE
+2483,2.800,65,Apartamento ,2,1,1, GUARA
+2484,800,40,Apartamento ,2,,, GUARA
+2485,1.250,30,Apartamento ,1,,, ASA NORTE
+2486,900,35,Apartamento ,1,,, CEILANDIA
+2487,1.650,55,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2488,1.300,60,Apartamento ,2,1,, GUARA
+2489,4.900,145,Apartamento ,4,1,, ASA SUL
+2490,1.600,37,Apartamento ,1,1,, NOROESTE
+2491,1.500,38,Apartamento ,1,1,, AGUAS CLARAS
+2492,950,33,Apartamento ,1,1,, SUDOESTE
+2493,710,55,Apartamento ,2,,, GAMA
+2494,620,43,Apartamento ,1,,, GUARA
+2495,5.500,162,Apartamento ,3,1,, ASA SUL
+2496,5.800,110,Apartamento ,3,1,1, ASA SUL
+2497,2.990,60,Apartamento ,2,1,2, AGUAS CLARAS
+2498,1.200,49,Apartamento ,2,1,, SAMAMBAIA
+2499,1.500,42,Apartamento ,1,1,, AGUAS CLARAS
+2500,1.100,27,Kitnet ,1,1,, PARK SUL
+2501,2.750,64,Apartamento ,2,1,1, AGUAS CLARAS
+2502,2.300,54,Apartamento ,2,,, JARDINS MANGUEIRAL
+2503,1.700,60,Apartamento ,2,1,1, CEILANDIA
+2504,1.600,48,Apartamento ,1,1,1, LAGO NORTE
+2505,4.200,114,Apartamento ,3,1,1, ASA SUL
+2506,900,55,Apartamento ,2,1,, TAGUATINGA
+2507,1.800,62,Apartamento ,2,1,, GUARA
+2508,2.300,62,Apartamento ,1,2,, SUDOESTE
+2509,1.800,30,Apartamento ,1,1,, PARK SUL
+2510,5.300,60,Apartamento ,3,2,1, ASA NORTE
+2511,5.300,104,Apartamento ,3,1,2, PARK SUL
+2512,1.500,50,Apartamento ,2,,, CRUZEIRO
+2513,4.500,52,Apartamento ,1,2,, ASA SUL
+2514,1.600,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2515,900,27,Kitnet ,1,1,, ASA NORTE
+2516,1.250,33,Kitnet ,1,1,1, LAGO NORTE
+2517,2.400,65,Apartamento ,2,,, ASA NORTE
+2518,3.750,92,Apartamento ,3,1,1, SUDOESTE
+2519,1.800,38,Apartamento ,1,,, OCTOGONAL
+2520,2.700,62,Apartamento ,2,1,1, AGUAS CLARAS
+2521,1.400,28,Apartamento ,1,1,, ASA NORTE
+2522,3.200,70,Apartamento ,2,,, ASA NORTE
+2523,2.300,70,Apartamento ,3,1,1, VICENTE PIRES
+2524,3.520,43,Apartamento ,1,1,, ASA SUL
+2525,1.400,55,Apartamento ,1,,, AGUAS CLARAS
+2526,900,27,Kitnet ,1,1,, SUDOESTE
+2527,15.000,283,Apartamento ,4,1,2, SUDOESTE
+2528,1.300,43,Kitnet ,1,,, SUDOESTE
+2529,650,30,Kitnet ,1,,, ASA NORTE
+2530,1.100,30,Apartamento ,1,1,, CRUZEIRO
+2531,1.500,45,Apartamento ,1,,, ASA SUL
+2532,1.400,45,Apartamento ,2,,, GUARA
+2533,3.500,95,Apartamento ,2,1,, ASA NORTE
+2534,7.500,144,Apartamento ,4,1,3, NOROESTE
+2535,3.200,80,Apartamento ,3,2,1, AGUAS CLARAS
+2536,1.100,65,Apartamento ,2,1,, TAGUATINGA
+2537,1.480,36,Apartamento ,1,1,1, AGUAS CLARAS
+2538,2.500,60,Apartamento ,2,,, ASA SUL
+2539,900,60,Apartamento ,2,,, SOBRADINHO
+2540,1.290,32,Kitnet ,1,1,, SUDOESTE
+2541,4.000,120,Apartamento ,3,1,2, AGUAS CLARAS
+2542,1.300,25,Kitnet ,1,1,1, SUDOESTE
+2543,1.800,30,Kitnet ,1,1,1, SUDOESTE
+2544,400,25,Kitnet ,1,,, SANTA MARIA
+2545,1.900,37,Apartamento ,1,1,1, SUDOESTE
+2546,3.000,80,Apartamento ,2,1,, PARK WAY
+2547,1.900,53,Apartamento ,2,1,1, AGUAS CLARAS
+2548,1.300,26,Kitnet ,1,1,, SUDOESTE
+2549,1.000,30,Kitnet ,1,1,1, SUDOESTE
+2550,920,30,Kitnet ,1,1,, ASA NORTE
+2551,600,43,Apartamento ,2,1,, VALPARAISO DE GOIAS
+2552,1.000,55,Apartamento ,1,,, GUARA
+2553,1.600,35,Apartamento ,1,1,, AGUAS CLARAS
+2554,1.600,27,Kitnet ,1,1,1, SUDOESTE
+2555,1.100,40,Apartamento ,1,,, SOBRADINHO
+2556,5.500,114,Apartamento ,1,1,1, ASA SUL
+2557,1.400,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2558,4.500,78,Apartamento ,2,,, ASA NORTE
+2559,1.300,43,Apartamento ,1,,, ASA NORTE
+2560,8.000,128,Apartamento ,4,1,2, ASA NORTE
+2561,500,50,Apartamento ,2,1,, SANTA MARIA
+2562,2.400,85,Apartamento ,3,1,1, AGUAS CLARAS
+2563,1.100,35,Apartamento ,1,,, GUARA
+2564,3.100,116,Apartamento ,4,1,1, AGUAS CLARAS
+2565,3.200,26,Kitnet ,1,1,1, SUDOESTE
+2566,1.000,60,Kitnet ,1,,, ASA SUL
+2567,8.500,210,Apartamento ,3,1,3, SUDOESTE
+2568,1.800,46,Apartamento ,1,1,, ASA NORTE
+2569,2.800,68,Apartamento ,2,1,, OCTOGONAL
+2570,1.500,70,Apartamento ,2,1,, JARDIM BOTANICO
+2571,1.200,50,Apartamento ,2,,, GUARA
+2572,3.000,72,Apartamento ,2,1,, SUDOESTE
+2573,1.800,60,Apartamento ,1,1,1, AGUAS CLARAS
+2574,2.800,65,Apartamento ,2,1,, OCTOGONAL
+2575,1.900,33,Kitnet ,1,1,, NOROESTE
+2576,1.700,48,Apartamento ,2,,, ASA NORTE
+2577,2.200,40,Apartamento ,1,,, ASA NORTE
+2578,2.990,94,Apartamento ,4,1,2, AGUAS CLARAS
+2579,1.600,86,Apartamento ,2,1,, VICENTE PIRES
+2580,1.420,55,Apartamento ,2,,, SOBRADINHO
+2581,1.350,30,Apartamento ,1,1,, LAGO NORTE
+2582,3.500,171,Apartamento ,2,2,, SAMAMBAIA
+2583,1.100,35,Apartamento ,1,1,1, SAMAMBAIA
+2584,2.200,48,Apartamento ,1,1,, ASA SUL
+2585,1.290,33,Kitnet ,1,,, ASA SUL
+2586,4.200,110,Apartamento ,3,1,1, SUDOESTE
+2587,3.800,84,Apartamento ,3,1,1, SUDOESTE
+2588,1.000,25,Kitnet ,1,1,, ASA NORTE
+2589,1.240,28,Kitnet ,1,1,, ASA SUL
+2590,800,30,Apartamento ,1,,, ASA NORTE
+2591,5.900,108,Apartamento ,3,1,1, ASA SUL
+2592,1.000,35,Kitnet ,1,,, ASA NORTE
+2593,1.700,65,Apartamento ,2,,, SOBRADINHO
+2594,900,48,Apartamento ,2,1,1, SAMAMBAIA
+2595,2.000,60,Apartamento ,2,1,1, AGUAS CLARAS
+2596,6.500,190,Apartamento ,4,1,2, ASA SUL
+2597,1.300,35,Apartamento ,1,1,1, AGUAS CLARAS
+2598,1.200,50,Apartamento ,2,1,, VICENTE PIRES
+2599,1.800,68,Apartamento ,2,,, SUDOESTE
+2600,3.200,26,Kitnet ,1,1,, SUDOESTE
+2601,950,36,Kitnet ,1,,, ASA NORTE
+2602,1.400,80,Apartamento ,2,,, AGUAS CLARAS
+2603,1.900,58,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2604,1.100,60,Apartamento ,2,,, SAMAMBAIA
+2605,450,25,Kitnet ,1,,, SAO SEBASTIAO
+2606,1.000,30,Kitnet ,1,1,1, ASA NORTE
+2607,610,39,Apartamento ,1,,, GUARA
+2608,3.650,26,Apartamento ,1,1,1, SUDOESTE
+2609,5.400,105,Apartamento ,3,1,2, SUDOESTE
+2610,1.300,25,Kitnet ,1,1,1, SUDOESTE
+2611,2.200,37,Apartamento ,1,,, ASA SUL
+2612,13.000,252,Apartamento ,4,4,3, SUDOESTE
+2613,1.390,60,Apartamento ,2,,, AGUAS CLARAS
+2614,2.420,70,Apartamento ,3,,, ASA SUL
+2615,1.000,30,Kitnet ,1,,, ASA SUL
+2616,1.800,29,Apartamento ,1,1,1, PARK SUL
+2617,2.800,85,Apartamento ,2,,, ASA SUL
+2618,4.400,100,Apartamento ,3,1,1, SUDOESTE
+2619,1.100,33,Apartamento ,1,1,, AGUAS CLARAS
+2620,1.200,39,Apartamento ,3,,, NUCLEO BANDEIRANTE
+2621,3.000,79,Apartamento ,3,,, ASA NORTE
+2622,4.750,122,Apartamento ,3,1,1, SUDOESTE
+2623,600,50,Apartamento ,2,1,, SANTA MARIA
+2624,950,43,Apartamento ,1,,, ASA NORTE
+2625,6.900,105,Apartamento ,3,1,1, SUDOESTE
+2626,2.200,62,Apartamento ,2,,, SUDOESTE
+2627,450,40,Apartamento ,1,,, CEILANDIA
+2628,1.200,24,Kitnet ,1,1,, PARK SUL
+2629,1.100,51,Apartamento ,2,1,, RECANTO DAS EMAS
+2630,1.200,33,Apartamento ,1,1,, ASA NORTE
+2631,5.900,203,Apartamento ,4,4,3, AGUAS CLARAS
+2632,5.500,158,Apartamento ,3,2,1, ASA SUL
+2633,900,30,Apartamento ,1,1,, ASA NORTE
+2634,700,43,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2635,3.000,144,Apartamento ,3,1,, AGUAS CLARAS
+2636,3.000,31,Apartamento ,1,1,1, ASA NORTE
+2637,2.000,60,Apartamento ,2,1,, ASA SUL
+2638,2.800,61,Apartamento ,2,2,1, AGUAS CLARAS
+2639,1.600,35,Apartamento ,1,1,1, AGUAS CLARAS
+2640,480,30,Kitnet ,1,,, TAGUATINGA
+2641,5.500,159,Apartamento ,3,1,1, ASA SUL
+2642,1.550,40,Kitnet ,1,1,, LAGO NORTE
+2643,2.700,55,Apartamento ,2,1,, SUDOESTE
+2644,4.750,80,Apartamento ,2,1,, ASA NORTE
+2645,1.400,27,Kitnet ,1,1,1, SUDOESTE
+2646,4.200,160,Apartamento ,4,1,1, ASA NORTE
+2647,1.500,40,Apartamento ,1,1,, AGUAS CLARAS
+2648,1.300,62,Apartamento ,2,1,2, CEILANDIA
+2649,2.600,67,Apartamento ,2,2,1, AGUAS CLARAS
+2650,2.000,55,Apartamento ,2,1,, AGUAS CLARAS
+2651,1.200,25,Kitnet ,1,,, SUDOESTE
+2652,2.100,75,Apartamento ,3,,, CRUZEIRO
+2653,2.600,60,Apartamento ,2,1,, ASA NORTE
+2654,1.200,43,Apartamento ,1,,, ASA SUL
+2655,4.200,77,Apartamento ,2,1,2, NOROESTE
+2656,2.000,60,Apartamento ,2,1,, LAGO NORTE
+2657,1.800,50,Apartamento ,2,1,1, TAGUATINGA
+2658,850,28,Kitnet ,1,,, GUARA
+2659,2.100,57,Apartamento ,2,1,, AGUAS CLARAS
+2660,12.900,253,Apartamento ,4,3,4, ASA SUL
+2661,650,24,Kitnet ,1,,, TAGUATINGA
+2662,5.650,180,Apartamento ,4,2,3, AGUAS CLARAS
+2663,7.700,120,Apartamento ,2,2,2, PARK SUL
+2664,1.260,31,Apartamento ,1,,, LAGO NORTE
+2665,4.500,85,Apartamento ,2,1,2, NOROESTE
+2666,5.400,54,Apartamento ,1,2,, ASA NORTE
+2667,3.500,85,Apartamento ,3,1,1, SUDOESTE
+2668,4.000,85,Apartamento ,2,1,, ASA SUL
+2669,1.200,55,Apartamento ,2,1,, TAGUATINGA
+2670,11.000,170,Apartamento ,4,2,1, ASA SUL
+2671,1.850,68,Apartamento ,2,1,2, AGUAS CLARAS
+2672,5.500,158,Apartamento ,3,2,1, ASA SUL
+2673,4.200,130,Apartamento ,3,1,, ASA SUL
+2674,4.000,158,Apartamento ,4,2,, AGUAS CLARAS
+2675,1.000,60,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2676,700,30,Apartamento ,2,,, TAGUATINGA
+2677,1.350,35,Apartamento ,1,1,, SOBRADINHO
+2678,2.300,60,Apartamento ,1,1,1, LAGO NORTE
+2679,1.100,28,Kitnet ,1,1,, ASA NORTE
+2680,5.800,140,Apartamento ,3,1,, ASA SUL
+2681,8.500,143,Apartamento ,3,1,2, ASA SUL
+2682,8.000,153,Apartamento ,4,4,2, NOROESTE
+2683,2.800,83,Apartamento ,2,,, AGUAS CLARAS
+2684,600,20,Apartamento ,1,,, TAGUATINGA
+2685,2.500,54,Apartamento ,2,,, ASA SUL
+2686,780,33,Kitnet ,1,1,, SUDOESTE
+2687,1.300,35,Apartamento ,1,1,, SUDOESTE
+2688,1.500,54,Apartamento ,2,1,, TAGUATINGA
+2689,2.500,40,Apartamento ,1,1,, ASA SUL
+2690,1.299,33,Apartamento ,1,1,, AGUAS CLARAS
+2691,800,29,Apartamento ,1,1,, TAGUATINGA
+2692,3.050,28,Apartamento ,1,1,, ASA NORTE
+2693,1.300,60,Apartamento ,2,1,, AGUAS CLARAS
+2694,3.100,26,Kitnet ,1,1,1, SUDOESTE
+2695,6.750,183,Apartamento ,3,3,4, NOROESTE
+2696,1.500,40,Apartamento ,2,1,, LAGO NORTE
+2697,1.100,27,Apartamento ,1,1,1, ASA NORTE
+2698,1.200,60,Apartamento ,2,1,, SOBRADINHO
+2699,1.300,29,Kitnet ,1,,, ASA NORTE
+2700,5.000,190,Apartamento ,3,2,1, ASA SUL
+2701,4.950,90,Apartamento ,1,1,2, SUDOESTE
+2702,500,33,Apartamento ,1,,, NUCLEO BANDEIRANTE
+2703,1.650,29,Apartamento ,1,1,1, PARK SUL
+2704,4.200,82,Apartamento ,2,1,2, NOROESTE
+2705,1.500,30,Kitnet ,1,1,, ASA NORTE
+2706,1.800,37,Apartamento ,1,1,1, AGUAS CLARAS
+2707,1.200,28,Apartamento ,1,1,1, ASA SUL
+2708,5.000,155,Apartamento ,3,1,1, ASA NORTE
+2709,700,40,Kitnet ,1,,, TAGUATINGA
+2710,1.300,27,Kitnet ,1,1,1, ASA NORTE
+2711,1.000,41,Apartamento ,1,,, GUARA
+2712,3.600,62,Apartamento ,3,1,, ASA SUL
+2713,6.500,158,Apartamento ,3,1,1, ASA SUL
+2714,950,22,Kitnet ,1,1,, ASA NORTE
+2715,1.400,59,Apartamento ,2,1,1, CEILANDIA
+2716,900,22,Kitnet ,1,1,1, SUDOESTE
+2717,2.900,82,Apartamento ,3,1,1, AGUAS CLARAS
+2718,1.400,25,Kitnet ,1,1,, ASA NORTE
+2719,2.300,36,Apartamento ,1,,, ASA NORTE
+2720,5.299,175,Apartamento ,3,2,1, ASA SUL
+2721,1.100,65,Apartamento ,2,,, RIACHO FUNDO
+2722,2.300,62,Apartamento ,3,1,, CRUZEIRO
+2723,1.200,50,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2724,950,26,Kitnet ,1,1,, ASA NORTE
+2725,1.400,32,Apartamento ,1,1,1, AGUAS CLARAS
+2726,1.100,27,Kitnet ,1,1,, SUDOESTE
+2727,6.000,131,Apartamento ,3,1,1, ASA SUL
+2728,5.600,119,Apartamento ,3,1,, ASA NORTE
+2729,2.800,53,Apartamento ,2,1,, LAGO NORTE
+2730,800,30,Apartamento ,1,,, TAGUATINGA
+2731,2.000,41,Apartamento ,1,1,1, PARK SUL
+2732,850,56,Apartamento ,2,1,, TAGUATINGA
+2733,1.250,60,Apartamento ,2,,, VARJAO
+2734,1.200,26,Kitnet ,1,1,1, PARK SUL
+2735,5.000,104,Apartamento ,3,1,1, SUDOESTE
+2736,1.400,60,Apartamento ,2,1,, SAMAMBAIA
+2737,850,32,Apartamento ,1,,, SAMAMBAIA
+2738,1.850,70,Apartamento ,3,1,1, GAMA
+2739,4.500,72,Apartamento ,2,1,1, SUDOESTE
+2740,5.000,60,Apartamento ,2,1,2, ASA NORTE
+2741,1.100,32,Apartamento ,1,,, ASA NORTE
+2742,1.100,30,Kitnet ,1,1,, ASA NORTE
+2743,1.000,32,Kitnet ,1,,, ASA NORTE
+2744,4.500,85,Apartamento ,3,,, ASA SUL
+2745,1.000,55,Apartamento ,2,,, TAGUATINGA
+2746,900,30,Apartamento ,1,,, GUARA
+2747,3.100,95,Apartamento ,3,1,, ASA NORTE
+2748,2.300,60,Apartamento ,2,1,1, AGUAS CLARAS
+2749,3.200,67,Apartamento ,3,1,1, AGUAS CLARAS
+2750,1.000,26,Kitnet ,1,1,, ASA NORTE
+2751,900,36,Apartamento ,1,,, GUARA
+2752,2.300,75,Apartamento ,2,,, ASA NORTE
+2753,600,20,Kitnet ,1,,, ASA NORTE
+2754,2.350,82,Apartamento ,2,1,1, AGUAS CLARAS
+2755,1.100,30,Apartamento ,1,1,, AGUAS CLARAS
+2756,780,65,Apartamento ,2,1,, TAGUATINGA
+2757,850,30,Apartamento ,1,1,1, SUDOESTE
+2758,2.750,63,Apartamento ,2,1,1, OCTOGONAL
+2759,4.800,150,Apartamento ,3,1,2, AGUAS CLARAS
+2760,550,56,Apartamento ,2,,, VALPARAISO DE GOIAS
+2761,800,35,Kitnet ,1,,, GUARA
+2762,800,30,Apartamento ,1,,, ASA NORTE
+2763,1.100,27,Kitnet ,1,,, PARK SUL
+2764,650,45,Apartamento ,1,,, GUARA
+2765,550,30,Kitnet ,1,1,, SAMAMBAIA
+2766,1.100,35,Kitnet ,1,1,, ASA NORTE
+2767,1.250,27,Apartamento ,1,,, AGUAS CLARAS
+2768,2.000,75,Apartamento ,2,1,1, AGUAS CLARAS
+2769,1.300,28,Apartamento ,1,1,1, ASA SUL
+2770,1.500,60,Apartamento ,2,1,, GUARA
+2771,1.000,56,Apartamento ,2,1,, VALPARAISO DE GOIAS
+2772,2.100,48,Apartamento ,1,1,, ASA NORTE
+2773,1.000,55,Apartamento ,2,,, ASA SUL
+2774,7.200,126,Apartamento ,3,3,2, NOROESTE
+2775,1.500,32,Kitnet ,1,1,, NOROESTE
+2776,3.400,26,Kitnet ,1,1,1, SUDOESTE
+2777,1.100,27,Kitnet ,1,1,, SUDOESTE
+2778,1.500,30,Apartamento ,1,1,1, AGUAS CLARAS
+2779,1.500,45,Apartamento ,1,1,, AGUAS CLARAS
+2780,1.100,60,Apartamento ,2,,, VICENTE PIRES
+2781,3.100,70,Apartamento ,2,1,, ASA NORTE
+2782,4.000,170,Apartamento ,3,1,1, AGUAS CLARAS
+2783,950,48,Apartamento ,2,,, GUARA
+2784,4.200,110,Apartamento ,3,2,1, ASA NORTE
+2785,2.500,37,Apartamento ,1,,, ASA SUL
+2786,600,18,Kitnet ,1,,, ASA SUL
+2787,3.500,80,Apartamento ,2,1,, ASA NORTE
+2788,800,43,Apartamento ,1,,, ASA NORTE
+2789,1.000,27,Kitnet ,1,1,, LAGO NORTE
+2790,3.400,144,Apartamento ,3,1,1, AGUAS CLARAS
+2791,3.600,130,Apartamento ,3,,, ASA SUL
+2792,1.050,50,Apartamento ,2,,, RECANTO DAS EMAS
+2793,1.150,26,Kitnet ,1,,, SUDOESTE
+2794,7.000,155,Apartamento ,3,2,2, ASA SUL
+2795,2.500,79,Apartamento ,3,2,1, AGUAS CLARAS
+2796,900,28,Apartamento ,1,,, GUARA
+2797,2.400,48,Apartamento ,1,1,, JARDINS MANGUEIRAL
+2798,1.220,34,Kitnet ,1,1,, ASA NORTE
+2799,8.500,171,Apartamento ,4,4,4, NOROESTE
+2800,1.650,32,Kitnet ,1,1,, LAGO NORTE
+2801,3.600,75,Apartamento ,1,1,1, ASA NORTE
+2802,6.400,167,Apartamento ,4,1,1, ASA SUL
+2803,1.100,46,Apartamento ,2,1,, JARDINS MANGUEIRAL
+2804,800,50,Apartamento ,2,,, AGUAS CLARAS
+2805,1.200,25,Kitnet ,1,1,, ASA SUL
+2806,1.900,55,Apartamento ,1,1,, ASA SUL
+2807,5.490,158,Apartamento ,3,2,1, ASA SUL
+2808,650,33,Apartamento ,1,,, AGUAS CLARAS
+2809,1.650,40,Apartamento ,1,1,, ASA NORTE
+2810,5.800,101,Apartamento ,3,1,1, NOROESTE
+2811,1.000,30,Kitnet ,1,,, SUDOESTE
+2812,1.200,31,Apartamento ,1,,, ASA SUL
+2813,1.650,62,Apartamento ,2,1,, SAMAMBAIA
+2814,630,45,Apartamento ,1,1,, SAMAMBAIA
+2815,7.500,152,Apartamento ,4,4,3, NOROESTE
+2816,2.000,59,Apartamento ,2,1,1, AGUAS CLARAS
+2817,2.100,45,Apartamento ,1,,, ASA NORTE
+2818,1.700,52,Apartamento ,2,1,1, TAGUATINGA
+2819,1.200,68,Apartamento ,1,1,, LAGO NORTE
+2820,1.370,46,Apartamento ,1,,, ASA NORTE
+2821,2.200,56,Apartamento ,1,1,1, AGUAS CLARAS
+2822,1.600,27,Kitnet ,1,1,1, LAGO NORTE
+2823,1.200,28,Kitnet ,1,1,, ASA SUL
+2824,1.300,25,Apartamento ,1,1,, ASA NORTE
+2825,1.150,30,Kitnet ,1,1,, SUDOESTE
+2826,1.100,58,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2827,2.700,67,Apartamento ,2,,, ASA NORTE
+2828,1.100,60,Apartamento ,2,,, CEILANDIA
+2829,1.300,28,Apartamento ,1,1,1, AGUAS CLARAS
+2830,1.950,58,Apartamento ,1,1,1, LAGO NORTE
+2831,750,26,Kitnet ,1,1,, ASA NORTE
+2832,4.000,94,Apartamento ,3,1,1, ASA NORTE
+2833,1.000,40,Apartamento ,2,,, TAGUATINGA
+2834,3.050,35,Apartamento ,2,1,, ASA SUL
+2835,1.400,41,Apartamento ,1,,, ASA NORTE
+2836,1.500,59,Apartamento ,3,,, GUARA
+2837,1.500,27,Kitnet ,1,1,, SUDOESTE
+2838,1.500,33,Kitnet ,1,1,, LAGO NORTE
+2839,900,26,Kitnet ,1,,, ASA NORTE
+2840,2.000,78,Apartamento ,3,1,1, AGUAS CLARAS
+2841,3.400,87,Apartamento ,3,1,2, GUARA
+2842,1.100,44,Apartamento ,1,1,, ASA NORTE
+2843,850,26,Kitnet ,1,,, ASA NORTE
+2844,600,30,Apartamento ,1,,, TAGUATINGA
+2845,1.000,60,Apartamento ,2,1,, RIACHO FUNDO
+2846,2.500,27,Apartamento ,1,1,1, PARK SUL
+2847,1.150,24,Apartamento ,1,,, SUDOESTE
+2848,6.150,202,Apartamento ,3,2,2, ASA NORTE
+2849,1.750,43,Apartamento ,1,1,, AGUAS CLARAS
+2850,1.700,63,Apartamento ,3,,, CRUZEIRO
+2851,2.800,61,Apartamento ,2,2,, LAGO NORTE
+2852,950,27,Kitnet ,1,1,, ASA NORTE
+2853,1.400,30,Apartamento ,1,,, ASA NORTE
+2854,3.650,100,Apartamento ,3,1,2, SUDOESTE
+2855,1.790,42,Apartamento ,1,1,1, LAGO NORTE
+2856,950,26,Kitnet ,1,,, ASA NORTE
+2857,1.300,25,Kitnet ,1,1,, ASA SUL
+2858,7.000,138,Apartamento ,3,1,, ASA NORTE
+2859,680,28,Kitnet ,1,,, LAGO NORTE
+2860,6.150,202,Apartamento ,3,2,2, ASA NORTE
+2861,10.000,210,Apartamento ,4,1,2, ASA SUL
+2862,900,32,Kitnet ,1,1,, LAGO NORTE
+2863,1.900,65,Apartamento ,2,1,1, AGUAS CLARAS
+2864,1.900,40,Apartamento ,1,1,1, ASA NORTE
+2865,4.000,80,Apartamento ,3,1,, ASA SUL
+2866,1.500,27,Kitnet ,1,,, SUDOESTE
+2867,700,34,Apartamento ,1,,, RIACHO FUNDO
+2868,3.300,120,Apartamento ,3,,, ASA SUL
+2869,3.400,26,Apartamento ,1,1,1, SUDOESTE
+2870,1.185,32,Apartamento ,1,,, ASA SUL
+2871,1.300,36,Apartamento ,1,1,1, TAGUATINGA
+2872,800,41,Apartamento ,1,1,, SETOR INDUSTRIAL
+2873,2.950,87,Apartamento ,3,2,2, CEILANDIA
+2874,1.150,40,Apartamento ,1,1,, ASA NORTE
+2875,2.200,54,Apartamento ,2,2,1, AGUAS CLARAS
+2876,2.500,64,Apartamento ,1,1,1, LAGO NORTE
+2877,820,27,Kitnet ,1,,, ASA NORTE
+2878,2.100,56,Apartamento ,2,1,1, AGUAS CLARAS
+2879,1.100,30,Apartamento ,1,1,1, SAMAMBAIA
+2880,6.700,115,Apartamento ,4,,, NOROESTE
+2881,1.100,33,Apartamento ,1,1,, SUDOESTE
+2882,1.500,60,Apartamento ,2,1,1, AGUAS CLARAS
+2883,2.000,81,Apartamento ,2,,, SOBRADINHO
+2884,1.400,30,Kitnet ,1,1,, SUDOESTE
+2885,2.950,60,Apartamento ,2,1,, ASA NORTE
+2886,2.700,70,Apartamento ,3,1,1, AGUAS CLARAS
+2887,1.950,70,Apartamento ,2,,, AGUAS CLARAS
+2888,2.000,54,Apartamento ,2,1,, AGUAS CLARAS
+2889,1.200,30,Apartamento ,1,,, GUARA
+2890,950,44,Apartamento ,2,,, GUARA
+2891,4.200,120,Apartamento ,3,1,, ASA NORTE
+2892,2.100,47,Apartamento ,1,1,1, TAGUATINGA
+2893,3.300,80,Apartamento ,2,1,1, SUDOESTE
+2894,1.550,33,Apartamento ,1,1,1, PARK SUL
+2895,1.600,32,Kitnet ,1,1,, NOROESTE
+2896,4.100,78,Apartamento ,2,1,1, NOROESTE
+2897,2.700,67,Apartamento ,2,1,1, SUDOESTE
+2898,2.700,79,Apartamento ,2,1,1, AGUAS CLARAS
+2899,3.500,64,Apartamento ,2,1,1, ASA NORTE
+2900,3.800,82,Apartamento ,2,1,1, SUDOESTE
+2901,1.100,43,Kitnet ,1,1,, GUARA
+2902,900,50,Apartamento ,2,1,, RIACHO FUNDO
+2903,2.000,70,Apartamento ,2,1,1, AGUAS CLARAS
+2904,5.100,120,Apartamento ,3,1,1, ASA SUL
+2905,4.600,70,Apartamento ,2,2,1, PARK SUL
+2906,620,39,Apartamento ,1,1,, GUARA
+2907,1.450,42,Apartamento ,1,1,, SUDOESTE
+2908,8.400,105,Apartamento ,3,1,1, OCTOGONAL
+2909,1.800,35,Kitnet ,1,1,1, AGUAS CLARAS
+2910,1.800,25,Apartamento ,1,1,1, SUDOESTE
+2911,1.700,32,Apartamento ,1,1,, NOROESTE
+2912,4.800,78,Apartamento ,2,1,2, NOROESTE
+2913,1.900,58,Apartamento ,2,1,1, AGUAS CLARAS
+2914,900,27,Apartamento ,1,,, SAMAMBAIA
+2915,790,28,Kitnet ,1,,, ASA NORTE
+2916,580,38,Apartamento ,1,1,, RIACHO FUNDO
+2917,6.000,140,Apartamento ,3,1,1, ASA NORTE
+2918,7.400,126,Apartamento ,3,3,2, NOROESTE
+2919,2.800,120,Apartamento ,2,1,2, AGUAS CLARAS
+2920,3.000,96,Apartamento ,3,1,1, AGUAS CLARAS
+2921,1.550,56,Apartamento ,2,1,, AGUAS CLARAS
+2922,1.200,80,Apartamento ,3,1,1, TAGUATINGA
+2923,2.200,50,Apartamento ,2,2,1, AGUAS CLARAS
+2924,900,40,Apartamento ,1,,, TAGUATINGA
+2925,5.000,245,Apartamento ,4,2,2, AGUAS CLARAS
+2926,1.700,50,Apartamento ,2,1,1, TAGUATINGA
+2927,1.600,88,Apartamento ,2,1,, GUARA
+2928,290.000,44,Apartamento ,1,,, ASA NORTE
+2929,1.250,36,Apartamento ,2,1,, SUDOESTE
+2930,600,50,Apartamento ,2,,, NUCLEO BANDEIRANTE
+2931,4.500,85,Apartamento ,2,1,2, NOROESTE
+2932,1.500,30,Apartamento ,1,1,, AGUAS CLARAS
+2933,700,27,Kitnet ,1,,, LAGO NORTE
+2934,600,45,Apartamento ,1,,, NUCLEO BANDEIRANTE
+2935,1.200,80,Apartamento ,3,,, CEILANDIA
+2936,1.800,62,Apartamento ,3,,, CRUZEIRO
+2937,645,44,Apartamento ,2,1,, VALPARAISO DE GOIAS
+2938,1.100,24,Kitnet ,1,,, SUDOESTE
+2939,700,55,Apartamento ,2,,, TAGUATINGA
+2940,1.100,38,Apartamento ,1,1,, VICENTE PIRES
+2941,850,44,Apartamento ,2,1,, SANTA MARIA
+2942,1.600,27,Apartamento ,1,2,, ASA SUL
+2943,833,27,Apartamento ,1,,, VICENTE PIRES
+2944,1.439,31,Apartamento ,1,1,1, NOROESTE
+2945,1.200,33,Kitnet ,1,,, LAGO NORTE
+2946,950,30,Kitnet ,1,1,1, SUDOESTE
+2947,850,60,Apartamento ,2,,, CEILANDIA
+2948,560,35,Apartamento ,1,,, GAMA
+2949,2.450,63,Apartamento ,1,,, ASA NORTE
+2950,1.800,45,Apartamento ,1,1,, AGUAS CLARAS
+2951,800,50,Apartamento ,1,,, GUARA
+2952,800,60,Apartamento ,2,,, PLANALTINA
+2953,4.500,65,Apartamento ,2,1,, NOROESTE
+2954,950,60,Apartamento ,2,,, GUARA
+2955,4.500,73,Apartamento ,2,1,1, NOROESTE
+2956,1.300,56,Apartamento ,2,1,1, SAMAMBAIA
+2957,13.000,230,Apartamento ,4,2,2, ASA SUL
+2958,700,55,Apartamento ,2,,, RIACHO FUNDO
+2959,2.500,60,Apartamento ,2,1,, SUDOESTE
+2960,900,79,Kitnet ,1,,, GUARA
+2961,1.100,35,Kitnet ,1,,, ASA NORTE
+2962,2.300,100,Apartamento ,3,1,, ASA NORTE
+2963,1.500,76,Apartamento ,3,1,, AGUAS CLARAS
+2964,3.500,46,Apartamento ,2,1,2, ASA NORTE
+2965,2.500,90,Apartamento ,3,1,1, TAGUATINGA
+2966,1.500,40,Apartamento ,1,,, ASA NORTE
+2967,900,70,Apartamento ,2,,, TAGUATINGA
+2968,4.300,157,Apartamento ,3,1,1, ASA SUL
+2969,590,28,Apartamento ,1,,, TAGUATINGA
+2970,690,40,Apartamento ,1,1,, GUARA
+2971,5.500,70,Apartamento ,2,1,2, ASA NORTE
+2972,1.300,26,Kitnet ,1,1,, PARK SUL
+2973,750,33,Kitnet ,1,,, ASA NORTE
+2974,1.350,60,Apartamento ,2,1,, SOBRADINHO
+2975,700,40,Apartamento ,2,,, AGUAS CLARAS
+2976,2.500,62,Apartamento ,2,1,, ASA NORTE
+2977,3.600,80,Apartamento ,2,,, ASA SUL
+2978,2.750,30,Apartamento ,1,1,1, SUDOESTE
+2979,2.300,198,Apartamento ,3,1,, GUARA
+2980,4.597,55,Apartamento ,2,1,1, AGUAS CLARAS
+2981,2.000,30,Apartamento ,1,1,, SUDOESTE
+2982,3.400,110,Apartamento ,2,1,, ASA SUL
+2983,1.300,60,Apartamento ,2,,, GUARA
+2984,4.500,127,Apartamento ,3,1,1, ASA NORTE
+2985,3.500,89,Apartamento ,3,1,1, SUDOESTE
+2986,420,50,Apartamento ,1,,, SAMAMBAIA
+2987,2.200,37,Apartamento ,1,,, ASA NORTE
+2988,1.300,40,Apartamento ,1,1,1, AGUAS CLARAS
+2989,1.000,28,Kitnet ,1,1,, ASA NORTE
+2990,3.200,120,Apartamento ,3,1,2, AGUAS CLARAS
+2991,3.800,105,Apartamento ,3,1,, ASA SUL
+2992,600,18,Kitnet ,1,,, ASA SUL
+2993,2.300,63,Apartamento ,3,2,, CRUZEIRO
+2994,5.300,74,Apartamento ,2,2,2, NOROESTE
+2995,10.900,234,Apartamento ,4,2,2, ASA SUL
+2996,900,42,Apartamento ,1,,, GUARA
+2997,1.300,26,Kitnet ,1,1,, ASA NORTE
+2998,1.600,45,Apartamento ,1,1,1, AGUAS CLARAS
+2999,4.500,145,Apartamento ,3,1,2, AGUAS CLARAS
+3000,1.650,35,Kitnet ,1,1,1, ASA NORTE
+3001,2.350,45,Apartamento ,2,,, ASA NORTE
+3002,6.200,145,Apartamento ,3,3,2, NOROESTE
+3003,2.500,100,Apartamento ,3,1,2, AGUAS CLARAS
+3004,1.300,52,Apartamento ,2,,, SIG
+3005,1.450,37,Apartamento ,1,1,, AGUAS CLARAS
+3006,900,60,Apartamento ,2,,, CEILANDIA
+3007,3.500,52,Apartamento ,2,2,1, PARK SUL
+3008,750,30,Apartamento ,1,1,, CEILANDIA
+3009,4.500,120,Apartamento ,3,1,1, ASA NORTE
+3010,1.300,25,Kitnet ,1,1,, ASA SUL
+3011,4.400,75,Apartamento ,2,1,2, ASA NORTE
+3012,1.700,67,Apartamento ,2,1,1, AGUAS CLARAS
+3013,850,75,Apartamento ,2,1,, CEILANDIA
+3014,700,30,Apartamento ,1,1,, VICENTE PIRES
+3015,980,37,Kitnet ,1,,, SUDOESTE
+3016,2.400,115,Apartamento ,3,1,1, AGUAS CLARAS
+3017,1.800,32,Apartamento ,1,1,, NOROESTE
+3018,500,35,Kitnet ,1,,, TAGUATINGA
+3019,5.000,145,Apartamento ,3,1,1, ASA SUL
+3020,1.200,45,Apartamento ,2,1,, AGUAS CLARAS
+3021,4.000,95,Apartamento ,3,1,1, ASA NORTE
+3022,1.400,36,Apartamento ,1,,, ASA SUL
+3023,1.600,80,Apartamento ,3,1,1, GUARA
+3024,5.500,127,Apartamento ,4,1,3, GUARA
+3025,6.500,139,Apartamento ,3,3,2, ASA NORTE
+3026,3.000,73,Apartamento ,2,1,1, SUDOESTE
+3027,750,38,Apartamento ,1,,, TAGUATINGA
+3028,1.500,60,Apartamento ,2,1,, SOBRADINHO
+3029,1.600,28,Apartamento ,1,1,1, PARK SUL
+3030,1.000,48,Apartamento ,2,,, GUARA
+3031,2.990,68,Apartamento ,2,1,, ASA NORTE
+3032,4.200,76,Apartamento ,2,1,2, NOROESTE
+3033,3.000,137,Apartamento ,3,1,1, ASA NORTE
+3034,4.200,152,Apartamento ,4,2,2, AGUAS CLARAS
+3035,1.400,0,Apartamento ,2,1,, GAMA
+3036,950,33,Kitnet ,1,,, ASA NORTE
+3037,350,35,Apartamento ,1,,, CEILANDIA
+3038,5.900,74,Apartamento ,2,1,2, ASA NORTE
+3039,1.400,90,Apartamento ,2,2,, GUARA
+3040,800,45,Apartamento ,1,,, NUCLEO BANDEIRANTE
+3041,1.400,62,Apartamento ,2,,, ASA SUL
+3042,4.300,100,Apartamento ,3,1,, ASA SUL
+3043,4.050,78,Apartamento ,2,1,2, NOROESTE
+3044,1.500,38,Apartamento ,1,1,, AGUAS CLARAS
+3045,1.380,65,Apartamento ,2,1,1, TAGUATINGA
+3046,13.800,283,Apartamento ,4,1,2, SUDOESTE
+3047,3.300,78,Apartamento ,3,,, ASA SUL
+3048,2.200,56,Apartamento ,2,1,1, AGUAS CLARAS
+3049,1.800,55,Apartamento ,2,1,, GUARA
+3050,1.300,70,Apartamento ,2,,, SAMAMBAIA
+3051,2.600,54,Apartamento ,2,1,, ASA SUL
+3052,1.850,34,Kitnet ,1,1,1, LAGO NORTE
+3053,3.500,107,Apartamento ,3,1,1, AGUAS CLARAS
+3054,2.800,78,Apartamento ,3,,, ASA NORTE
+3055,851,60,Apartamento ,2,,, GUARA
+3056,600,35,Apartamento ,1,,, NUCLEO BANDEIRANTE
+3057,1.700,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+3058,350,25,Kitnet ,1,,, TAGUATINGA
+3059,1.150,50,Apartamento ,2,1,, TAGUATINGA
+3060,2.550,60,Apartamento ,2,1,1, AGUAS CLARAS
+3061,2.300,70,Apartamento ,1,,, ASA SUL
+3062,800,60,Apartamento ,1,,, CEILANDIA
+3063,420,50,Apartamento ,1,,, SAMAMBAIA
+3064,3.100,67,Apartamento ,3,1,, ASA SUL
+3065,1.500,46,Apartamento ,2,1,, AGUAS CLARAS
+3066,850,42,Apartamento ,1,1,, TAGUATINGA
+3067,850,35,Apartamento ,1,,, SOBRADINHO
+3068,1.200,27,Kitnet ,1,1,, ASA NORTE
+3069,1.000,50,Apartamento ,2,,, NUCLEO BANDEIRANTE
+3070,650,32,Apartamento ,1,,, ASA NORTE
+3071,1.800,65,Apartamento ,2,2,, TAGUATINGA
+3072,380,50,Apartamento ,1,,, SAMAMBAIA
+3073,1.100,30,Kitnet ,1,1,1, SUDOESTE
+3074,1.200,37,Apartamento ,1,,, ASA SUL
+3075,1.350,30,Apartamento ,1,1,, LAGO NORTE
+3076,1.200,30,Apartamento ,1,1,, SUDOESTE
+3077,4.800,119,Apartamento ,3,1,1, ASA NORTE
+3078,4.400,150,Apartamento ,3,1,1, AGUAS CLARAS
+3079,9.300,256,Apartamento ,4,4,4, ASA NORTE
+3080,4.200,81,Apartamento ,2,1,2, NOROESTE
+3081,2.600,55,Apartamento ,1,1,1, SUDOESTE
+3082,700,40,Apartamento ,1,,, TAGUATINGA
+3083,900,31,Kitnet ,1,,, ASA NORTE
+3084,600,45,Apartamento ,2,,, SAMAMBAIA
+3085,1.400,50,Kitnet ,1,,, SUDOESTE
+3086,2.300,62,Apartamento ,2,,, SUDOESTE
+3087,800,30,Kitnet ,1,,, SAMAMBAIA
+3088,1.700,65,Apartamento ,2,1,, AGUAS CLARAS
+3089,1.500,27,Kitnet ,1,1,1, ASA SUL
+3090,3.850,40,Apartamento ,1,1,1, ASA SUL
+3091,1.500,53,Apartamento ,2,2,, CEILANDIA
+3092,3.600,80,Apartamento ,3,,, ASA SUL
+3093,1.200,24,Kitnet ,1,1,, SUDOESTE
+3094,14.000,160,Apartamento ,3,3,, NOROESTE
+3095,1.100,40,Apartamento ,2,,, TAGUATINGA
+3096,800,30,Kitnet ,1,,, ASA NORTE
+3097,800,20,Apartamento ,1,,, TAGUATINGA
+3098,1.800,54,Apartamento ,2,1,, AGUAS CLARAS
+3099,1.200,30,Kitnet ,1,,, ASA NORTE
+3100,700,55,Apartamento ,2,,, RIACHO FUNDO
+3101,1.100,25,Kitnet ,1,1,, ASA NORTE
+3102,1.850,32,Apartamento ,1,1,, AGUAS CLARAS
+3103,1.200,45,Apartamento ,1,1,, TAGUATINGA
+3104,3.700,108,Apartamento ,2,1,1, OCTOGONAL
+3105,2.100,58,Apartamento ,1,1,, LAGO NORTE
+3106,1.600,34,Kitnet ,1,1,, ASA NORTE
+3107,1.200,60,Apartamento ,2,1,1, SAMAMBAIA
+3108,1.400,30,Apartamento ,1,1,, SUDOESTE
+3109,12.000,211,Apartamento ,4,4,3, NOROESTE
+3110,2.800,77,Apartamento ,2,1,2, AGUAS CLARAS
+3111,1.900,62,Apartamento ,2,,, CRUZEIRO
+3112,1.380,30,Apartamento ,1,1,, SUDOESTE
+3113,1.500,32,Apartamento ,1,1,1, AGUAS CLARAS
+3114,1.200,28,Kitnet ,1,1,, SUDOESTE
+3115,2.200,60,Apartamento ,2,1,2, AGUAS CLARAS
+3116,550,45,Kitnet ,1,1,, SANTA MARIA
+3117,14.500,226,Apartamento ,4,2,2, ASA SUL
+3118,1.200,42,Kitnet ,1,,, ASA NORTE
+3119,1.500,40,Apartamento ,2,,, TAGUATINGA
+3120,5.650,180,Apartamento ,4,2,3, AGUAS CLARAS
+3121,1.800,63,Apartamento ,2,1,1, TAGUATINGA
+3122,3.400,77,Apartamento ,3,1,1, SUDOESTE
+3123,5.300,110,Apartamento ,3,1,2, NOROESTE
+3124,4.090,38,Apartamento ,1,1,, ASA NORTE
+3125,1.500,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+3126,2.040,30,Apartamento ,1,1,, NOROESTE
+3127,1.300,70,Apartamento ,2,,, NUCLEO BANDEIRANTE
+3128,500,50,Apartamento ,1,,, CEILANDIA
+3129,1.650,26,Kitnet ,1,1,1, PARK SUL
+3130,1.200,30,Apartamento ,1,1,, PARK SUL
+3131,3.500,129,Apartamento ,3,1,, ASA SUL
+3132,1.500,69,Apartamento ,3,1,, CEILANDIA
+3133,1.800,60,Apartamento ,3,1,, GUARA
+3134,3.400,26,Kitnet ,1,1,1, SUDOESTE
+3135,3.700,62,Apartamento ,2,1,1, ASA SUL
+3136,1.250,50,Apartamento ,2,,, VARJAO
+3137,700,25,Kitnet ,1,,, ASA NORTE
+3138,6.100,96,Apartamento ,3,1,2, PARK SUL
+3139,1.300,35,Kitnet ,1,1,, ASA SUL
+3140,1.280,70,Apartamento ,2,,, RIACHO FUNDO
+3141,2.900,80,Apartamento ,3,1,2, AGUAS CLARAS
+3142,1.300,40,Apartamento ,1,1,, AGUAS CLARAS
+3143,2.100,60,Apartamento ,2,,, ASA NORTE
+3144,1.200,33,Apartamento ,1,1,, AGUAS CLARAS
+3145,1.300,53,Apartamento ,2,,, SOBRADINHO
+3146,750,35,Kitnet ,1,,, TAGUATINGA
+3147,900,62,Apartamento ,2,1,, TAGUATINGA
+3148,2.700,39,Apartamento ,1,1,, AGUAS CLARAS
+3149,950,80,Apartamento ,2,,, PARANOA
+3150,1.200,29,Kitnet ,1,1,, ASA NORTE
+3151,1.650,40,Kitnet ,1,1,, AGUAS CLARAS
+3152,2.300,80,Apartamento ,2,1,1, AGUAS CLARAS
+3153,2.000,64,Apartamento ,3,1,, GUARA
+3154,500,22,Apartamento ,1,,, ASA NORTE
+3155,1.200,48,Apartamento ,1,,, TAGUATINGA
+3156,900,50,Apartamento ,2,,, TAGUATINGA
+3157,4.000,83,Apartamento ,2,1,1, NOROESTE
+3158,4.000,69,Apartamento ,2,1,, OCTOGONAL
+3159,3.900,89,Apartamento ,3,1,2, GUARA
+3160,3.100,148,Apartamento ,4,1,1, AGUAS CLARAS
+3161,450,45,Apartamento ,1,,, GUARA
+3162,600,40,Kitnet ,1,,, AGUAS CLARAS
+3163,2.100,64,Apartamento ,2,,, ASA NORTE
+3164,900,34,Kitnet ,1,,, SUDOESTE
+3165,3.500,66,Apartamento ,2,1,, ASA NORTE
+3166,1.100,30,Apartamento ,1,,, GUARA
+3167,780,50,Apartamento ,2,,, TAGUATINGA
+3168,1.400,60,Apartamento ,2,1,1, TAGUATINGA
+3169,1.200,70,Apartamento ,2,1,, TAGUATINGA
+3170,1.500,105,Apartamento ,3,1,, GUARA
+3171,1.200,60,Apartamento ,2,,, GUARA
+3172,1.200,25,Kitnet ,1,,, SUDOESTE
+3173,14.000,245,Apartamento ,4,,, ASA SUL
+3174,1.700,29,Kitnet ,1,1,, LAGO NORTE
+3175,1.650,67,Apartamento ,2,1,, GUARA
+3176,1.400,26,Apartamento ,1,1,1, PARK SUL
+3177,2.400,66,Apartamento ,3,1,1, AGUAS CLARAS
+3178,750,29,Kitnet ,1,,, ASA NORTE
+3179,1.200,44,Apartamento ,2,1,, SAMAMBAIA
+3180,1.490,32,Apartamento ,1,1,, GUARA
+3181,800,28,Apartamento ,1,,, GUARA
+3182,685,45,Apartamento ,2,1,, VALPARAISO DE GOIAS
+3183,1.000,28,Kitnet ,1,1,, AGUAS CLARAS
+3184,5.500,181,Apartamento ,4,1,2, SUDOESTE
+3185,1.200,27,Kitnet ,1,1,, PARK SUL
+3186,2.500,60,Apartamento ,2,1,, LAGO NORTE
+3187,1.300,28,Kitnet ,1,,, ASA NORTE
+3188,3.500,140,Apartamento ,3,1,, ASA SUL
+3189,600,18,Kitnet ,1,,, ASA SUL
+3190,1.900,62,Apartamento ,3,,, GUARA
+3191,4.900,135,Apartamento ,4,1,1, ASA NORTE
+3192,1.700,80,Apartamento ,2,1,, JARDIM BOTANICO
+3193,1.550,23,Kitnet ,1,1,1, ASA SUL
+3194,8.500,221,Apartamento ,4,2,1, ASA SUL
+3195,1.000,40,Apartamento ,2,1,, VICENTE PIRES
+3196,900,27,Kitnet ,1,,, LAGO NORTE
+3197,6.500,226,Apartamento ,4,3,3, AGUAS CLARAS
+3198,12.500,198,Apartamento ,4,2,2, SUDOESTE
+3199,2.800,70,Apartamento ,2,1,1, ASA NORTE
+3200,3.200,47,Apartamento ,1,1,, ASA NORTE
+3201,2.200,34,Apartamento ,1,1,, NOROESTE
+3202,1.000,30,Apartamento ,1,1,, LAGO NORTE
+3203,7.100,150,Apartamento ,3,1,, ASA SUL
+3204,900,45,Apartamento ,1,,, TAGUATINGA
+3205,1.050,33,Apartamento ,1,1,1, AGUAS CLARAS
+3206,700,35,Apartamento ,1,,, NUCLEO BANDEIRANTE
+3207,3.000,90,Apartamento ,3,1,1, GUARA
+3208,3.000,64,Apartamento ,2,,, ASA SUL
+3209,45.000,900,Apartamento ,4,4,3, ASA SUL
+3210,2.500,75,Apartamento ,3,1,1, AGUAS CLARAS
+3211,4.000,140,Apartamento ,3,1,1, ASA NORTE
+3212,900,35,Kitnet ,1,,, ASA NORTE
+3213,550,22,Kitnet ,1,,, ASA NORTE
+3214,790,32,Kitnet ,,,, NUCLEO BANDEIRANTE
+3215,900,35,Apartamento ,1,,, TAGUATINGA
+3216,1.200,55,Apartamento ,2,1,, VICENTE PIRES
+3217,800,23,Kitnet ,1,,, ASA NORTE
+3218,900,51,Apartamento ,2,,, AGUAS CLARAS
+3219,900,30,Kitnet ,1,,, ASA NORTE
+3220,2.600,64,Apartamento ,2,1,1, LAGO NORTE
+3221,1.700,65,Apartamento ,2,,, CRUZEIRO
+3222,950,60,Apartamento ,2,,, PLANALTINA
+3223,750,33,Apartamento ,1,1,, CEILANDIA
+3224,1.000,60,Apartamento ,2,1,, NUCLEO BANDEIRANTE
+3225,2.000,80,Apartamento ,3,,, CRUZEIRO
+3226,2.500,66,Apartamento ,2,1,1, AGUAS CLARAS
+3227,3.000,75,Apartamento ,2,1,, SUDOESTE
+3228,1.350,35,Apartamento ,1,1,, SETOR INDUSTRIAL
+3229,600,40,Apartamento ,1,,, NUCLEO BANDEIRANTE
+3230,3.200,60,Apartamento ,2,1,, ASA NORTE
+3231,2.900,70,Apartamento ,2,2,, ASA NORTE
+3232,700,25,Kitnet ,1,,, ASA NORTE
+3233,3.200,104,Apartamento ,4,2,3, AGUAS CLARAS
+3234,1.000,23,Kitnet ,1,,, ASA NORTE
+3235,420,42,Apartamento ,1,,, TAGUATINGA
+3236,850,25,Kitnet ,1,,, ASA NORTE
+3237,2.500,48,Apartamento ,2,2,, ASA NORTE
+3238,700,22,Kitnet ,1,,, ASA NORTE
+3239,700,42,Apartamento ,1,,, RIACHO FUNDO
+3240,550,40,Apartamento ,1,,, PLANALTINA
+3241,3.700,96,Apartamento ,3,1,1, SUDOESTE
+3242,800,27,Apartamento ,1,1,1, SAMAMBAIA
+3243,1.100,55,Apartamento ,3,1,1, TAGUATINGA
+3244,600,42,Apartamento ,2,1,, VALPARAISO DE GOIAS
+3245,1.400,30,Kitnet ,1,1,, ASA NORTE
+3246,1.880,65,Apartamento ,3,1,, GUARA
+3247,1.400,35,Kitnet ,1,,, ASA SUL
+3248,1.200,25,Kitnet ,1,,, ASA SUL
+3249,3.100,100,Apartamento ,2,1,, ASA SUL
+3250,800,45,Apartamento ,1,,, GAMA
+3251,550,35,Apartamento ,1,,, NUCLEO BANDEIRANTE
+3252,2.500,55,Apartamento ,2,1,, PARK WAY
+3253,4.000,103,Apartamento ,3,1,2, AGUAS CLARAS
+3254,3.300,80,Apartamento ,2,1,1, SUDOESTE
+3255,1.150,72,Apartamento ,2,1,, GAMA
+3256,1.400,45,Kitnet ,1,,, JARDIM BOTANICO
+3257,950,43,Apartamento ,1,,, TAGUATINGA
+3258,750,27,Kitnet ,1,,, ASA NORTE
+3259,510,30,Kitnet ,1,,, VICENTE PIRES
+3260,1.700,60,Apartamento ,3,1,, GUARA
+3261,1.950,53,Apartamento ,2,1,1, AGUAS CLARAS
+3262,600,50,Apartamento ,2,1,, VALPARAISO DE GOIAS
+3263,1.100,40,Apartamento ,1,,, GUARA
+3264,6.200,103,Apartamento ,3,1,1, NOROESTE
+3265,850,43,Apartamento ,2,,, PLANALTINA
+3266,1.400,31,Apartamento ,1,1,1, AGUAS CLARAS
+3267,1.900,35,Kitnet ,1,1,, AGUAS CLARAS
+3268,1.400,45,Apartamento ,1,,, ASA SUL
+3269,1.400,48,Apartamento ,2,1,, TAGUATINGA
+3270,1.750,50,Apartamento ,2,,, ASA SUL
+3271,850,32,Apartamento ,1,,, GUARA
+3272,1.100,24,Apartamento ,1,,, SUDOESTE
+3273,3.100,103,Apartamento ,3,1,1, AGUAS CLARAS
+3274,2.200,54,Apartamento ,2,1,1, LAGO NORTE
+3275,2.200,98,Apartamento ,2,1,1, AGUAS CLARAS
+3276,750,25,Kitnet ,1,,, ASA NORTE
+3277,900,40,Apartamento ,1,,, VICENTE PIRES
+3278,1.000,65,Apartamento ,2,1,, SAMAMBAIA
+3279,3.600,75,Apartamento ,1,1,1, ASA NORTE
+3280,1.050,30,Apartamento ,1,1,1, ASA NORTE
+3281,1.000,37,Apartamento ,1,1,, AGUAS CLARAS
+3282,2.000,33,Apartamento ,1,,, NOROESTE
+3283,1.050,48,Apartamento ,2,1,, TAGUATINGA
+3284,1.100,60,Apartamento ,2,,, NUCLEO BANDEIRANTE
+3285,900,35,Kitnet ,1,,, TAGUATINGA
+3286,600,22,Kitnet ,1,,, ASA NORTE
+3287,1.000,28,Apartamento ,1,1,, CRUZEIRO
+3288,14.000,202,Apartamento ,4,4,4, PARK SUL
+3289,1.400,58,Apartamento ,2,1,, GUARA
+3290,700,30,Apartamento ,1,1,, VICENTE PIRES
+3291,1.300,23,Apartamento ,1,1,, SUDOESTE
+3292,420,35,Apartamento ,1,,, SAMAMBAIA
+3293,2.600,60,Apartamento ,2,,, SUDOESTE
+3294,600,35,Kitnet ,1,,, SOBRADINHO
+3295,5.500,160,Apartamento ,4,2,1, SUDOESTE
+3296,1.900,26,Kitnet ,1,1,, SUDOESTE
+3297,1.600,59,Apartamento ,2,1,1, AGUAS CLARAS
+3298,1.800,58,Apartamento ,2,1,, AGUAS CLARAS
+3299,650,60,Apartamento ,2,,, CEILANDIA
+3300,1.400,55,Kitnet ,1,1,1, SUDOESTE
+3301,550,25,Kitnet ,1,,, SAO SEBASTIAO
+3302,3.500,107,Apartamento ,3,1,1, ASA NORTE
+3303,900,31,Apartamento ,1,2,, SUDOESTE
+3304,1.250,30,Kitnet ,1,1,, ASA SUL
+3305,1.500,70,Apartamento ,3,1,1, SAMAMBAIA
+3306,1.000,24,Apartamento ,1,,, ASA NORTE
+3307,3.200,70,Apartamento ,2,1,1, SUDOESTE
+3308,5.900,109,Apartamento ,3,1,3, NOROESTE
+3309,3.400,71,Apartamento ,2,1,1, SUDOESTE
+3310,1.600,40,Apartamento ,2,1,, LAGO NORTE
+3311,1.200,60,Apartamento ,2,1,1, NUCLEO BANDEIRANTE
+3312,1.000,30,Apartamento ,1,1,1, AGUAS CLARAS
+3313,800,25,Kitnet ,1,,, ASA NORTE
+3314,5.200,155,Apartamento ,3,1,1, ASA SUL
+3315,1.650,57,Apartamento ,2,1,1, AGUAS CLARAS
+3316,1.450,45,Kitnet ,1,1,, AGUAS CLARAS
+3317,2.700,110,Apartamento ,3,1,2, AGUAS CLARAS
+3318,2.500,53,Apartamento ,1,1,2, ASA SUL
+3319,2.000,32,Apartamento ,1,,, ASA NORTE
+3320,6.200,51,Apartamento ,1,1,, ASA NORTE
+3321,3.400,74,Apartamento ,2,1,, ASA NORTE
+3322,1.700,70,Apartamento ,2,1,, GUARA
+3323,9.900,200,Apartamento ,3,1,, SUDOESTE
+3324,850,100,Apartamento ,3,1,, CEILANDIA
+3325,1.000,48,Apartamento ,2,,, GUARA
+3326,1.900,42,Apartamento ,1,1,1, AGUAS CLARAS
+3327,2.850,54,Apartamento ,2,1,, ASA SUL
+3328,1.596,35,Apartamento ,1,1,, NOROESTE
+3329,1.200,45,Apartamento ,2,,, TAGUATINGA
+3330,600,40,Kitnet ,1,,, TAGUATINGA
+3331,900,28,Kitnet ,1,,, ASA SUL
+3332,3.200,36,Apartamento ,1,1,, ASA NORTE
+3333,2.000,96,Apartamento ,2,1,1, AGUAS CLARAS
+3334,3.200,60,Apartamento ,2,1,1, AGUAS CLARAS
+3335,1.800,42,Apartamento ,1,1,1, AGUAS CLARAS
+3336,1.300,86,Apartamento ,3,1,, SOBRADINHO
+3337,1.300,33,Kitnet ,1,1,, LAGO NORTE
+3338,1.000,25,Kitnet ,1,1,, ASA NORTE
+3339,1.200,50,Apartamento ,2,,, GUARA
+3340,2.800,67,Apartamento ,2,1,1, GUARA
+3341,8.200,175,Apartamento ,2,1,1, ASA SUL
+3342,6.500,146,Apartamento ,3,1,2, ASA NORTE
+3343,1.000,25,Kitnet ,1,1,, ASA NORTE
+3344,1.300,50,Apartamento ,2,1,, JARDINS MANGUEIRAL
+3345,1.300,59,Apartamento ,2,1,, TAGUATINGA
+3346,10.000,240,Apartamento ,4,1,2, ASA SUL
+3347,5.500,136,Apartamento ,3,1,1, ASA SUL
+3348,1.300,66,Apartamento ,3,1,, TAGUATINGA
+3349,2.100,60,Apartamento ,2,1,1, AGUAS CLARAS
+3350,920,30,Kitnet ,1,1,, ASA NORTE
+3351,680,35,Kitnet ,1,,, GUARA
+3352,1.750,70,Apartamento ,2,1,1, SOBRADINHO
+3353,3.699,120,Apartamento ,3,1,1, ASA SUL
+3354,650,40,Apartamento ,1,,, AGUAS CLARAS
+3355,1.180,39,Kitnet ,1,1,1, AGUAS CLARAS
+3356,750,55,Apartamento ,2,,, NUCLEO BANDEIRANTE
+3357,710,11,Kitnet ,1,,, ASA NORTE
+3358,560,45,Apartamento ,1,,, GAMA
+3359,2.070,60,Apartamento ,2,,, SUDOESTE
+3360,650,44,Apartamento ,2,1,, LUZIANIA
+3361,1.900,66,Apartamento ,2,1,, OCTOGONAL
+3362,800,50,Apartamento ,2,,, NUCLEO BANDEIRANTE
+3363,2.000,50,Apartamento ,1,1,1, LAGO NORTE
+3364,2.200,51,Apartamento ,2,,, ASA NORTE
+3365,1.300,70,Apartamento ,2,1,1, TAGUATINGA
+3366,950,25,Apartamento ,1,,, GUARA
+3367,9.000,145,Apartamento ,3,3,3, GUARA
+3368,1.100,58,Apartamento ,2,1,1, TAGUATINGA
+3369,2.950,74,Apartamento ,3,1,2, GUARA
+3370,1.150,60,Apartamento ,2,,, CEILANDIA
+3371,1.400,32,Kitnet ,1,1,1, AGUAS CLARAS
+3372,5.650,180,Apartamento ,4,2,3, AGUAS CLARAS
+3373,900,34,Apartamento ,1,2,, AGUAS CLARAS
+3374,1.800,70,Apartamento ,1,1,1, LAGO NORTE
+3375,700,28,Kitnet ,1,1,, SUDOESTE
+3376,700,30,Kitnet ,1,1,, TAGUATINGA
+3377,3.800,120,Apartamento ,3,1,1, ASA NORTE
+3378,550,25,Kitnet ,1,,, ASA NORTE
+3379,1.200,80,Apartamento ,1,1,, CANDANGOLANDIA
+3380,2.700,60,Apartamento ,2,1,, AGUAS CLARAS
+3381,2.200,110,Apartamento ,3,1,1, AGUAS CLARAS
+3382,1.100,28,Kitnet ,1,1,, OCTOGONAL
+3383,3.650,98,Apartamento ,3,3,1, GAMA
+3384,900,30,Kitnet ,1,,, ASA NORTE
+3385,1.450,50,Apartamento ,2,1,, AGUAS CLARAS
+3386,2.200,70,Apartamento ,2,1,1, AGUAS CLARAS
+3387,700,55,Apartamento ,2,,, TAGUATINGA
+3388,850,57,Apartamento ,2,,, TAGUATINGA
+3389,5.900,73,Apartamento ,2,1,2, ASA NORTE
+3390,3.100,97,Apartamento ,3,,, ASA SUL
+3391,2.600,70,Apartamento ,3,1,1, AGUAS CLARAS
+3392,1.500,50,Apartamento ,2,,, GUARA
+3393,1.490,33,Apartamento ,1,1,1, AGUAS CLARAS
+3394,800,40,Apartamento ,1,,, TAGUATINGA
+3395,1.200,27,Kitnet ,1,1,, PARK SUL
+3396,800,32,Apartamento ,1,,, ASA NORTE
+3397,1.500,25,Kitnet ,1,1,1, SUDOESTE
+3398,4.350,77,Apartamento ,2,1,3, NOROESTE
+3399,3.700,128,Apartamento ,3,1,1, ASA NORTE
+3400,4.000,110,Apartamento ,2,,, ASA SUL
+3401,3.100,60,Apartamento ,2,,, ASA SUL
+3402,1.700,63,Apartamento ,3,,, CRUZEIRO
+3403,1.200,30,Apartamento ,1,1,, AGUAS CLARAS
+3404,950,40,Apartamento ,1,,, GUARA
+3405,3.500,110,Apartamento ,3,3,, ASA SUL
+3406,800,35,Kitnet ,1,,, RIACHO FUNDO
+3407,1.800,35,Kitnet ,1,1,, AGUAS CLARAS
+3408,2.100,30,Kitnet ,1,1,, LAGO NORTE
+3409,900,50,Apartamento ,1,,, SOBRADINHO
+3410,1.450,32,Apartamento ,1,1,1, AGUAS CLARAS
+3411,800,35,Kitnet ,1,,, TAGUATINGA
+3412,2.200,35,Apartamento ,1,1,, NOROESTE
+3413,4.000,168,Apartamento ,4,1,2, AGUAS CLARAS
+3414,850,30,Kitnet ,1,,, AGUAS CLARAS
+3415,2.400,52,Apartamento ,2,,, ASA NORTE
+3416,2.250.000,154,Apartamento ,4,4,3, PARK SUL
+3417,8.200,145,Apartamento ,4,2,3, PARK SUL
+3418,1.990,80,Apartamento ,2,,, LAGO NORTE
+3419,1.600,32,Apartamento ,1,1,1, AGUAS CLARAS
+3420,950,33,Kitnet ,,,, ASA NORTE
+3421,1.350,80,Apartamento ,2,1,, CEILANDIA
+3422,2.750,76,Apartamento ,3,1,1, AGUAS CLARAS
+3423,850,50,Apartamento ,2,1,, VALPARAISO DE GOIAS
+3424,4.000,88,Apartamento ,2,1,1, ASA NORTE
+3425,3.600,83,Apartamento ,3,1,1, SUDOESTE
+3426,4.500,135,Apartamento ,3,1,1, ASA SUL
+3427,4.300,124,Apartamento ,3,1,, ASA SUL
+3428,4.600,76,Apartamento ,2,1,1, NOROESTE
+3429,1.700,35,Apartamento ,1,1,1, AGUAS CLARAS
+3430,850,50,Apartamento ,1,,, TAGUATINGA
+3431,1.700,36,Kitnet ,1,1,, PARK SUL
+3432,750,27,Apartamento ,1,,, TAGUATINGA
+3433,550,60,Apartamento ,2,,, GAMA
+3434,3.700,107,Apartamento ,3,1,2, AGUAS CLARAS
+3435,1.200,34,Apartamento ,1,1,, CRUZEIRO
+3436,1.300,25,Apartamento ,1,1,1, LAGO NORTE
+3437,960,50,Apartamento ,2,1,1, GUARA
+3438,1.100,45,Apartamento ,2,1,, CEILANDIA
+3439,1.640,60,Apartamento ,2,1,1, SOBRADINHO
+3440,1.150,50,Apartamento ,2,,, TAGUATINGA
+3441,800,50,Apartamento ,2,,, SOBRADINHO
+3442,700,45,Kitnet ,1,,, SAMAMBAIA
+3443,1.700,51,Apartamento ,2,1,, GUARA
+3444,750,33,Kitnet ,1,,, ASA NORTE
+3445,750,47,Apartamento ,1,,, GUARA
+3446,1.100,32,Apartamento ,1,1,1, SAMAMBAIA
+3447,4.150,157,Apartamento ,3,1,2, ASA NORTE
+3448,1.700,47,Apartamento ,1,1,, AGUAS CLARAS
+3449,1.400,45,Apartamento ,2,1,, GAMA
+3450,1.350,30,Kitnet ,1,1,, ASA SUL
+3451,900,47,Apartamento ,1,,, VICENTE PIRES
+3452,6.210,106,Apartamento ,3,1,2, NOROESTE
+3453,1.600,30,Kitnet ,1,1,1, AGUAS CLARAS
+3454,2.300,120,Apartamento ,2,1,1, GUARA
+3455,410,28,Kitnet ,1,,, GAMA
+3456,700,45,Kitnet ,1,,, SAMAMBAIA
+3457,1.350,60,Apartamento ,2,1,1, AGUAS CLARAS
+3458,3.500,112,Apartamento ,3,1,1, VICENTE PIRES
+3459,950,65,Apartamento ,2,1,1, CEILANDIA
+3460,700,42,Apartamento ,1,,, AGUAS CLARAS
+3461,6.000,127,Apartamento ,3,1,2, NOROESTE
+3462,800,30,Apartamento ,1,,, ASA NORTE
+3463,1.100,29,Kitnet ,1,1,, AGUAS CLARAS
+3464,6.150,202,Apartamento ,3,2,2, ASA NORTE
+3465,1.350,43,Apartamento ,1,1,, AGUAS CLARAS
+3466,600,27,Kitnet ,,,, RIACHO FUNDO
+3467,950,50,Apartamento ,2,1,, TAGUATINGA
+3468,990,45,Apartamento ,2,,, CEILANDIA
+3469,1.550,31,Kitnet ,1,1,, ASA NORTE
+3470,1.000,30,Kitnet ,1,,, ASA NORTE
+3471,450,26,Kitnet ,1,,, CEILANDIA
+3472,700,35,Apartamento ,1,,, NUCLEO BANDEIRANTE
+3473,1.800,53,Apartamento ,2,,, SOBRADINHO
+3474,1.400,65,Apartamento ,3,,, NUCLEO BANDEIRANTE
+3475,4.000,95,Apartamento ,3,1,1, ASA NORTE
+3476,2.500,48,Apartamento ,1,1,1, ASA SUL
+3477,1.300,33,Apartamento ,1,1,, AGUAS CLARAS
+3478,1.700,62,Apartamento ,2,,, GUARA
+3479,4.300,74,Apartamento ,2,,, ASA NORTE
+3480,1.100,46,Apartamento ,2,1,1, SAMAMBAIA
+3481,2.500,34,Kitnet ,1,1,1, AGUAS CLARAS
+3482,610,35,Apartamento ,1,,, RIACHO FUNDO
+3483,1.200,42,Apartamento ,2,1,, SAMAMBAIA
+3484,1.200,30,Kitnet ,1,1,1, SUDOESTE
+3485,650,25,Kitnet ,1,,, TAGUATINGA
+3486,550,35,Kitnet ,1,,, PLANALTINA
+3487,500,40,Apartamento ,1,,, NUCLEO BANDEIRANTE
+3488,2.850,61,Apartamento ,2,1,, ASA NORTE
+3489,6.500,121,Apartamento ,2,1,, ASA SUL
+3490,3.100,68,Apartamento ,2,1,, OCTOGONAL
+3491,1.200,38,Kitnet ,1,1,, ASA SUL
+3492,2.400,90,Apartamento ,2,,, ASA SUL
+3493,1.100,60,Apartamento ,2,,, AGUAS CLARAS
+3494,1.500,38,Apartamento ,38,1,, AGUAS CLARAS
+3495,750,26,Kitnet ,1,,, LAGO NORTE
+3496,3.100,86,Apartamento ,3,1,1, OCTOGONAL
+3497,800,45,Apartamento ,1,,, SAMAMBAIA
+3498,1.200,30,Apartamento ,1,1,1, AGUAS CLARAS
+3499,1.000,40,Kitnet ,1,,, ASA NORTE
+3500,800,50,Apartamento ,2,1,, TAGUATINGA
+3501,1.100,28,Apartamento ,1,,, ASA NORTE
+3502,6.500,120,Apartamento ,4,2,1, ASA NORTE
+3503,2.200,61,Apartamento ,2,1,1, AGUAS CLARAS
+3504,1.200,55,Apartamento ,2,1,1, TAGUATINGA
+3505,3.500,44,Apartamento ,1,,, ASA NORTE
+3506,3.200,78,Apartamento ,3,1,1, OCTOGONAL
+3507,1.100,46,Apartamento ,2,1,1, SAMAMBAIA
+3508,3.100,26,Kitnet ,1,1,1, SUDOESTE
+3509,1.050,30,Kitnet ,1,1,, ASA NORTE
+3510,1.900,69,Apartamento ,3,1,1, GAMA
+3511,800,38,Apartamento ,1,,, RIACHO FUNDO
+3512,1.300,40,Apartamento ,1,1,, LAGO NORTE
+3513,790,35,Apartamento ,1,,, RECANTO DAS EMAS
+3514,5.500,101,Apartamento ,3,1,1, NOROESTE
+3515,4.100,108,Apartamento ,3,1,1, ASA SUL
+3516,1.100,35,Apartamento ,1,,, GUARA
+3517,900,35,Kitnet ,1,1,, SUDOESTE
+3518,1.700,27,Kitnet ,1,1,, SUDOESTE
+3519,1.500,25,Kitnet ,1,1,, ASA SUL
+3520,1.700,65,Apartamento ,2,1,, GUARA
+3521,1.200,60,Apartamento ,2,,, TAGUATINGA
+3522,6.800,176,Apartamento ,4,3,2, ASA NORTE
+3523,2.000,70,Apartamento ,3,1,, NUCLEO BANDEIRANTE
+3524,750,57,Kitnet ,1,1,, AGUAS CLARAS
+3525,4.900,110,Apartamento ,2,2,, ASA NORTE
+3526,2.200,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+3527,1.050,70,Apartamento ,2,1,, TAGUATINGA
+3528,2.000,84,Apartamento ,1,1,1, LAGO NORTE
+3529,2.600,34,Apartamento ,1,1,, NOROESTE
+3530,2.300,48,Apartamento ,2,1,, JARDINS MANGUEIRAL
+3531,1.450,42,Apartamento ,2,,, CRUZEIRO
+3532,850,50,Apartamento ,1,,, GUARA
+3533,4.500,165,Apartamento ,4,2,, AGUAS CLARAS
+3534,1.150,60,Apartamento ,2,1,1, TAGUATINGA
+3535,1.250,66,Apartamento ,2,1,1, TAGUATINGA
+3536,850,50,Apartamento ,2,1,, RIACHO FUNDO
+3537,1.100,35,Apartamento ,1,,, GUARA
+3538,1.250,28,Apartamento ,1,1,, AGUAS CLARAS
+3539,800,60,Apartamento ,2,,, TAGUATINGA
+3540,4.200,186,Apartamento ,4,2,2, AGUAS CLARAS
+3541,800,45,Apartamento ,1,,, RIACHO FUNDO
+3542,1.600,27,Apartamento ,1,1,1, ASA SUL
+3543,3.000,90,Apartamento ,3,,, ASA SUL
+3544,450,36,Kitnet ,1,,, SAMAMBAIA
+3545,1.800,53,Apartamento ,1,1,, ASA SUL
+3546,1.300,25,Kitnet ,1,1,, ASA SUL
+3547,6.500,130,Apartamento ,3,1,1, ASA SUL
+3548,2.200,67,Apartamento ,2,1,1, AGUAS CLARAS
+3549,1.897,45,Apartamento ,1,1,, NOROESTE
+3550,2.300,60,Apartamento ,1,1,, LAGO NORTE
+3551,1.400,23,Apartamento ,1,1,, ASA SUL
+3552,800,26,Kitnet ,1,,, ASA NORTE
+3553,950,60,Apartamento ,2,,, GUARA
+3554,16.000,211,Apartamento ,4,3,4, PARK SUL
+3555,1.200,50,Apartamento ,2,1,, VICENTE PIRES
+3556,4.500,135,Apartamento ,3,3,2, AGUAS CLARAS
+3557,2.000,33,Apartamento ,1,1,, NOROESTE
+3558,1.150,50,Apartamento ,2,,, TAGUATINGA
+3559,3.200,90,Apartamento ,3,1,1, AGUAS CLARAS
+3560,500,18,Apartamento ,1,,, CANDANGOLANDIA
+3561,1.200,30,Apartamento ,1,1,, AGUAS CLARAS
+3562,1.150,40,Apartamento ,1,1,, GUARA
+3563,800,24,Kitnet ,1,,, GUARA
+3564,1.165,50,Apartamento ,2,,, LAGO NORTE
+3565,240.000,30,Kitnet ,1,1,1, ASA NORTE
+3566,1.700,65,Apartamento ,2,2,, GUARA
+3567,600,40,Apartamento ,1,1,, AGUAS CLARAS
+3568,3.450,100,Apartamento ,2,1,, LAGO NORTE
+3569,9.200,98,Apartamento ,2,1,1, ASA NORTE
+3570,450,24,Kitnet ,1,,, NUCLEO BANDEIRANTE
+3571,3.500,40,Apartamento ,1,1,1, ASA SUL
+3572,1.250,26,Kitnet ,1,1,1, SUDOESTE
+3573,679,32,Apartamento ,1,1,, SAMAMBAIA
+3574,6.500,149,Apartamento ,3,3,2, AGUAS CLARAS
+3575,700,45,Kitnet ,1,,, SAMAMBAIA
+3576,1.300,35,Apartamento ,1,,, AGUAS CLARAS
+3577,4.800,147,Apartamento ,3,1,1, ASA NORTE
+3578,800,28,Kitnet ,1,,, SOBRADINHO
+3579,1.850,34,Kitnet ,1,1,1, LAGO NORTE
+3580,1.400,67,Apartamento ,3,1,1, CEILANDIA
+3581,1.700,56,Apartamento ,2,1,1, TAGUATINGA
+3582,17.000,160,Apartamento ,3,3,3, NOROESTE
+3583,1.700,43,Apartamento ,1,1,1, NOROESTE
+3584,650,48,Apartamento ,1,,, SOBRADINHO
+3585,800,28,Kitnet ,1,,, ASA NORTE
+3586,380,40,Apartamento ,1,,, SAMAMBAIA
+3587,3.550,95,Apartamento ,3,1,2, AGUAS CLARAS
+3588,4.500,130,Apartamento ,3,1,1, ASA NORTE
+3589,3.100,115,Apartamento ,2,1,, ASA SUL
+3590,3.100,80,Apartamento ,2,1,1, SUDOESTE
+3591,4.200,167,Apartamento ,4,3,3, AGUAS CLARAS
+3592,3.500,115,Apartamento ,4,1,1, AGUAS CLARAS
+3593,2.100,58,Apartamento ,2,1,1, AGUAS CLARAS
+3594,1.500,47,Apartamento ,2,,, ASA NORTE
+3595,1.000,60,Apartamento ,2,,, NUCLEO BANDEIRANTE
+3596,3.100,73,Apartamento ,2,,, ASA NORTE
+3597,2.300,73,Apartamento ,2,1,1, AGUAS CLARAS
+3598,1.300,70,Apartamento ,2,,, SOBRADINHO
+3599,650,25,Kitnet ,1,,, VILA PLANALTO
+3600,1.200,55,Apartamento ,2,1,1, TAGUATINGA
+3601,510,30,Kitnet ,1,,, VICENTE PIRES
+3602,990,37,Kitnet ,1,,, ASA NORTE
+3603,990,25,Kitnet ,1,1,1, ASA NORTE
+3604,1.300,37,Apartamento ,1,1,, OCTOGONAL
+3605,2.800,90,Apartamento ,3,,, ASA SUL
+3606,1.350,65,Apartamento ,2,1,, TAGUATINGA
+3607,700,28,Kitnet ,1,,, ASA NORTE
+3608,1.250,49,Apartamento ,2,1,, SAMAMBAIA
+3609,600,40,Kitnet ,1,,, CEILANDIA
+3610,2.800,105,Apartamento ,3,2,, AGUAS CLARAS
+3611,2.800,95,Apartamento ,3,,, ASA NORTE
+3612,1.350,30,Apartamento ,1,1,, SUDOESTE
+3613,1.400,0,Apartamento ,2,1,, GAMA
+3614,1.300,28,Kitnet ,1,1,, ASA SUL
+3615,3.700,93,Apartamento ,3,1,1, SUDOESTE
+3616,2.200,40,Apartamento ,1,1,, NOROESTE
+3617,1.300,36,Apartamento ,1,1,1, AGUAS CLARAS
+3618,1.500,37,Apartamento ,1,1,, AGUAS CLARAS
+3619,750,27,Kitnet ,1,,, ASA NORTE
+3620,1.000,25,Kitnet ,1,,, LAGO SUL
+3621,1.590,60,Apartamento ,1,1,1, AGUAS CLARAS
+3622,180.000,30,Kitnet ,1,1,, LAGO NORTE
+3623,2.200,40,Apartamento ,1,1,, SUDOESTE
+3624,6.300,181,Apartamento ,4,2,1, ASA NORTE
+3625,800,45,Apartamento ,1,,, RIACHO FUNDO
+3626,3.400,71,Apartamento ,2,1,, ASA NORTE
+3627,3.500,65,Apartamento ,2,1,1, ASA NORTE
+3628,1.250,39,Kitnet ,1,,, ASA NORTE
+3629,1.300,49,Apartamento ,2,1,, TAGUATINGA
+3630,1.900,40,Apartamento ,1,,, ASA SUL
+3631,1.950,28,Apartamento ,1,1,1, AGUAS CLARAS
+3632,1.700,72,Apartamento ,3,1,, GUARA
+3633,800,70,Apartamento ,3,,, NUCLEO BANDEIRANTE
+3634,1.200,60,Apartamento ,2,1,1, RIACHO FUNDO
+3635,4.200,40,Apartamento ,1,1,, ASA SUL
+3636,1.600,37,Apartamento ,1,1,, NOROESTE
+3637,3.000,70,Apartamento ,2,1,1, SUDOESTE
+3638,5.700,180,Apartamento ,4,1,1, ASA SUL
+3639,1.500,28,Apartamento ,1,1,, ASA NORTE
+3640,1.300,35,Kitnet ,1,1,, PARK SUL
+3641,1.000,46,Apartamento ,2,1,, AGUAS CLARAS
+3642,3.800,88,Apartamento ,2,1,, SUDOESTE
+3643,650,30,Apartamento ,1,,, GUARA
+3644,13.500,164,Apartamento ,4,4,2, PARK SUL
+3645,1.980,43,Apartamento ,1,1,, AGUAS CLARAS
+3646,2.000,88,Apartamento ,3,1,1, TAGUATINGA
+3647,6.000,131,Apartamento ,3,1,, ASA SUL
+3648,1.900,48,Apartamento ,1,1,, JARDINS MANGUEIRAL
+3649,790,45,Apartamento ,1,,, RECANTO DAS EMAS
+3650,1.800,28,Apartamento ,1,,, PARK SUL
+3651,3.350,95,Apartamento ,3,1,2, AGUAS CLARAS
+3652,5.600,110,Apartamento ,4,1,1, ASA NORTE
+3653,3.300,150,Apartamento ,3,1,1, TAGUATINGA
+3654,3.400,83,Apartamento ,3,1,2, AGUAS CLARAS
+3655,2.500,82,Apartamento ,3,1,1, TAGUATINGA
+3656,1.180,37,Apartamento ,1,,, ASA NORTE
+3657,1.900,93,Apartamento ,3,,, CRUZEIRO
+3658,700,50,Apartamento ,1,,, RIACHO FUNDO
+3659,1.550,31,Apartamento ,1,1,, ASA NORTE
+3660,1.200,70,Apartamento ,2,1,, TAGUATINGA
+3661,1.300,29,Kitnet ,1,,, ASA NORTE
+3662,6.500,150,Apartamento ,3,2,2, ASA SUL
+3663,4.900,130,Apartamento ,3,1,1, ASA SUL
+3664,4.200,38,Apartamento ,1,1,1, ASA NORTE
+3665,5.600,170,Apartamento ,3,1,1, ASA SUL
+3666,1.100,30,Kitnet ,1,1,, ASA NORTE
+3667,1.900,35,Kitnet ,1,1,, LAGO NORTE
+3668,1.400,30,Apartamento ,1,1,, ASA SUL
+3669,2.000,56,Apartamento ,2,,, ASA SUL
+3670,700,28,Kitnet ,1,,, ASA NORTE
+3671,1.100,50,Kitnet ,1,,, ASA NORTE
+3672,1.780,48,Apartamento ,2,,, ASA SUL
+3673,2.300,72,Apartamento ,2,1,, LAGO NORTE
+3674,4.200,95,Apartamento ,3,1,1, SUDOESTE
+3675,950,50,Apartamento ,2,,, GUARA
+3676,3.100,70,Apartamento ,2,1,1, SUDOESTE
+3677,1.250,30,Kitnet ,1,1,1, AGUAS CLARAS
+3678,3.850.000,150,Apartamento ,3,1,, ASA SUL
+3679,660,30,Apartamento ,1,,, TAGUATINGA
+3680,1.900,38,Apartamento ,1,1,1, AGUAS CLARAS
+3681,520,32,Apartamento ,1,,, GUARA
+3682,800,31,Kitnet ,1,,, ASA NORTE
+3683,1.500,77,Apartamento ,2,1,, NUCLEO BANDEIRANTE
+3684,2.000,37,Apartamento ,1,1,, NOROESTE
+3685,2.700,60,Apartamento ,2,1,, ASA NORTE
+3686,700,45,Kitnet ,1,,, SAMAMBAIA
+3687,850,35,Apartamento ,1,1,, TAGUATINGA
+3688,1.400,38,Apartamento ,1,,, ASA NORTE
+3689,1.450,76,Apartamento ,3,1,1, AGUAS CLARAS
+3690,3.200,96,Apartamento ,3,1,1, AGUAS CLARAS
+3691,2.400,67,Apartamento ,3,1,1, AGUAS CLARAS
+3692,2.450,30,Kitnet ,1,1,, NOROESTE
+3693,14.000,144,Apartamento ,3,3,3, NOROESTE
+3694,2.000,55,Apartamento ,2,1,1, TAGUATINGA
+3695,1.700,47,Apartamento ,2,1,, JARDINS MANGUEIRAL
+3696,6.100,100,Apartamento ,3,1,2, PARK SUL
+3697,600,50,Apartamento ,2,1,1, SANTA MARIA
+3698,2.100,56,Apartamento ,2,1,, AGUAS CLARAS
+3699,1.500,50,Apartamento ,2,1,1, AGUAS CLARAS
+3700,850,48,Apartamento ,2,,, GUARA
+3701,5.000,126,Apartamento ,3,1,1, ASA NORTE
+3702,2.000,56,Apartamento ,2,1,1, AGUAS CLARAS
+3703,700,56,Kitnet ,1,,, AGUAS CLARAS
+3704,2.500,79,Apartamento ,3,1,2, CEILANDIA
+3705,1.900,29,Apartamento ,1,1,1, AGUAS CLARAS
+3706,1.000,60,Apartamento ,2,,, NUCLEO BANDEIRANTE
+3707,950,35,Apartamento ,1,1,, RIACHO FUNDO
+3708,1.300,45,Apartamento ,1,,, ASA NORTE
+3709,700,36,Kitnet ,1,,, AGUAS CLARAS
+3710,1.900,37,Apartamento ,1,1,1, TAGUATINGA
+3711,1.000,29,Apartamento ,1,1,2, AGUAS CLARAS
+3712,670,30,Kitnet ,1,,, RIACHO FUNDO
+3713,950,47,Apartamento ,2,1,, TAGUATINGA
+3714,3.200,78,Apartamento ,2,1,, ASA NORTE
+3715,1.000,37,Kitnet ,1,1,, GUARA
+3716,2.000,40,Apartamento ,1,1,, TAGUATINGA
+3717,2.850,64,Apartamento ,1,1,1, AGUAS CLARAS
+3718,2.500,67,Apartamento ,2,1,, LAGO NORTE
+3719,1.100,70,Apartamento ,3,1,1, RIACHO FUNDO
+3720,1.100,33,Kitnet ,1,1,1, ASA SUL
+3721,850,33,Apartamento ,1,,, TAGUATINGA
+3722,1.700,37,Apartamento ,1,1,1, AGUAS CLARAS
+3723,1.400,39,Kitnet ,1,,, ASA NORTE
+3724,850,33,Apartamento ,1,,, TAGUATINGA
