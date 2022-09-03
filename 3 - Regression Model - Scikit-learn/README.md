@@ -6,6 +6,6 @@ This section is related to creating a model using the data from the previous ste
   
 Made using Scikit-learn library on Python.
 
-This folder includes the python jupyter notebook, and also the output model created running it.
+This folder includes the python jupyter notebook, the output model created running it, and also the scaler fitted with the training data.
   
   ———————————————————————————————
